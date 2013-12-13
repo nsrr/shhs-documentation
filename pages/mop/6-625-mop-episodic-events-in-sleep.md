@@ -8,8 +8,8 @@
       <div class="panel-heading">
         <h3 class="panel-title">EpFigure 1a - Sleep Spindle Activity</h3>
       </div>
-      <a href=":datasets_path:/shhs/images/e/ep1a.jpg?inline=1">
-        <img src=":datasets_path:/shhs/images/e/ep1a.jpg">
+      <a href=":images_path:/e/ep1a.jpg?inline=1">
+        <img src=":images_path:/e/ep1a.jpg">
       </a>
     </div>
   </div>
@@ -18,8 +18,8 @@
       <div class="panel-heading">
         <h3 class="panel-title">EpFigure 1b - Sleep Spindle Activity</h3>
       </div>
-      <a href=":datasets_path:/shhs/images/e/ep1b.jpg?inline=1">
-        <img src=":datasets_path:/shhs/images/e/ep1b.jpg">
+      <a href=":images_path:/e/ep1b.jpg?inline=1">
+        <img src=":images_path:/e/ep1b.jpg">
       </a>
     </div>
   </div>
@@ -47,8 +47,8 @@ Tips to alert to the presence of drug effects mimicking spindles are two or more
       <div class="panel-heading">
         <h3 class="panel-title">EpFigure 2a - Medication effects on spindles</h3>
       </div>
-      <a href=":datasets_path:/shhs/images/e/ep2a.jpg?inline=1">
-        <img src=":datasets_path:/shhs/images/e/ep2a.jpg">
+      <a href=":images_path:/e/ep2a.jpg?inline=1">
+        <img src=":images_path:/e/ep2a.jpg">
       </a>
     </div>
   </div>
@@ -57,8 +57,8 @@ Tips to alert to the presence of drug effects mimicking spindles are two or more
       <div class="panel-heading">
         <h3 class="panel-title">EpFigure 2b - Medication effects on spindles</h3>
       </div>
-      <a href=":datasets_path:/shhs/images/e/ep2b.jpg?inline=1">
-        <img src=":datasets_path:/shhs/images/e/ep2b.jpg">
+      <a href=":images_path:/e/ep2b.jpg?inline=1">
+        <img src=":images_path:/e/ep2b.jpg">
       </a>
     </div>
   </div>
@@ -81,8 +81,8 @@ Tips to alert to the presence of drug effects mimicking spindles are two or more
       <div class="panel-heading">
         <h3 class="panel-title">EpFigure 3a - Examples of K complexes</h3>
       </div>
-      <a href=":datasets_path:/shhs/images/e/ep3a.jpg?inline=1">
-        <img src=":datasets_path:/shhs/images/e/ep3a-thumbnail.jpg">
+      <a href=":images_path:/e/ep3a.jpg?inline=1">
+        <img src=":images_path:/e/ep3a-thumbnail.jpg">
       </a>
     </div>
   </div>
@@ -91,8 +91,8 @@ Tips to alert to the presence of drug effects mimicking spindles are two or more
       <div class="panel-heading">
         <h3 class="panel-title">EpFigure 3b - Examples of K complexes</h3>
       </div>
-      <a href=":datasets_path:/shhs/images/e/ep3b.jpg?inline=1">
-        <img src=":datasets_path:/shhs/images/e/ep3b-thumbnail.jpg">
+      <a href=":images_path:/e/ep3b.jpg?inline=1">
+        <img src=":images_path:/e/ep3b-thumbnail.jpg">
       </a>
     </div>
   </div>
@@ -101,8 +101,8 @@ Tips to alert to the presence of drug effects mimicking spindles are two or more
       <div class="panel-heading">
         <h3 class="panel-title">EpFigure 3c - Examples of K complexes</h3>
       </div>
-      <a href=":datasets_path:/shhs/images/e/ep3c.jpg?inline=1">
-        <img src=":datasets_path:/shhs/images/e/ep3c-thumbnail.jpg">
+      <a href=":images_path:/e/ep3c.jpg?inline=1">
+        <img src=":images_path:/e/ep3c-thumbnail.jpg">
       </a>
     </div>
   </div>
@@ -111,8 +111,8 @@ Tips to alert to the presence of drug effects mimicking spindles are two or more
       <div class="panel-heading">
         <h3 class="panel-title">EpFigure 3d - Examples of K complexes</h3>
       </div>
-      <a href=":datasets_path:/shhs/images/e/ep3d.jpg?inline=1">
-        <img src=":datasets_path:/shhs/images/e/ep3d-thumbnail.jpg">
+      <a href=":images_path:/e/ep3d.jpg?inline=1">
+        <img src=":images_path:/e/ep3d-thumbnail.jpg">
       </a>
     </div>
   </div>
@@ -129,8 +129,8 @@ In children, this actually may be exaggerated.  It is relatively more common dur
       <div class="panel-heading">
         <h3 class="panel-title">EpFigure 4a - Hypersynchrony</h3>
       </div>
-      <a href=":datasets_path:/shhs/images/e/ep4a.jpg?inline=1">
-        <img src=":datasets_path:/shhs/images/e/ep4a-thumbnail.jpg">
+      <a href=":images_path:/e/ep4a.jpg?inline=1">
+        <img src=":images_path:/e/ep4a-thumbnail.jpg">
       </a>
     </div>
   </div>
@@ -139,8 +139,8 @@ In children, this actually may be exaggerated.  It is relatively more common dur
       <div class="panel-heading">
         <h3 class="panel-title">EpFigure 4b - Hypersynchrony</h3>
       </div>
-      <a href=":datasets_path:/shhs/images/e/ep4b.jpg?inline=1">
-        <img src=":datasets_path:/shhs/images/e/ep4b-thumbnail.jpg">
+      <a href=":images_path:/e/ep4b.jpg?inline=1">
+        <img src=":images_path:/e/ep4b-thumbnail.jpg">
       </a>
     </div>
   </div>
@@ -149,8 +149,8 @@ In children, this actually may be exaggerated.  It is relatively more common dur
       <div class="panel-heading">
         <h3 class="panel-title">EpFigure 4c - Hypersynchrony</h3>
       </div>
-      <a href=":datasets_path:/shhs/images/e/ep4c.jpg?inline=1">
-        <img src=":datasets_path:/shhs/images/e/ep4c-thumbnail.jpg">
+      <a href=":images_path:/e/ep4c.jpg?inline=1">
+        <img src=":images_path:/e/ep4c-thumbnail.jpg">
       </a>
     </div>
   </div>
@@ -159,8 +159,8 @@ In children, this actually may be exaggerated.  It is relatively more common dur
       <div class="panel-heading">
         <h3 class="panel-title">EpFigure 4d - Hypersynchrony</h3>
       </div>
-      <a href=":datasets_path:/shhs/images/e/ep4d.jpg?inline=1">
-        <img src=":datasets_path:/shhs/images/e/ep4d-thumbnail.jpg">
+      <a href=":images_path:/e/ep4d.jpg?inline=1">
+        <img src=":images_path:/e/ep4d-thumbnail.jpg">
       </a>
     </div>
   </div>
@@ -176,8 +176,8 @@ In children, this actually may be exaggerated.  It is relatively more common dur
       <div class="panel-heading">
         <h3 class="panel-title">EpFigure 5a - Seizure discharges</h3>
       </div>
-      <a href=":datasets_path:/shhs/images/e/ep5a.jpg?inline=1">
-        <img src=":datasets_path:/shhs/images/e/ep5a.jpg">
+      <a href=":images_path:/e/ep5a.jpg?inline=1">
+        <img src=":images_path:/e/ep5a.jpg">
       </a>
     </div>
   </div>
@@ -186,8 +186,8 @@ In children, this actually may be exaggerated.  It is relatively more common dur
       <div class="panel-heading">
         <h3 class="panel-title">EpFigure 5b - Seizure discharges</h3>
       </div>
-      <a href=":datasets_path:/shhs/images/e/ep5b.jpg?inline=1">
-        <img src=":datasets_path:/shhs/images/e/ep5b.jpg">
+      <a href=":images_path:/e/ep5b.jpg?inline=1">
+        <img src=":images_path:/e/ep5b.jpg">
       </a>
     </div>
   </div>
@@ -199,8 +199,8 @@ In children, this actually may be exaggerated.  It is relatively more common dur
       <div class="panel-heading">
         <h3 class="panel-title">EpFigure 5c - Seizure discharges</h3>
       </div>
-      <a href=":datasets_path:/shhs/images/e/ep5c.jpg?inline=1">
-        <img src=":datasets_path:/shhs/images/e/ep5c-thumbnail.jpg">
+      <a href=":images_path:/e/ep5c.jpg?inline=1">
+        <img src=":images_path:/e/ep5c-thumbnail.jpg">
       </a>
     </div>
   </div>
@@ -209,8 +209,8 @@ In children, this actually may be exaggerated.  It is relatively more common dur
       <div class="panel-heading">
         <h3 class="panel-title">EpFigure 5d - Seizure discharges</h3>
       </div>
-      <a href=":datasets_path:/shhs/images/e/ep5d.jpg?inline=1">
-        <img src=":datasets_path:/shhs/images/e/ep5d-thumbnail.jpg">
+      <a href=":images_path:/e/ep5d.jpg?inline=1">
+        <img src=":images_path:/e/ep5d-thumbnail.jpg">
       </a>
     </div>
   </div>
@@ -219,8 +219,8 @@ In children, this actually may be exaggerated.  It is relatively more common dur
       <div class="panel-heading">
         <h3 class="panel-title">EpFigure 5e - Seizure discharges</h3>
       </div>
-      <a href=":datasets_path:/shhs/images/e/ep5e.jpg?inline=1">
-        <img src=":datasets_path:/shhs/images/e/ep5e-thumbnail.jpg">
+      <a href=":images_path:/e/ep5e.jpg?inline=1">
+        <img src=":images_path:/e/ep5e-thumbnail.jpg">
       </a>
     </div>
   </div>
