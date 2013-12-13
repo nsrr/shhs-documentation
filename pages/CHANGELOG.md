@@ -14,7 +14,7 @@
 
 ### December 3, 2013
 
-- The SHHS data dictionary is now searchable on [sleepdata.org/collection](/collection). Browse around, explore variables across datasets, and request access to receive a download of the SHHS dataset!
+- The SHHS data dictionary is now searchable on [sleepdata.org/collection](/collection?d=shhs). Browse around, explore variables across datasets, and request access to receive a download of the SHHS dataset!
 
 ### November 18, 2013
 
@@ -22,9 +22,9 @@
 
 ### November 5, 2013
 
-- We added the complete list of [variables](/collection) and domains based on the [v0.1.0 tag](https://github.com/sleepepi/shhs-data-dictionary/tree/v0.1.0) of the SHHS data dictionary.
-- A notable variable we'd like to highlight is [rdi3p](/collection?s=rdi3p).
-    - Commonly used index composed of all [central](/collection?s=central+3%25) and [obstructive](/collection?s=obstructive+3%25) apneas with at least 3% oxygen desaturation over the [total sleep time](/collection?s=slpprdp).
+- We added the complete list of [variables](/collection?d=shhs) and domains based on the [v0.1.0 tag](https://github.com/sleepepi/shhs-data-dictionary/tree/v0.1.0) of the SHHS data dictionary.
+- A notable variable we'd like to highlight is [rdi3p](/collection?d=shhs&s=rdi3p).
+    - Commonly used index composed of all [central](/collection?d=shhs&s=central+3%25) and [obstructive](/collection?d=shhs&s=obstructive+3%25) apneas with at least 3% oxygen desaturation over the [total sleep time](/collection?d=shhs&s=slpprdp).
 
 
 ### October 23, 2013

@@ -50,7 +50,7 @@ Annotated data collection forms are available in the files download section.
 
 ### December 3, 2013
 
-- The SHHS data dictionary is now searchable on [sleepdata.org/collection](/collection). Browse around, explore variables across datasets, and request access to receive a download of the SHHS dataset!
+- The SHHS data dictionary is now searchable on [sleepdata.org/collection](/collection?d=shhs). Browse around, explore variables across datasets, and request access to receive a download of the SHHS dataset!
 
 ### Prior Changes
 
