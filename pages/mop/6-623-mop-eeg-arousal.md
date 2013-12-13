@@ -105,7 +105,66 @@ Arousals lasting > 15 s. and containing awake EEG within an epoch cause the epoc
 - When unsure if change in background EEG represents an abrupt change, look at a 60 sec epoch and note if there is a discrete change from background EEG.
 - Note whether changes were evident on both EEG channels.
 - Be careful to distinguish an increase in EEG frequency from EMG artifact (esp. in delta sleep).  (ArFigures 3a and 3b).
+
+<div class="row">
+  <div class="col-xs-12 col-sm-6">
+    <div class="panel panel-default">
+      <div class="panel-heading">
+        <h3 class="panel-title">ArFigure 3a - Increase in EEG frequency from EMG artifact</h3>
+      </div>
+      <a href=":datasets_path:/shhs/images/a/ar3a.jpg?inline=1">
+        <img src=":datasets_path:/shhs/images/a/ar3a.jpg">
+      </a>
+    </div>
+  </div>
+  <div class="col-xs-12 col-sm-6">
+    <div class="panel panel-default">
+      <div class="panel-heading">
+        <h3 class="panel-title">ArFigure 3b - Increase in EEG frequency from EMG artifact</h3>
+      </div>
+      <a href=":datasets_path:/shhs/images/a/ar3b.jpg?inline=1">
+        <img src=":datasets_path:/shhs/images/a/ar3b.jpg">
+      </a>
+    </div>
+  </div>
+</div>
+
+
 - Isolated bursts of delta activity or sawtooth-like waves do not constitute an arousal.  In contrast, slow waves intermixed with fast activity that differs from background do qualify as arousals.  (ArFigures 4a, 4b and 4c.)
+
+<div class="row">
+  <div class="col-xs-12 col-sm-4">
+    <div class="panel panel-default">
+      <div class="panel-heading">
+        <h3 class="panel-title">ArFigure 4a - Burst of Delta Activity or Sawtooh-like Waves - not arousals</h3>
+      </div>
+      <a href=":datasets_path:/shhs/images/a/ar4a.jpg?inline=1">
+        <img src=":datasets_path:/shhs/images/a/ar4a.jpg">
+      </a>
+    </div>
+  </div>
+  <div class="col-xs-12 col-sm-4">
+    <div class="panel panel-default">
+      <div class="panel-heading">
+        <h3 class="panel-title">ArFigure 4b - Burst of Delta Activity or Sawtooh-like Waves - not arousals</h3>
+      </div>
+      <a href=":datasets_path:/shhs/images/a/ar4b.jpg?inline=1">
+        <img src=":datasets_path:/shhs/images/a/ar4b.jpg">
+      </a>
+    </div>
+  </div>
+  <div class="col-xs-12 col-sm-4">
+    <div class="panel panel-default">
+      <div class="panel-heading">
+        <h3 class="panel-title">ArFigure 4c - Burst of Delta Activity or Sawtooh-like Waves - not arousals</h3>
+      </div>
+      <a href=":datasets_path:/shhs/images/a/ar4c.jpg?inline=1">
+        <img src=":datasets_path:/shhs/images/a/ar4c.jpg">
+      </a>
+    </div>
+  </div>
+</div>
+
 - Occasionally, EEG acceleration is superimposed on slower waves.  The slowing may be an artifact secondary to movement or burst of delta waves. If there is evidence of embedded EEG acceleration for > 3 sec., mark as an arousal. (ArFigures 5a and 5b)
 
 <div class="row">
@@ -134,6 +193,39 @@ Arousals lasting > 15 s. and containing awake EEG within an epoch cause the epoc
 <u>Arousals in REM</u>
 
 In stage REM, an EEG frequency shift must be accompanied by a simultaneous increase in amplitude of the chin EMG (lasting over 0.5 s.).  An arousal starts when a definite change in background EEG is visualized.  The increase in the chin EMG can occur anytime during the arousal (can be at the end) and is not a marker for the beginning of the arousal  However, increased EMG activity without a change in background EEG does not constitute an arousal (ArFigures 6a, 6b and 6c)
+
+<div class="row">
+  <div class="col-xs-12 col-sm-4">
+    <div class="panel panel-default">
+      <div class="panel-heading">
+        <h3 class="panel-title">ArFigure 6a - Arousals in REM, EMG activity</h3>
+      </div>
+      <a href=":datasets_path:/shhs/images/a/ar6a.jpg?inline=1">
+        <img src=":datasets_path:/shhs/images/a/ar6a.jpg">
+      </a>
+    </div>
+  </div>
+  <div class="col-xs-12 col-sm-4">
+    <div class="panel panel-default">
+      <div class="panel-heading">
+        <h3 class="panel-title">ArFigure 6b - Arousals in REM, EMG activity</h3>
+      </div>
+      <a href=":datasets_path:/shhs/images/a/ar6b.jpg?inline=1">
+        <img src=":datasets_path:/shhs/images/a/ar6b.jpg">
+      </a>
+    </div>
+  </div>
+  <div class="col-xs-12 col-sm-4">
+    <div class="panel panel-default">
+      <div class="panel-heading">
+        <h3 class="panel-title">ArFigure 6c - Arousals in REM, EMG activity</h3>
+      </div>
+      <a href=":datasets_path:/shhs/images/a/ar6c.jpg?inline=1">
+        <img src=":datasets_path:/shhs/images/a/ar6c.jpg">
+      </a>
+    </div>
+  </div>
+</div>
 
 **TIPS for Arousals in REM:**
 
