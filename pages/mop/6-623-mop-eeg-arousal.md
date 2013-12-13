@@ -15,7 +15,7 @@ An EEG arousal is an abrupt shift in EEG frequency, which may include alpha and/
         <h3 class="panel-title">ArFigure 1a - Sample Arousals</h3>
       </div>
       <a href=":datasets_path:/shhs/images/a/ar1a.jpg?inline=1">
-        <img src=":datasets_path:/shhs/images/a/ar1a.jpg">
+        <img src=":datasets_path:/shhs/images/a/ar1a-thumbnail.jpg">
       </a>
     </div>
   </div>
@@ -25,7 +25,7 @@ An EEG arousal is an abrupt shift in EEG frequency, which may include alpha and/
         <h3 class="panel-title">ArFigure 1b - Sample Arousals</h3>
       </div>
       <a href=":datasets_path:/shhs/images/a/ar1b.jpg?inline=1">
-        <img src=":datasets_path:/shhs/images/a/ar1b.jpg">
+        <img src=":datasets_path:/shhs/images/a/ar1b-thumbnail.jpg">
       </a>
     </div>
   </div>
@@ -40,7 +40,7 @@ Artifacts, K complexes and delta waves are included in meeting the 3 s. duration
         <h3 class="panel-title">ArFigure 2a - Sample Artifacts</h3>
       </div>
       <a href=":datasets_path:/shhs/images/a/ar2a.jpg?inline=1">
-        <img src=":datasets_path:/shhs/images/a/ar2a.jpg">
+        <img src=":datasets_path:/shhs/images/a/ar2a-thumbnail.jpg">
       </a>
     </div>
   </div>
@@ -50,7 +50,7 @@ Artifacts, K complexes and delta waves are included in meeting the 3 s. duration
         <h3 class="panel-title">ArFigure 2b - Sample Artifacts</h3>
       </div>
       <a href=":datasets_path:/shhs/images/a/ar2b.jpg?inline=1">
-        <img src=":datasets_path:/shhs/images/a/ar2b.jpg">
+        <img src=":datasets_path:/shhs/images/a/ar2b-thumbnail.jpg">
       </a>
     </div>
   </div>
@@ -63,7 +63,7 @@ Artifacts, K complexes and delta waves are included in meeting the 3 s. duration
         <h3 class="panel-title">ArFigure 2c - Sample Artifacts</h3>
       </div>
       <a href=":datasets_path:/shhs/images/a/ar2c.jpg?inline=1">
-        <img src=":datasets_path:/shhs/images/a/ar2c.jpg">
+        <img src=":datasets_path:/shhs/images/a/ar2c-thumbnail.jpg">
       </a>
     </div>
   </div>
@@ -73,7 +73,7 @@ Artifacts, K complexes and delta waves are included in meeting the 3 s. duration
         <h3 class="panel-title">ArFigure 2d - Sample Artifacts</h3>
       </div>
       <a href=":datasets_path:/shhs/images/a/ar2d.jpg?inline=1">
-        <img src=":datasets_path:/shhs/images/a/ar2d.jpg">
+        <img src=":datasets_path:/shhs/images/a/ar2d-thumbnail.jpg">
       </a>
     </div>
   </div>
@@ -88,7 +88,7 @@ Parts of the EEG totally obscured by EMG artifact are considered an arousal if t
         <h3 class="panel-title">ArFigure 2e - Sample Artifacts</h3>
       </div>
       <a href=":datasets_path:/shhs/images/a/ar2e.jpg?inline=1">
-        <img src=":datasets_path:/shhs/images/a/ar2e.jpg">
+        <img src=":datasets_path:/shhs/images/a/ar2e-thumbnail.jpg">
       </a>
     </div>
   </div>
@@ -113,7 +113,7 @@ Arousals lasting > 15 s. and containing awake EEG within an epoch cause the epoc
         <h3 class="panel-title">ArFigure 3a - Increase in EEG frequency from EMG artifact</h3>
       </div>
       <a href=":datasets_path:/shhs/images/a/ar3a.jpg?inline=1">
-        <img src=":datasets_path:/shhs/images/a/ar3a.jpg">
+        <img src=":datasets_path:/shhs/images/a/ar3a-thumbnail.jpg">
       </a>
     </div>
   </div>
@@ -123,7 +123,7 @@ Arousals lasting > 15 s. and containing awake EEG within an epoch cause the epoc
         <h3 class="panel-title">ArFigure 3b - Increase in EEG frequency from EMG artifact</h3>
       </div>
       <a href=":datasets_path:/shhs/images/a/ar3b.jpg?inline=1">
-        <img src=":datasets_path:/shhs/images/a/ar3b.jpg">
+        <img src=":datasets_path:/shhs/images/a/ar3b-thumbnail.jpg">
       </a>
     </div>
   </div>
@@ -139,7 +139,7 @@ Arousals lasting > 15 s. and containing awake EEG within an epoch cause the epoc
         <h3 class="panel-title">ArFigure 4a - Burst of Delta Activity or Sawtooh-like Waves - not arousals</h3>
       </div>
       <a href=":datasets_path:/shhs/images/a/ar4a.jpg?inline=1">
-        <img src=":datasets_path:/shhs/images/a/ar4a.jpg">
+        <img src=":datasets_path:/shhs/images/a/ar4a-thumbnail.jpg">
       </a>
     </div>
   </div>
@@ -149,7 +149,7 @@ Arousals lasting > 15 s. and containing awake EEG within an epoch cause the epoc
         <h3 class="panel-title">ArFigure 4b - Burst of Delta Activity or Sawtooh-like Waves - not arousals</h3>
       </div>
       <a href=":datasets_path:/shhs/images/a/ar4b.jpg?inline=1">
-        <img src=":datasets_path:/shhs/images/a/ar4b.jpg">
+        <img src=":datasets_path:/shhs/images/a/ar4b-thumbnail.jpg">
       </a>
     </div>
   </div>
@@ -159,7 +159,7 @@ Arousals lasting > 15 s. and containing awake EEG within an epoch cause the epoc
         <h3 class="panel-title">ArFigure 4c - Burst of Delta Activity or Sawtooh-like Waves - not arousals</h3>
       </div>
       <a href=":datasets_path:/shhs/images/a/ar4c.jpg?inline=1">
-        <img src=":datasets_path:/shhs/images/a/ar4c.jpg">
+        <img src=":datasets_path:/shhs/images/a/ar4c-thumbnail.jpg">
       </a>
     </div>
   </div>
@@ -174,7 +174,7 @@ Arousals lasting > 15 s. and containing awake EEG within an epoch cause the epoc
         <h3 class="panel-title">ArFigure 5a - EEG accleration</h3>
       </div>
       <a href=":datasets_path:/shhs/images/a/ar5a.jpg?inline=1">
-        <img src=":datasets_path:/shhs/images/a/ar5a.jpg">
+        <img src=":datasets_path:/shhs/images/a/ar5a-thumbnail.jpg">
       </a>
     </div>
   </div>
@@ -184,7 +184,7 @@ Arousals lasting > 15 s. and containing awake EEG within an epoch cause the epoc
         <h3 class="panel-title">ArFigure 5b - EEG accleration</h3>
       </div>
       <a href=":datasets_path:/shhs/images/a/ar5b.jpg?inline=1">
-        <img src=":datasets_path:/shhs/images/a/ar5b.jpg">
+        <img src=":datasets_path:/shhs/images/a/ar5b-thumbnail.jpg">
       </a>
     </div>
   </div>
@@ -201,7 +201,7 @@ In stage REM, an EEG frequency shift must be accompanied by a simultaneous incre
         <h3 class="panel-title">ArFigure 6a - Arousals in REM, EMG activity</h3>
       </div>
       <a href=":datasets_path:/shhs/images/a/ar6a.jpg?inline=1">
-        <img src=":datasets_path:/shhs/images/a/ar6a.jpg">
+        <img src=":datasets_path:/shhs/images/a/ar6a-thumbnail.jpg">
       </a>
     </div>
   </div>
@@ -211,7 +211,7 @@ In stage REM, an EEG frequency shift must be accompanied by a simultaneous incre
         <h3 class="panel-title">ArFigure 6b - Arousals in REM, EMG activity</h3>
       </div>
       <a href=":datasets_path:/shhs/images/a/ar6b.jpg?inline=1">
-        <img src=":datasets_path:/shhs/images/a/ar6b.jpg">
+        <img src=":datasets_path:/shhs/images/a/ar6b-thumbnail.jpg">
       </a>
     </div>
   </div>
@@ -221,7 +221,7 @@ In stage REM, an EEG frequency shift must be accompanied by a simultaneous incre
         <h3 class="panel-title">ArFigure 6c - Arousals in REM, EMG activity</h3>
       </div>
       <a href=":datasets_path:/shhs/images/a/ar6c.jpg?inline=1">
-        <img src=":datasets_path:/shhs/images/a/ar6c.jpg">
+        <img src=":datasets_path:/shhs/images/a/ar6c-thumbnail.jpg">
       </a>
     </div>
   </div>
