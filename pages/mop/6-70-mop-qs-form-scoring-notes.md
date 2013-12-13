@@ -144,9 +144,9 @@ If periods of data loss occurs in the middle of the study:
 
 <div class="center">
 <div class="btn-group">
-  <a href=":datasets_path:/shhs/pages/mop/6-60-mop-scoring-procedures.md" class="btn btn-default">
+  <a href=":datasets_path:/shhs/pages/mop/6-628-mop-dealing-with-ambiguous-respiratory-events.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
-    6. Scoring Procedures
+    6.2.8 Dealing with ambiguous respiratory events
   </a>
 
   <a href=":datasets_path:/shhs/pages/mop/6-00-mop-toc.md" class="btn btn-default">

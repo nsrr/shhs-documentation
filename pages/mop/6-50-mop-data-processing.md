@@ -83,8 +83,8 @@ The summary scored data (>760 SHHS variables) are output as individual .txt file
     Table of Contents
   </a>
 
-  <a href=":datasets_path:/shhs/pages/mop/6-60-mop-scoring-procedures.md" class="btn btn-success">
-    6. Scoring Procedures
+  <a href=":datasets_path:/shhs/pages/mop/6-610-mop-overview-of-scoring.md" class="btn btn-success">
+    6.1 Overview of Scoring
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
 </div>
