@@ -34,7 +34,7 @@ An EEG arousal is an abrupt shift in EEG frequency, which may include alpha and/
 Artifacts, K complexes and delta waves are included in meeting the 3 s. duration criteria only when they occur within the EEG frequency shift (change in frequency must be visible before these waveforms).   A "K" complex or spindle occurring immediately prior to the EEG shift or following is not included in the arousal duration.  (ArFigures 2a, 2b, 2c and 2d)
 
 <div class="row">
-  <div class="col-xs-12 col-sm-6">
+  <div class="col-xs-12 col-sm-6 col-md-3">
     <div class="panel panel-default">
       <div class="panel-heading">
         <h3 class="panel-title">ArFigure 2a - Sample Artifacts</h3>
@@ -44,7 +44,7 @@ Artifacts, K complexes and delta waves are included in meeting the 3 s. duration
       </a>
     </div>
   </div>
-  <div class="col-xs-12 col-sm-6">
+  <div class="col-xs-12 col-sm-6 col-md-3">
     <div class="panel panel-default">
       <div class="panel-heading">
         <h3 class="panel-title">ArFigure 2b - Sample Artifacts</h3>
@@ -54,10 +54,7 @@ Artifacts, K complexes and delta waves are included in meeting the 3 s. duration
       </a>
     </div>
   </div>
-</div>
-
-<div class="row">
-  <div class="col-xs-12 col-sm-6">
+  <div class="col-xs-12 col-sm-6 col-md-3">
     <div class="panel panel-default">
       <div class="panel-heading">
         <h3 class="panel-title">ArFigure 2c - Sample Artifacts</h3>
@@ -67,7 +64,7 @@ Artifacts, K complexes and delta waves are included in meeting the 3 s. duration
       </a>
     </div>
   </div>
-  <div class="col-xs-12 col-sm-6">
+  <div class="col-xs-12 col-sm-6 col-md-3">
     <div class="panel panel-default">
       <div class="panel-heading">
         <h3 class="panel-title">ArFigure 2d - Sample Artifacts</h3>
