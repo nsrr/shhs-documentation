@@ -51,17 +51,17 @@ Site visits, coordinated by the CC, will occur as directed by the Steering Commi
 
 <div class="center">
 <div class="btn-group">
-  <a href=":datasets_path:/shhs/pages/mop/6-30-mop-certification-and-qa.md" class="btn btn-default">
+  <a href=":pages_path:/mop/6-30-mop-certification-and-qa.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
     3. Certification and QA
   </a>
 
-  <a href=":datasets_path:/shhs/pages/mop/6-00-mop-toc.md" class="btn btn-default">
+  <a href=":pages_path:/mop/6-00-mop-toc.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-up"></span>
     Table of Contents
   </a>
 
-  <a href=":datasets_path:/shhs/pages/mop/6-50-mop-data-processing.md" class="btn btn-success">
+  <a href=":pages_path:/mop/6-50-mop-data-processing.md" class="btn btn-success">
     5. Data Processing
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>

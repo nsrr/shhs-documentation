@@ -14,17 +14,17 @@ Sleep onset is defined by three consecutive epochs of stage 1 or one epoch of an
 
 <div class="center">
 <div class="btn-group">
-  <a href=":datasets_path:/shhs/pages/mop/6-621-mop-rules-for-assigning-epoch-specific-sleep-score.md" class="btn btn-default">
+  <a href=":pages_path:/mop/6-621-mop-rules-for-assigning-epoch-specific-sleep-score.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
     6.2.1 Rules for assigning epoch-specific sleep score
   </a>
 
-  <a href=":datasets_path:/shhs/pages/mop/6-00-mop-toc.md" class="btn btn-default">
+  <a href=":pages_path:/mop/6-00-mop-toc.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-up"></span>
     Table of Contents
   </a>
 
-  <a href=":datasets_path:/shhs/pages/mop/6-623-mop-eeg-arousal.md" class="btn btn-success">
+  <a href=":pages_path:/mop/6-623-mop-eeg-arousal.md" class="btn btn-success">
     6.2.3 EEG arousal
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>

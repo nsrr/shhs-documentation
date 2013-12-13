@@ -79,17 +79,17 @@ Respiratory screens reflect 5 minute/page timebase, unless otherwise stated.
 
 <div class="center">
 <div class="btn-group">
-  <a href=":datasets_path:/shhs/pages/mop/6-70-mop-qs-form-scoring-notes.md" class="btn btn-default">
+  <a href=":pages_path:/mop/6-70-mop-qs-form-scoring-notes.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
     7. QS Form - Scoring Notes
   </a>
 
-  <a href=":datasets_path:/shhs/pages/mop/6-00-mop-toc.md" class="btn btn-default">
+  <a href=":pages_path:/mop/6-00-mop-toc.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-up"></span>
     Table of Contents
   </a>
 
-  <a href=":datasets_path:/shhs/pages/mop/6-AB-mop-sample-qs-form.md" class="btn btn-success">
+  <a href=":pages_path:/mop/6-AB-mop-sample-qs-form.md" class="btn btn-success">
     Appendix B - Sample QS Form
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>

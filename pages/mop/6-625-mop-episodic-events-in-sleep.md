@@ -230,17 +230,17 @@ In children, this actually may be exaggerated.  It is relatively more common dur
 
 <div class="center">
 <div class="btn-group">
-  <a href=":datasets_path:/shhs/pages/mop/6-624-mop-rules-for-assigning-sleep-stages-when-arousal-is-present-in-the-epoch.md" class="btn btn-default">
+  <a href=":pages_path:/mop/6-624-mop-rules-for-assigning-sleep-stages-when-arousal-is-present-in-the-epoch.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
     6.2.4 Rules for assigning sleep stages when arousal is present in the epoch
   </a>
 
-  <a href=":datasets_path:/shhs/pages/mop/6-00-mop-toc.md" class="btn btn-default">
+  <a href=":pages_path:/mop/6-00-mop-toc.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-up"></span>
     Table of Contents
   </a>
 
-  <a href=":datasets_path:/shhs/pages/mop/6-626-mop-rules-for-assigning-sleep-stages.md" class="btn btn-success">
+  <a href=":pages_path:/mop/6-626-mop-rules-for-assigning-sleep-stages.md" class="btn btn-success">
     6.2.6 Rules for assigning sleep stages
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>

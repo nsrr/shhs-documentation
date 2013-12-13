@@ -23,17 +23,17 @@ In  Deep Sleep (unequivocal Stage 3/4), <u>when fast frequency waves are visuali
 
 <div class="center">
 <div class="btn-group">
-  <a href=":datasets_path:/shhs/pages/mop/6-623-mop-eeg-arousal.md" class="btn btn-default">
+  <a href=":pages_path:/mop/6-623-mop-eeg-arousal.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
     6.2.3 EEG arousal
   </a>
 
-  <a href=":datasets_path:/shhs/pages/mop/6-00-mop-toc.md" class="btn btn-default">
+  <a href=":pages_path:/mop/6-00-mop-toc.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-up"></span>
     Table of Contents
   </a>
 
-  <a href=":datasets_path:/shhs/pages/mop/6-625-mop-episodic-events-in-sleep.md" class="btn btn-success">
+  <a href=":pages_path:/mop/6-625-mop-episodic-events-in-sleep.md" class="btn btn-success">
     6.2.5 Episodic events in sleep
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>

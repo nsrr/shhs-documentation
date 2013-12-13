@@ -9,12 +9,12 @@
 
 <div class="center">
 <div class="btn-group">
-  <a href=":datasets_path:/shhs/pages/mop/6-AB-mop-sample-qs-form.md" class="btn btn-default">
+  <a href=":pages_path:/mop/6-AB-mop-sample-qs-form.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
     Appendix B – Sample QS Form
   </a>
 
-  <a href=":datasets_path:/shhs/pages/mop/6-00-mop-toc.md" class="btn btn-default">
+  <a href=":pages_path:/mop/6-00-mop-toc.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-up"></span>
     Table of Contents
   </a>

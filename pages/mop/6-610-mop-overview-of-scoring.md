@@ -88,17 +88,17 @@ Finally, the following will be done:
 
 <div class="center">
 <div class="btn-group">
-  <a href=":datasets_path:/shhs/pages/mop/6-50-mop-data-processing.md" class="btn btn-default">
+  <a href=":pages_path:/mop/6-50-mop-data-processing.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
     5. Data Processing
   </a>
 
-  <a href=":datasets_path:/shhs/pages/mop/6-00-mop-toc.md" class="btn btn-default">
+  <a href=":pages_path:/mop/6-00-mop-toc.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-up"></span>
     Table of Contents
   </a>
 
-  <a href=":datasets_path:/shhs/pages/mop/6-620-mop-scoring-rules.md" class="btn btn-success">
+  <a href=":pages_path:/mop/6-620-mop-scoring-rules.md" class="btn btn-success">
     6.2 Scoring Rules
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>

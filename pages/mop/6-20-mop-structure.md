@@ -12,17 +12,17 @@ Three to five scorers will be charged with the responsibility of directly scorin
 
 <div class="center">
 <div class="btn-group">
-  <a href=":datasets_path:/shhs/pages/mop/6-10-mop-objectives.md" class="btn btn-default">
+  <a href=":pages_path:/mop/6-10-mop-objectives.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
     1. Objectives
   </a>
 
-  <a href=":datasets_path:/shhs/pages/mop/6-00-mop-toc.md" class="btn btn-default">
+  <a href=":pages_path:/mop/6-00-mop-toc.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-up"></span>
     Table of Contents
   </a>
 
-  <a href=":datasets_path:/shhs/pages/mop/6-30-mop-certification-and-qa.md" class="btn btn-success">
+  <a href=":pages_path:/mop/6-30-mop-certification-and-qa.md" class="btn btn-success">
     3. Certification and QA
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>

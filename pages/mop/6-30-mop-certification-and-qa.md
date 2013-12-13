@@ -21,17 +21,17 @@ The CP (or designee) will review (epoch by epoch) the first 10 records scored by
 
 <div class="center">
 <div class="btn-group">
-  <a href=":datasets_path:/shhs/pages/mop/6-20-mop-structure.md" class="btn btn-default">
+  <a href=":pages_path:/mop/6-20-mop-structure.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
     2. Structure
   </a>
 
-  <a href=":datasets_path:/shhs/pages/mop/6-00-mop-toc.md" class="btn btn-default">
+  <a href=":pages_path:/mop/6-00-mop-toc.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-up"></span>
     Table of Contents
   </a>
 
-  <a href=":datasets_path:/shhs/pages/mop/6-40-mop-quality-assurance-and-control.md" class="btn btn-success">
+  <a href=":pages_path:/mop/6-40-mop-quality-assurance-and-control.md" class="btn btn-success">
     4. Quality Assurance and Quality Control
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>

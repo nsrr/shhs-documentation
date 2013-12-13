@@ -1,6 +1,6 @@
 ## 7. QS Form - Scoring Notes
 
-See [Appendix B](:datasets_path:/shhs/pages/mop/6-AB-mop-sample-qs-form.md) for sample QS form
+See [Appendix B](:pages_path:/mop/6-AB-mop-sample-qs-form.md) for sample QS form
 
 The following are coded on the QS Form during the scoring of each study:
 
@@ -53,19 +53,19 @@ Studies may still be of sufficient quality to stage sleep.
 
 The following patterns are also noted on the QS form:
 
-- Abnormal Awake EEG:  when the waking EEG background rhythm consists of waves in the theta range.  This should be distinguished from presence of theta waves as a result of excessive sleepiness, which will disappear after some period of sleep, and may indicate a neurological disorder or toxicity  ([QSFigure](:datasets_path:/shhs/pages/mop/6-AA-mop-list-of-illustrations.md) 1a and 1b).
+- Abnormal Awake EEG:  when the waking EEG background rhythm consists of waves in the theta range.  This should be distinguished from presence of theta waves as a result of excessive sleepiness, which will disappear after some period of sleep, and may indicate a neurological disorder or toxicity  ([QSFigure](:pages_path:/mop/6-AA-mop-list-of-illustrations.md) 1a and 1b).
 
-- Physiologic alpha intrusion - when alpha rhythm is present in more than 40% of Non-REM sleep,  Alpha delta sleep ([QSFigure](:datasets_path:/shhs/pages/mop/6-AA-mop-list-of-illustrations.md) 2a, 2b, and 2c).
+- Physiologic alpha intrusion - when alpha rhythm is present in more than 40% of Non-REM sleep,  Alpha delta sleep ([QSFigure](:pages_path:/mop/6-AA-mop-list-of-illustrations.md) 2a, 2b, and 2c).
 
-- Alpha artifact-when alpha range activity is seen throughout all periods of sleep, does not vary with eye closure, may be evident on non-cerebral channels (i.e., EOG) ([QSFigure](:datasets_path:/shhs/pages/mop/6-AA-mop-list-of-illustrations.md) 2d). <div class="bs-callout bs-callout-info"><p><strong>TIP:</strong><ul><li><u>Alpha artifact</u> was more likely than alpha intrusion when the activity in question:<ul><li>Occurs across most sleep stages, and does not vary by sleep state;</li><li>The activity is fairly similar in amplitude throughout the study</li><li>Often is superimposed on top of the EEG signal</li></ul></li><li><u>Alpha intrusion</u> is more likely when:<ul><li>Varied by sleep stage</li><li>Displayed a fluctuating amplitude</li></ul></li></ul></p></div>
+- Alpha artifact-when alpha range activity is seen throughout all periods of sleep, does not vary with eye closure, may be evident on non-cerebral channels (i.e., EOG) ([QSFigure](:pages_path:/mop/6-AA-mop-list-of-illustrations.md) 2d). <div class="bs-callout bs-callout-info"><p><strong>TIP:</strong><ul><li><u>Alpha artifact</u> was more likely than alpha intrusion when the activity in question:<ul><li>Occurs across most sleep stages, and does not vary by sleep state;</li><li>The activity is fairly similar in amplitude throughout the study</li><li>Often is superimposed on top of the EEG signal</li></ul></li><li><u>Alpha intrusion</u> is more likely when:<ul><li>Varied by sleep stage</li><li>Displayed a fluctuating amplitude</li></ul></li></ul></p></div>
 
-- <u>Abnormal Eye Movements:</u>  presence of the rhythmical lateral eye movements in Non-REM sleep, or asymmetrical or disconjugate movements  ([QSFigure](:datasets_path:/shhs/pages/mop/6-AA-mop-list-of-illustrations.md) 3a, 3b, 3c, 3d, 3e, and 3f).
+- <u>Abnormal Eye Movements:</u>  presence of the rhythmical lateral eye movements in Non-REM sleep, or asymmetrical or disconjugate movements  ([QSFigure](:pages_path:/mop/6-AA-mop-list-of-illustrations.md) 3a, 3b, 3c, 3d, 3e, and 3f).
 
-- <u>Periodic breathing ≥ 10 minutes:</u>  when the airflow or inductance channels are increasing and decreasing at least 50 % from the maximum, in a periodic (cyclic waxing and waning or "sinusoidal") manner, for a consecutive period of at least 10 min. Examples of this pattern will be printed and attached to the scoring form.  Periodicity is noted independently from scoring apneas and hypopneas  ([QSFigures](:datasets_path:/shhs/pages/mop/6-AA-mop-list-of-illustrations.md) 4a, 4b, 4c, and 4d).
+- <u>Periodic breathing ≥ 10 minutes:</u>  when the airflow or inductance channels are increasing and decreasing at least 50 % from the maximum, in a periodic (cyclic waxing and waning or "sinusoidal") manner, for a consecutive period of at least 10 min. Examples of this pattern will be printed and attached to the scoring form.  Periodicity is noted independently from scoring apneas and hypopneas  ([QSFigures](:pages_path:/mop/6-AA-mop-list-of-illustrations.md) 4a, 4b, 4c, and 4d).
 
 - <u>Periodic breathing ≥ 5 minutes</u> only in SHHS2 data): Will be marked when there is a cyclic waxing and waning pattern on the inductance channels for at least 5 minutes. <div class="alert alert-info"><strong>NOTE:</strong> Records containing periodicity for > 10 minutes will also be coded as containing Periodic breathing for ≥ 5 minutes.</div>
 
-- <u>Periodic large breaths:</u>  when very large breaths (one or two) occur periodically (mostly on the inductance channels) between runs of fairly normal breaths for a duration of at least 10 minutes. Examples of this pattern will be printed and attached to the scoring form  ([QSFigures](:datasets_path:/shhs/pages/mop/6-AA-mop-list-of-illustrations.md) 5a, 5b, and 5c).
+- <u>Periodic large breaths:</u>  when very large breaths (one or two) occur periodically (mostly on the inductance channels) between runs of fairly normal breaths for a duration of at least 10 minutes. Examples of this pattern will be printed and attached to the scoring form  ([QSFigures](:pages_path:/mop/6-AA-mop-list-of-illustrations.md) 5a, 5b, and 5c).
 
 Before the QS form is marked for the presence of abnormal events, such events will be reviewed with the CP and physician investigator (abnormal awake EEG, alpha intrusion) or other scorers (periodicity and periodic large breaths).  Any study with abnormal events or problems with scoring will be discussed at the weekly QA meetings.
 
@@ -144,17 +144,17 @@ If periods of data loss occurs in the middle of the study:
 
 <div class="center">
 <div class="btn-group">
-  <a href=":datasets_path:/shhs/pages/mop/6-628-mop-dealing-with-ambiguous-respiratory-events.md" class="btn btn-default">
+  <a href=":pages_path:/mop/6-628-mop-dealing-with-ambiguous-respiratory-events.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
     6.2.8 Dealing with ambiguous respiratory events
   </a>
 
-  <a href=":datasets_path:/shhs/pages/mop/6-00-mop-toc.md" class="btn btn-default">
+  <a href=":pages_path:/mop/6-00-mop-toc.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-up"></span>
     Table of Contents
   </a>
 
-  <a href=":datasets_path:/shhs/pages/mop/6-AA-mop-list-of-illustrations.md" class="btn btn-success">
+  <a href=":pages_path:/mop/6-AA-mop-list-of-illustrations.md" class="btn btn-success">
     Appendix A – List of Illustrations
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>

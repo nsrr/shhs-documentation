@@ -1,6 +1,6 @@
 ### December 12, 2013
 
-- The complete [SHHS Manual of Operations](:datasets_path:/shhs/pages/mop/6-00-mop-toc.md) has been added.
+- The complete [SHHS Manual of Operations](:pages_path:/mop/6-00-mop-toc.md) has been added.
 
 ### December 11, 2013
 

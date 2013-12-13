@@ -42,12 +42,12 @@ Real time Clock…Ok
 
 <div class="center">
 <div class="btn-group">
-  <a href=":datasets_path:/shhs/pages/3-reliability-shhs2.md" class="btn btn-default">
+  <a href=":pages_path:/3-reliability-shhs2.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
     Reliability for SHHS2
   </a>
 
-  <a href=":datasets_path:/shhs/pages/4-equipment-shhs2.md" class="btn btn-success">
+  <a href=":pages_path:/4-equipment-shhs2.md" class="btn btn-success">
     Technical Notes on SHHS2
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>

@@ -11,17 +11,17 @@ Scoring sleep stages is based on the guidelines specified by Rechtshaffen and Ka
 
 <div class="center">
 <div class="btn-group">
-  <a href=":datasets_path:/shhs/pages/mop/6-610-mop-overview-of-scoring.md" class="btn btn-default">
+  <a href=":pages_path:/mop/6-610-mop-overview-of-scoring.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
     6.1 Overview of Scoring
   </a>
 
-  <a href=":datasets_path:/shhs/pages/mop/6-00-mop-toc.md" class="btn btn-default">
+  <a href=":pages_path:/mop/6-00-mop-toc.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-up"></span>
     Table of Contents
   </a>
 
-  <a href=":datasets_path:/shhs/pages/mop/6-621-mop-rules-for-assigning-epoch-specific-sleep-score.md" class="btn btn-success">
+  <a href=":pages_path:/mop/6-621-mop-rules-for-assigning-epoch-specific-sleep-score.md" class="btn btn-success">
     6.2.1 Rules for assigning epoch-specific sleep score
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>

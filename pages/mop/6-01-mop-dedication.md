@@ -23,12 +23,12 @@ The procedures and scoring rules developed and/or adapted for the Sleep Heart He
 
 <div class="center">
 <div class="btn-group">
-  <a href=":datasets_path:/shhs/pages/mop/6-00-mop-toc.md" class="btn btn-default">
+  <a href=":pages_path:/mop/6-00-mop-toc.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
     Table of Contents
   </a>
 
-  <a href=":datasets_path:/shhs/pages/mop/6-10-mop-objectives.md" class="btn btn-success">
+  <a href=":pages_path:/mop/6-10-mop-objectives.md" class="btn btn-success">
     1. Objectives
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>

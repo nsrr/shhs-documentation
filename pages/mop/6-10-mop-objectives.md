@@ -23,17 +23,17 @@ The Sleep Reading Center (SRC) for the SHHS will:
 
 <div class="center">
 <div class="btn-group">
-  <a href=":datasets_path:/shhs/pages/mop/6-01-mop-dedication.md" class="btn btn-default">
+  <a href=":pages_path:/mop/6-01-mop-dedication.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
     Dedication
   </a>
 
-  <a href=":datasets_path:/shhs/pages/mop/6-00-mop-toc.md" class="btn btn-default">
+  <a href=":pages_path:/mop/6-00-mop-toc.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-up"></span>
     Table of Contents
   </a>
 
-  <a href=":datasets_path:/shhs/pages/mop/6-20-mop-structure.md" class="btn btn-success">
+  <a href=":pages_path:/mop/6-20-mop-structure.md" class="btn btn-success">
     2. Structure
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
