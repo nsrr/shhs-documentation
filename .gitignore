@@ -1,0 +1,9 @@
+# Ignore binary files
+/dd/*
+/files/*
+/images/*
+/logo/*
+
+
+# OS generated files
+.DS_Store

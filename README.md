@@ -1,4 +1,4 @@
-shhs-documentation
+SHHS Documentation
 ==================
 
-SHHS documentation for sleepdata.org
+Version controlled repository for SHHS documentation on [sleepdata.org](http://sleepdata.org/datasets/shhs)
