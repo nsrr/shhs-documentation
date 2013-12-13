@@ -14,7 +14,7 @@ Respiratory screens reflect 5 minute/page timebase, unless otherwise stated.
 
 - ArFigures [1a](:datasets_path:/shhs/images/a/ar1a.jpg?inline=1) and [1b](:datasets_path:/shhs/images/a/ar1b.jpg?inline=1) - Sample Arousals
 - ArFigures [2a](:datasets_path:/shhs/images/a/ar2a.jpg?inline=1), [2b](:datasets_path:/shhs/images/a/ar2b.jpg?inline=1), [2c](:datasets_path:/shhs/images/a/ar2c.jpg?inline=1), [2d](:datasets_path:/shhs/images/a/ar2d.jpg?inline=1), [2e](:datasets_path:/shhs/images/a/ar2e.jpg?inline=1) - Sample Artifacts, K complexes, spindles, EEG shifts
-- ArFigures [3a](:datasets_path:/shhs/images/a/ar3a.jpg?inline=1) and [3b](:datasets_path:/shhs/images/a/ar3b.jpg?inline=1) -Increase in EEG frequency from EMG artifact
+- ArFigures [3a](:datasets_path:/shhs/images/a/ar3a.jpg?inline=1) and [3b](:datasets_path:/shhs/images/a/ar3b.jpg?inline=1) - Increase in EEG frequency from EMG artifact
 - ArFigures [4a](:datasets_path:/shhs/images/a/ar4a.jpg?inline=1), [4b](:datasets_path:/shhs/images/a/ar4b.jpg?inline=1), and [4c](:datasets_path:/shhs/images/a/ar4c.jpg?inline=1) - Burst of delta activity or sawtooth-like waves - not arousals
 - ArFigures [5a](:datasets_path:/shhs/images/a/ar5a.jpg?inline=1) and [5b](:datasets_path:/shhs/images/a/ar5b.jpg?inline=1) - EEG acceleration superimposed on slower waves
 - ArFigures [6a](:datasets_path:/shhs/images/a/ar6a.jpg?inline=1), [6b](:datasets_path:/shhs/images/a/ar6b.jpg?inline=1) and [6c](:datasets_path:/shhs/images/a/ar6c.jpg?inline=1) - Arousals in REM, EMG activity
