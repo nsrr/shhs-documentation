@@ -1,6 +1,6 @@
 ## Appendix C – Sample Participant Feedback – Sleep Report
 
-<a href="#" data-object="suppress-click" class="btn btn-primary btn-large">
+<a href=":files_path:/forms" class="btn btn-primary btn-large">
   <span class="glyphicon glyphicon-file"></span>
   Sample Participant Feedback – Sleep Report
 </a>
