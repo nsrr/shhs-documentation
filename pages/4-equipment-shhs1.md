@@ -1,6 +1,71 @@
 # Technical Notes on SHHS1
 
+The Compumedics P-Series Sleep Monitoring System used for SHHS1 consisted of a Main Unit and Patient Interface Box (PIB). The signals were obtained by the use of electrodes/sensors that  connected to the PIB via harwin connectors. The PIB connected to the Main Unit using an analogue cable and  signals were recorded in digitized format onto a solid-state memory device (PCMCIA Memory Card) in the Main Unit. The montage was set up so that only 2.01 Mb/hr of data was recorded, providing 10 hours of data for the 20 Mb flashcards which were used.   The PIB had 6 switch banks with toggle switches which would control the amplifiers (on/off). The main unit was powered by a rechargeable Nickel Metal Hydride battery. The PIB and loose electrode wires and sensor cables were supported by a cloth “bib/vest” with the recording unit placed in the center pocket. This bib/vest was placed over the participants nightclothes. After collection the study would be downloaded to a computer via serial lead, battery recharged and flash card reformatted.
+
+<div class="row">
+  <div class="col-xs-12 col-sm-6">
+    <div class="panel panel-default">
+      <div class="panel-heading">
+        <h3 class="panel-title">PIB - Patient Interface Box</h3>
+      </div>
+      <div class="center">
+        <a href=":images_path:/psge/psge01.png?inline=1">
+          <img src=":images_path:/psge/psge01.png">
+        </a>
+      </div>
+    </div>
+  </div>
+  <div class="col-xs-12 col-sm-6">
+    <div class="panel panel-default">
+      <div class="panel-heading">
+        <h3 class="panel-title">Main Unit</h3>
+      </div>
+      <div class="center">
+        <a href=":images_path:/psge/psge02.png?inline=1">
+          <img src=":images_path:/psge/psge02.png">
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+
+## Collection Montage Sampling Rates
+
+|  Channel  |  Label             |  Sampling Rate   |  Sensitivity  |
+|:---------:|:-------------------|:----------------:|:-------------:|
+| 1         |  SaO2              |    1             |               |
+| 2         |  H.R.              |    1             |               |
+| 3         |  EEG2              |  125             |  250  uV      |
+| 4         |  ECG               |  125             |   2.5 mV      |
+| 5         |  LEG/L             |   -              |   2.5 mV      |
+| 6         |  LEG/R             |   -              |   2.5 mV      |
+| 7         |  EMG               |  125             |  62.5 uV      |
+| g         |  EOG/L             |   50             |  25O  uV      |
+| 9         |  EOG/R             |   50             |  250  uV      |
+| 10        |  EEG               |  125             |  250  uV      |
+| 11        |  SOUND             |   10 (optional)  |       xl      |
+| 12        |  AIRFLOW/OLD       |   10             |       xl      |
+| 13        |  THOR              |   10             |       xl      |
+| 14        |  ABDO              |   10             |       xl      |
+| 15        |  POSITION          |    1             |               |
+| 16        |  LIGHT             |    1             |               |
+| 17        |  AUX/AlRFLOW/ NEW  |   10             |  250 uV       |
+| 18        |  CPAP              |   -              |               |
+| 19        |  OX STATUS         |    1             |               |
+
+
+
 The Compumedics P-series Sleep Monitoring systems used for SHHS1 were prototype units that were refined and modified by Compumedics during study collection and there were  proprietary function algorithms that were not always shared by the company engineers. For example, a different “weight” was given to the 2 EEG signals: EEG1 (C4-A1) visually appeared to be a “cleaner” signal (less high frequency within the waveforms) than EEG2 (C3-A2) however Compumedics would not share why.
+
+In 2013 at request of the Reading Center, a Compumedics engineer ran simulations of the P Series schematic X5240A from Nov 98 to get the following freq. response:
+
+```
+Ch1        EEG/2  High pass filter -3dB 0.39Hz (2 pole),  Low pass filter -3dB 10.6 Hz (multiple poles)
+Ch2        ECG    High pass filter -3dB 0.41Hz (2 pole),  Low pass filter -3dB  9.4 Hz (multiple poles)
+Ch6/7      EOG    High pass filter -3dB 0.41Hz (2 pole),  Low pass filter -3dB  9.4 Hz (multiple poles)
+Ch8        EEG    High pass filter -3dB 0.33Hz (1 pole),  Low pass filter -3dB  8.9 Hz (multiple poles)
+Ch17 to 24 EEG    High pass filter -3dB 0.50Hz (1 pole),  Low pass filter -3dB 30.5 Hz (3 poles)
+```
 
 The P- series was not a truly digital system, the EEG inputs were hardwired into the amplifier interface and called EEG (C4-A1) and EEG2 (C3-A2) instead of all being collected to a common reference.  These signals were collected without additional filtering but the high-pass hardware filters for the instrument were 0.15 Hz for EEG, EOG, EMG and ECG channels and 0.05 Hz for all respiratory signals.  There was no ability to set a high filter (low band pass) at acquisition; signal collection began at the mechanical low filter start-up (0.15 or 0.05) and continued to collect without a frequency cut-off.  For display a high filter was engaged using ½ of the sampling rate (Nyquist).  For SHHS1 the sampling rate for EEG, EMG and ECG was set to 128 Hz,  EOGs were sampled at 64, Respiratory signals were sampled at 8, Position, light and oximetry were sampled at 1Hz.
 
@@ -9,9 +74,9 @@ Amplification was set in the recording unit to be 2.5mV for ECG and leg channels
 The Recorder contained an built-in operating software called BIOS (short for Basic Input Output System) which contained instructions to perform recorder functions.  The algorithm for A/D conversion was proprietary but there did appear to be a self-test at power-up with a display that would read:
 
 ```
-A/D1…Ok
-A/D2…Ok
-Real time Clock…Ok
+A/D1...Ok
+A/D2...Ok
+Real time Clock...Ok
 ```
 
 ## Sensors
@@ -37,6 +102,66 @@ Real time Clock…Ok
 - No leg EMG sensors were used.   No Nasal Pressure sensor was used.
 
 - Sound not used due to questionable collection in the home picking up sound/snoring from bed partner.
+
+## SHHS Scoring Polygraph Configuration - Staging
+
+<div class="row">
+  <div class="col-xs-12 col-sm-6">
+    <div class="panel panel-default">
+      <div class="panel-heading">
+        <h3 class="panel-title">Polygraph Configuration - Staging</h3>
+      </div>
+      <div class="center">
+        <a href=":images_path:/psge/psge03.png?inline=1">
+          <img src=":images_path:/psge/psge03.png">
+        </a>
+      </div>
+    </div>
+  </div>
+  <div class="col-xs-12 col-sm-6">
+    <div class="panel panel-default">
+      <div class="panel-heading">
+        <h3 class="panel-title">Polygraph Configuration - Staging</h3>
+      </div>
+      <div class="center">
+        <a href=":images_path:/psge/psge04.png?inline=1">
+          <img src=":images_path:/psge/psge04.png">
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+
+## SHHS Scoring Polygraph Configuration - Respiratory
+
+
+<div class="row">
+  <div class="col-xs-12 col-sm-6">
+    <div class="panel panel-default">
+      <div class="panel-heading">
+        <h3 class="panel-title">Polygraph Configuration - Respiratory</h3>
+      </div>
+      <div class="center">
+        <a href=":images_path:/psge/psge05.png?inline=1">
+          <img src=":images_path:/psge/psge05.png">
+        </a>
+      </div>
+    </div>
+  </div>
+  <div class="col-xs-12 col-sm-6">
+    <div class="panel panel-default">
+      <div class="panel-heading">
+        <h3 class="panel-title">Polygraph Configuration - Respiratory</h3>
+      </div>
+      <div class="center">
+        <a href=":images_path:/psge/psge06.png?inline=1">
+          <img src=":images_path:/psge/psge06.png">
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+
 
 <hr class="soften" style="margin-top: 20px;margin-bottom: 20px;"/>
 
