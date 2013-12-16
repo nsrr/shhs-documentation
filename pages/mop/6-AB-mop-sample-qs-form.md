@@ -1,6 +1,6 @@
 ## Appendix B – Sample QS Form
 
-<a href="#" data-object="suppress-click" class="btn btn-primary btn-large">
+<a href=":files_path:/forms/app_b_qsform.doc" data-object="suppress-click" class="btn btn-primary btn-large">
   <span class="glyphicon glyphicon-file"></span>
   Sample QS Form
 </a>
