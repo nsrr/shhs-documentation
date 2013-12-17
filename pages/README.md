@@ -33,6 +33,6 @@ Annotated data collection forms are available in the files download section.
 
 - [Manual of Operations for SHHS](:pages_path:/mop/6-00-mop-toc.md)
 
-### Recent Changes
+## Recent Changes
 
 - Find a complete list of changes in the [CHANGELOG.md](:pages_path:/CHANGELOG.md)
