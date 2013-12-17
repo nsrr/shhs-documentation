@@ -1,3 +1,7 @@
+### December 16, 2013
+
+- The [Technical Notes on SHHS1](:pages_path:/4-equipment-shhs1.md) page has been updated with images and a table of sampling rates.
+
 ### December 12, 2013
 
 - The complete [SHHS Manual of Operations](:pages_path:/mop/6-00-mop-toc.md) has been added.

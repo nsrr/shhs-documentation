@@ -11,6 +11,7 @@ Redline, S., et al., Methods for obtaining and analyzing unattended polysomnogra
 
 Redline, S., et al. "Sleep Heart Health Study." National Sleep Research Resource. Web. http://sleepdata.org/datasets/shhs.
 ```
+
 ## Forms
 
 Annotated data collection forms are available in the files download section.
@@ -32,26 +33,6 @@ Annotated data collection forms are available in the files download section.
 
 - [Manual of Operations for SHHS](:pages_path:/mop/6-00-mop-toc.md)
 
-<hr class="soften" style="margin-top: 20px;margin-bottom: 20px;"/>
-
-### December 12, 2013
-
-- The complete [SHHS Manual of Operations](:pages_path:/mop/6-00-mop-toc.md) has been added.
-
-### December 11, 2013
-
-- The [SHHS1 EDF Annotations](:files_path:/annotations_shhs1) are now available in the file downloads area.
-  - These annotations match up with the [SHHS1 polysomnograms](:files_path:/edf_shhs1) provided in EDF format.
-  - You can open the SHHS1 EDFs and Annotations using the [sleepdata.org EDF Viewer](:tools_path:/sleep_portal_viewer).
-
-### December 10, 2013
-
-- We have added equipment documentation for the SHHS1 and SHHS2 visits, along with downloadable annotated data collection forms for SHHS1.
-
-### December 3, 2013
-
-- The SHHS data dictionary is now searchable on [sleepdata.org/collection](/collection?d=shhs). Browse around, explore variables across datasets, and request access to receive a download of the SHHS dataset!
-
-### Prior Changes
+### Recent Changes
 
 - Find a complete list of changes in the [CHANGELOG.md](:pages_path:/CHANGELOG.md)
