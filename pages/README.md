@@ -6,11 +6,7 @@ The Sleep Heart Health Study (SHHS) is a multi-center cohort study implemented
 
 When citing this dataset please use:
 
-```
-Redline, S., et al., Methods for obtaining and analyzing unattended polysomnography data for a multicenter study. Sleep, 1998: p. 759-767.
-
-Redline, S., et al. "Sleep Heart Health Study." National Sleep Research Resource. Web. http://sleepdata.org/datasets/shhs.
-```
+> Redline, S., et al. "Sleep Heart Health Study." National Sleep Research Resource. Web. http://sleepdata.org/datasets/shhs.
 
 ## Forms
 
