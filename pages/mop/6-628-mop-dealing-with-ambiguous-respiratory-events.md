@@ -1,4 +1,4 @@
-## 6.2.8 Dealing with ambiguous respiratory events
+## 6.6.2.8 Dealing with ambiguous respiratory events
 
 <u>If changes in amplitude are reduced by < 30%,</u> but a ≥ 10 s. period of a clearly discernible reduction in the amplitude of respiratory signals from baseline is observed, then score events when:
 
@@ -18,7 +18,7 @@
 <div class="btn-group">
   <a href=":pages_path:/mop/6-627-mop-scoring-respiratory-events.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
-    6.2.7 Scoring respiratory events
+    6.6.2.7 Scoring respiratory events
   </a>
 
   <a href=":pages_path:/mop/6-00-mop-toc.md" class="btn btn-default">
@@ -27,7 +27,7 @@
   </a>
 
   <a href=":pages_path:/mop/6-70-mop-qs-form-scoring-notes.md" class="btn btn-success">
-    7. QS Form - Scoring Notes
+    6.7 QS Form - Scoring Notes
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
 </div>

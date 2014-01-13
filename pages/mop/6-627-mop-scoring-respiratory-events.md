@@ -1,4 +1,4 @@
-## 6.2.7 Scoring respiratory events
+## 6.6.2.7 Scoring respiratory events
 
 SHHS will identify the following categories of discrete breathing events: obstructive apneas, central apneas, and hypopneas. Additionally, periodic breathing and periodic large breaths will be identified. No attempt will be made to distinguish mixed apneas from obstructive apneas. This decision was based on previous data that indicated mixed events cannot be reliably identified.  Central hypopneas and increased upper airway resistance (RERAs) will not be identified because of controversies in the defining these events and the probable need to use invasive monitoring to identify these accurately  ([ResFigures](:pages_path:/mop/6-AA-mop-list-of-illustrations.md) 1a, 1b, 1c, and 1d).
 
@@ -26,7 +26,7 @@ A **<u>Central apnea event</u>** is scored if NO displacement is noted on both c
 <div class="btn-group">
   <a href=":pages_path:/mop/6-626-mop-rules-for-assigning-sleep-stages.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
-    6.2.6 Rules for assigning sleep stages
+    6.6.2.6 Rules for assigning sleep stages
   </a>
 
   <a href=":pages_path:/mop/6-00-mop-toc.md" class="btn btn-default">
@@ -35,7 +35,7 @@ A **<u>Central apnea event</u>** is scored if NO displacement is noted on both c
   </a>
 
   <a href=":pages_path:/mop/6-628-mop-dealing-with-ambiguous-respiratory-events.md" class="btn btn-success">
-    6.2.8 Dealing with ambiguous respiratory events
+    6.6.2.8 Dealing with ambiguous respiratory events
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
 </div>

@@ -1,4 +1,4 @@
-## 7. QS Form - Scoring Notes
+## 6.7 QS Form - Scoring Notes
 
 See [Appendix B](:pages_path:/mop/6-AB-mop-sample-qs-form.md) for sample QS form
 
@@ -146,7 +146,7 @@ If periods of data loss occurs in the middle of the study:
 <div class="btn-group">
   <a href=":pages_path:/mop/6-628-mop-dealing-with-ambiguous-respiratory-events.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
-    6.2.8 Dealing with ambiguous respiratory events
+    6.6.2.8 Dealing with ambiguous respiratory events
   </a>
 
   <a href=":pages_path:/mop/6-00-mop-toc.md" class="btn btn-default">

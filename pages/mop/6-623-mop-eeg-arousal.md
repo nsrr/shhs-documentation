@@ -1,4 +1,4 @@
-## 6.2.3 EEG arousal
+## 6.6.2.3 EEG arousal
 
 Scoring arousals is based on “A Preliminary Report from the Sleep Disorders Atlas Task Force of the American Sleep Disorders Association” Sleep, vol. 15, no 2, 1992. (ASDA criteria)
 
@@ -240,7 +240,7 @@ Some studies with high RDIs have many arousals that may appear to last > 15 sec.
 <div class="btn-group">
   <a href=":pages_path:/mop/6-622-mop-sleep-onset.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
-    6.2.2 Sleep onset
+    6.6.2.2 Sleep onset
   </a>
 
   <a href=":pages_path:/mop/6-00-mop-toc.md" class="btn btn-default">
@@ -249,7 +249,7 @@ Some studies with high RDIs have many arousals that may appear to last > 15 sec.
   </a>
 
   <a href=":pages_path:/mop/6-624-mop-rules-for-assigning-sleep-stages-when-arousal-is-present-in-the-epoch.md" class="btn btn-success">
-    6.2.4 Rules for assigning sleep stages when arousal is present in the epoch
+    6.6.2.4 Rules for assigning sleep stages when arousal is present in the epoch
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
 </div>

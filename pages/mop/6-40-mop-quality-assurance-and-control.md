@@ -1,7 +1,7 @@
-## 4. Quality Assurance and Quality Control
+## 6.4 Quality Assurance and Quality Control
 
 
-### 4.1. Weekly QA Exercises at the SRC
+### 6.4.1 Weekly QA Exercises at the SRC
 
 
 Weekly scorers’ staff meetings will be conducted at the SRC, with dedication of between 1.5 to 3 hours of time per week for the scorers to meet and discuss scoring issues. The weekly exercises will be organized by the Chief Polysomnologist, with topics that will reflect ongoing needs as identified by the staff or by the CC/PSG Committee. These exercises will include:
@@ -21,25 +21,25 @@ Examples of organized meetings include:
 
 - Studies which pose difficulties in scoring or present interesting problems will be reviewed by the entire SRC staff during weekly meetings.  Minutes from these meetings and printed copies of problem epochs will be maintained.
 
-### 4.2. Tracking of QA/QC Data
+### 6.4.2 Tracking of QA/QC Data
 
 The Chief Polysomnologist will track two types of data: data from the actual scored SHHS-2 records and data generated during QA exercises. Using actual scored SHHS-2 data, the overall mean RDI, sleep stage values and arousal indexes will be tracked for each scorer. If average values differ by > 15 % for any given scorer, those records will be reviewed by the Chief Polysomnologist. The SRC Director will determine whether re-training and re-standardization are required. Using data from the QA exercises, levels of agreement will be determined among scorers and trends tracked over time. Any scorer identified to deviate excessively (>10% from the consensus statement) on 3 consecutive exercises will be “re-trained.” “Re-training” will be considered successful if review of at least 5 additional studies demonstrates no deviation from scoring protocol, and the subsequent QA exercises show no deviations in performance compared to scoring assignments made by the other scorers.
 
 At monthly QA meetings, the statistics summarizing inter-and intra-scorer variability will be reviewed by the SRC staff. They will identify any explanations for differences. If differences between scorers can not be explained by real differences in the studies assigned to any given scorer in any given time period, scorers noted to score differently will score together, concentrating on the areas where differences were noted. The Chief  Polysomnologist will review consecutive records and reinstruct the scorer. Subsequent scoring will be monitored until conformity is demonstrated.
 
-### 4.3. Outlier Checks
+### 6.4.3 Outlier Checks
 
-#### 4.3.1 Study-by-study outlier review
+#### 6.4.3.1 Study-by-study outlier review
 
 After each study is scored and an initial report is generated, the scorer will use a  computer program to identify extreme outliers.  These entries will be reviewed and the results of this review will be noted on a PSG scoring form.  New reports will be generated if any editing of the record is required.
 
-#### 4.3.2 Batch outlier review
+#### 6.4.3.2 Batch outlier review
 
 On a weekly basis, prior to sending reports to sites, the reports will be subjected to a secondary review for outliers.   Any records with outliers so identified will be checked (QS form/log book) to ascertain that this record was previously identified as containing an outlier, with adequate documentation of the problem.
 
 On a monthly basis, scored PSG data will be imported into a permanent SAS file. Prior to importing these data, it will be subjected to a third check for outliers.
 
-### 4.4. External Review of Scoring Reliability
+### 6.4.4 External Review of Scoring Reliability
 
 The Coordinating Center and Polysomnography (PSG) Committee will establish methods for tracking scoring reliability and drift. This includes re-processing of records for reliability exercises and generation of summary data for each scorer. The overall mean for: RDI, sleep stage percentage, and arousal indexes will be calculated for each scorer over discrete time periods (monthly to quarterly) and reported to the PSG Subcommittee/Coordinating Center (CC). Intra- and inter-reader differences in the summary data for RDI, sleep stages, and arousal indices will be determined. The same mean values will be calculated for each site in the same periods of the time. The PSG Subcommittee/CC will monitor intra- and inter-reader reliability to determine the threshold for requiring remediation, including retraining or removing a reader.
 
@@ -53,7 +53,7 @@ Site visits, coordinated by the CC, will occur as directed by the Steering Commi
 <div class="btn-group">
   <a href=":pages_path:/mop/6-30-mop-certification-and-qa.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
-    3. Certification and QA
+    6.3 Certification and QA
   </a>
 
   <a href=":pages_path:/mop/6-00-mop-toc.md" class="btn btn-default">
@@ -62,7 +62,7 @@ Site visits, coordinated by the CC, will occur as directed by the Steering Commi
   </a>
 
   <a href=":pages_path:/mop/6-50-mop-data-processing.md" class="btn btn-success">
-    5. Data Processing
+    6.5 Data Processing
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
 </div>

@@ -81,7 +81,7 @@ Respiratory screens reflect 5 minute/page timebase, unless otherwise stated.
 <div class="btn-group">
   <a href=":pages_path:/mop/6-70-mop-qs-form-scoring-notes.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
-    7. QS Form - Scoring Notes
+    6.7 QS Form - Scoring Notes
   </a>
 
   <a href=":pages_path:/mop/6-00-mop-toc.md" class="btn btn-default">

@@ -1,4 +1,4 @@
-## 1. Objectives
+## 6.1 Objectives
 
 The Sleep Reading Center (SRC) for the SHHS will:
 
@@ -34,7 +34,7 @@ The Sleep Reading Center (SRC) for the SHHS will:
   </a>
 
   <a href=":pages_path:/mop/6-20-mop-structure.md" class="btn btn-success">
-    2. Structure
+    6.2 Structure
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
 </div>

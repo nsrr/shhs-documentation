@@ -1,4 +1,4 @@
-## 2. Structure
+## 6.2 Structure
 
 The Sleep Reading Center (SRC) will be directed by Susan Redline, MD, MPH.  She will hire and assist in the training of an Administrative Assistant, a Chief Polysomnologist, and PSG scorers, and be ultimately responsible for all goals specified above.
 
@@ -14,7 +14,7 @@ Three to five scorers will be charged with the responsibility of directly scorin
 <div class="btn-group">
   <a href=":pages_path:/mop/6-10-mop-objectives.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
-    1. Objectives
+    6.1 Objectives
   </a>
 
   <a href=":pages_path:/mop/6-00-mop-toc.md" class="btn btn-default">
@@ -23,7 +23,7 @@ Three to five scorers will be charged with the responsibility of directly scorin
   </a>
 
   <a href=":pages_path:/mop/6-30-mop-certification-and-qa.md" class="btn btn-success">
-    3. Certification and QA
+    6.3 Certification and QA
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
 </div>

@@ -1,4 +1,4 @@
-## 6.2.2 Sleep onset
+## 6.6.2.2 Sleep onset
 
 Sleep onset is defined by three consecutive epochs of stage 1 or one epoch of any other sleep stage.
 
@@ -16,7 +16,7 @@ Sleep onset is defined by three consecutive epochs of stage 1 or one epoch of an
 <div class="btn-group">
   <a href=":pages_path:/mop/6-621-mop-rules-for-assigning-epoch-specific-sleep-score.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
-    6.2.1 Rules for assigning epoch-specific sleep score
+    6.6.2.1 Rules for assigning epoch-specific sleep score
   </a>
 
   <a href=":pages_path:/mop/6-00-mop-toc.md" class="btn btn-default">
@@ -25,7 +25,7 @@ Sleep onset is defined by three consecutive epochs of stage 1 or one epoch of an
   </a>
 
   <a href=":pages_path:/mop/6-623-mop-eeg-arousal.md" class="btn btn-success">
-    6.2.3 EEG arousal
+    6.6.2.3 EEG arousal
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
 </div>

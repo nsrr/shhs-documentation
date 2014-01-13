@@ -1,4 +1,4 @@
-## 6.2.6 Rules for assigning sleep stages
+## 6.6.2.6 Rules for assigning sleep stages
 
 EEG frequencies are divided into following bandwidths:
 
@@ -139,7 +139,7 @@ Identification of the Stage REM is may be difficult when there are prolonged bur
 <div class="btn-group">
   <a href=":pages_path:/mop/6-625-mop-episodic-events-in-sleep.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
-    6.2.5 Episodic events in sleep
+    6.6.2.5 Episodic events in sleep
   </a>
 
   <a href=":pages_path:/mop/6-00-mop-toc.md" class="btn btn-default">
@@ -148,7 +148,7 @@ Identification of the Stage REM is may be difficult when there are prolonged bur
   </a>
 
   <a href=":pages_path:/mop/6-627-mop-scoring-respiratory-events.md" class="btn btn-success">
-    6.2.7 Scoring respiratory events
+    6.6.2.7 Scoring respiratory events
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
 </div>

@@ -29,7 +29,7 @@ The procedures and scoring rules developed and/or adapted for the Sleep Heart He
   </a>
 
   <a href=":pages_path:/mop/6-10-mop-objectives.md" class="btn btn-success">
-    1. Objectives
+    6.1 Objectives
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
 </div>

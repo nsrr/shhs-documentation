@@ -1,4 +1,4 @@
-## 6.2.5 Episodic events in sleep
+## 6.6.2.5 Episodic events in sleep
 
 **Sleep spindles:** clearly visible, rhythmic bursts of activity 12-14 Hz, duration at least 0.5 s. (one should be able to count 6 or 7 distinctive waves within a half-second period); the amplitude variability appears sinusoidal.  (EpFigures 1a and 1b)
 
@@ -232,7 +232,7 @@ In children, this actually may be exaggerated.  It is relatively more common dur
 <div class="btn-group">
   <a href=":pages_path:/mop/6-624-mop-rules-for-assigning-sleep-stages-when-arousal-is-present-in-the-epoch.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
-    6.2.4 Rules for assigning sleep stages when arousal is present in the epoch
+    6.6.2.4 Rules for assigning sleep stages when arousal is present in the epoch
   </a>
 
   <a href=":pages_path:/mop/6-00-mop-toc.md" class="btn btn-default">
@@ -241,7 +241,7 @@ In children, this actually may be exaggerated.  It is relatively more common dur
   </a>
 
   <a href=":pages_path:/mop/6-626-mop-rules-for-assigning-sleep-stages.md" class="btn btn-success">
-    6.2.6 Rules for assigning sleep stages
+    6.6.2.6 Rules for assigning sleep stages
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
 </div>

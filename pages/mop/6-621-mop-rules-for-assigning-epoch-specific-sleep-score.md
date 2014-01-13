@@ -1,4 +1,4 @@
-## 6.2.1 Rules for assigning epoch-specific sleep score
+## 6.6.2.1 Rules for assigning epoch-specific sleep score
 
 Epoch-by-epoch approach: The polygraph record is divided into consecutive segments of equal size (30 s., each termed an “epoch”). Each epoch has assigned a single sleep stage score. The epoch duration is maintained for the duration of the recording.
 
@@ -14,7 +14,7 @@ Epoch-by-epoch approach: The polygraph record is divided into consecutive segmen
 <div class="btn-group">
   <a href=":pages_path:/mop/6-620-mop-scoring-rules.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
-    6.2 Scoring Rules
+    6.6.2 Scoring Rules
   </a>
 
   <a href=":pages_path:/mop/6-00-mop-toc.md" class="btn btn-default">
@@ -23,7 +23,7 @@ Epoch-by-epoch approach: The polygraph record is divided into consecutive segmen
   </a>
 
   <a href=":pages_path:/mop/6-622-mop-sleep-onset.md" class="btn btn-success">
-    6.2.2 Sleep onset
+    6.6.2.2 Sleep onset
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
 </div>

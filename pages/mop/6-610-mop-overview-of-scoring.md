@@ -1,6 +1,6 @@
-# 6. Scoring Procedures
+# 6.6 Scoring Procedures
 
-## 6.1 Overview of Scoring
+## 6.6.1 Overview of Scoring
 
 The Compumedics software system will be used to process all the records.  Scorers will review the record using a computer monitor in two passes.  First, computer generated scoring of respiratory events during the “offline” processing will be deleted. Then during the first pass, sleep stages and arousals will be marked manually on a (30 s. time base) epoch by epoch basis.  During the second pass, respiratory signals will be displayed (2 or 5 min. time base), respiratory events will be manually marked, and oxygen saturation data edited.
 
@@ -90,7 +90,7 @@ Finally, the following will be done:
 <div class="btn-group">
   <a href=":pages_path:/mop/6-50-mop-data-processing.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
-    5. Data Processing
+    6.5 Data Processing
   </a>
 
   <a href=":pages_path:/mop/6-00-mop-toc.md" class="btn btn-default">
@@ -99,7 +99,7 @@ Finally, the following will be done:
   </a>
 
   <a href=":pages_path:/mop/6-620-mop-scoring-rules.md" class="btn btn-success">
-    6.2 Scoring Rules
+    6.6.2 Scoring Rules
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
 </div>
