@@ -60,7 +60,7 @@
 
 <hr class="soften" />
 
-> Click the “edf_shhs1” link to open the page listing individual EDF files <sup>[Fig05]</sup>.
+> Click the “edf-shhs1” link to open the page listing individual EDF files <sup>[Fig05]</sup>.
 
 <div class="panel panel-default">
   <div class="panel-body">

@@ -8,9 +8,9 @@
 
 ### December 11, 2013
 
-- The [SHHS1 EDF Annotations](:files_path:/annotations_shhs1) are now available in the file downloads area.
-  - These annotations match up with the [SHHS1 polysomnograms](:files_path:/edf_shhs1) provided in EDF format.
-  - You can open the SHHS1 EDFs and Annotations using the [sleepdata.org EDF Viewer](:tools_path:/sleep_portal_viewer).
+- The [SHHS1 EDF Annotations](:files_path:/annotations-shhs1) are now available in the file downloads area.
+  - These annotations match up with the [SHHS1 polysomnograms](:files_path:/edf-shhs1) provided in EDF format.
+  - You can open the SHHS1 EDFs and Annotations using the [sleepdata.org EDF Viewer](:tools_path:/sleep-portal-viewer).
 
 ### December 10, 2013
 
