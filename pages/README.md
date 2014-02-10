@@ -29,6 +29,11 @@ Annotated data collection forms are available in the files download section.
 
 - [Manual of Operations for SHHS](:pages_path:/mop/6-00-mop-toc.md)
 
+## Tutorials
+
+- [Browsing Documentation](:pages_path:/tutorials/browsing-documentation.md)
+- [Downloading EDFs](:pages_path:/tutorials/downloading-edfs.md)
+
 ## Recent Changes
 
 - Find a complete list of changes in the [CHANGELOG.md](:pages_path:/CHANGELOG.md)

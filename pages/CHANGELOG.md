@@ -1,3 +1,7 @@
+### February 10, 2014
+
+- Added [tutorials](:pages_path:/tutorials) that cover Browsing Documentation, and Downloading EDFs.
+
 ### December 16, 2013
 
 - The [Technical Notes on SHHS1](:pages_path:/4-equipment-shhs1.md) page has been updated with images and a table of sampling rates.
