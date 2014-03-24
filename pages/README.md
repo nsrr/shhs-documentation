@@ -20,6 +20,22 @@ When citing this dataset please use:
 Annotated data collection forms are available in the files download section.
 
 - [Forms for SHHS1](:files_path:/forms/shhs1)
+  - SHHS 1 Adverse Events Form
+  - SHHS 1 Contact Form
+  - SHHS 1 Health Interview Form (ARIC, CHS, Tucson, Strong Heart)
+  - SHHS 1 Health Interview Form (Framingham)
+  - SHHS 1 Health Interview Form (New York)
+  - SHHS 1 Medications - Prescription and Over the Counter Form
+  - SHHS 1 Morning Survey Form
+  - SHHS 1 PSG Scoring Notes Form
+  - SHHS 1 Quality of Life (SF-36) Form
+  - SHHS 1 Seated BP, Weight, Neck Circumference Form
+  - SHHS 1 Signal Verifications Form
+  - SHHS 1 Sleep Data - Quality Assessment & Preliminary Report Form
+  - SHHS 1 Sleep Data Retrieval Form
+  - SHHS 1 Sleep Habits Questionnaire - MN
+  - SHHS 1 Sleep Habits Questionnaire
+
 
 ## Analysis
 
@@ -39,6 +55,7 @@ Annotated data collection forms are available in the files download section.
 ## Tutorials
 
 - [Browsing Documentation](:pages_path:/tutorials/browsing-documentation.md)
+- [Data Access and Use Agreement Request (DAUA) Process](:pages_path:/tutorials/daua-process.md)
 - [Downloading EDFs](:pages_path:/tutorials/downloading-edfs.md)
 
 ## Recent Changes
