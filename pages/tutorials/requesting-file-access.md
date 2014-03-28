@@ -65,7 +65,7 @@ If you have any questions about this process, please email us at: [support@sleep
 
 <hr class="soften" />
 
-**Step 4:** Your DAUA is approved, but now you need to click to access the specific dataset owner to grant access.
+**Step 4:** Your DAUA is approved, but now you need to click to request dataset access from the dataset owner.
 
 <b>Note:</b> You can also request multiple datasets at once when you have your DAUA approved at: [https://sleepdata.org/daua](https://sleepdata.org/daua)
 
