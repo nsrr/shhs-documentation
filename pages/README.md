@@ -12,8 +12,7 @@ When citing this dataset please use:
 
 ## Dataset Download
 
-<a href=":files_path:/datasets?f=shhsall-0.2.0.csv" class="btn btn-success btn-lg">Download Full Dataset</a> 46 MB &middot;
-<a href="https://sleepdata.org/daua" class="btn btn-xs btn-info">DAUA Required</a>
+<a href=":files_path:/datasets?f=shhsall-0.2.0.csv" class="btn btn-success btn-lg">Download Full Dataset</a> 46 MB
 
 ## Forms
 
