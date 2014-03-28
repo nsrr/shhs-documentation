@@ -4,7 +4,7 @@ The following tutorial goes over several scenarios that may occur while requesti
 
 If you have any questions about this process, please email us at: [support@sleepdata.org](mailto:support@sleepdata.org)
 
-**Step 1:** You haven't logged in, and visit the [dataset file download page](https://sleepdata.org/datasets/shhs/files/datasets). You are informed that you need to fill out a DAUA. Clicking the DAUA will have you <b>sign in</b> and <b>go through a guided DAUA process</b>.
+**Step 1:** You haven't logged in, and visit the [dataset file download page](https://sleepdata.org/datasets/shhs/files/datasets). You are informed that you need to fill out a DAUA. Clicking the DAUA will have you <b>sign in</b> and go through a [guided DAUA process](:pages_path:/tutorials/daua-process.md).
 
 <div class="panel panel-default">
   <div class="panel-body">
