@@ -4,7 +4,7 @@ The following tutorial goes over several scenarios that may occur while requesti
 
 If you have any questions about this process, please email us at: [support@sleepdata.org](mailto:support@sleepdata.org)
 
-**Step 1:** You haven't logged in, and visit the [dataset file download page](https://sleepdata.org/datasets/shhs/files/datasets). You are informed that you need to fill out a DAUA. Clicking the DAUA will have you <b>sign in</b> and go through a [guided DAUA process](:pages_path:/tutorials/daua-process.md).
+**Step 1:** You haven't logged in, and visit the [dataset file download page](https://sleepdata.org/datasets/shhs/files/datasets). You are informed that you need to fill out a DAUA. Clicking the DAUA will have you <b>register</b> or <b>sign in</b> and go through a [guided DAUA process](:pages_path:/tutorials/daua-process.md).
 
 <div class="panel panel-default">
   <div class="panel-body">
@@ -34,7 +34,7 @@ If you have any questions about this process, please email us at: [support@sleep
 
 <hr class="soften" />
 
-**Step 3a**: You did something wrong, and need to resubmit your DAUA.
+**Step 3a**: If you did not fill out the DAUA completely, you'd see this and be required to resubmit your DAUA.
 
 <div class="panel panel-default">
   <div class="panel-body">
