@@ -20,6 +20,11 @@ The dataset is broken down by participant and by visit. The `visitnumber` variab
 
 <div class="center">
 <div class="btn-group">
+  <a href=":pages_path:/3-data-analysis-tip-sheet.md" class="btn btn-default">
+    <span class="glyphicon glyphicon-chevron-left"></span>
+    Data Analysis Tip Sheet
+  </a>
+  
   <a href=":pages_path:/3-reliability-shhs1.md" class="btn btn-success">
     Reliability for SHHS1
     <span class="glyphicon glyphicon-chevron-right"></span>
