@@ -39,6 +39,7 @@ Annotated data collection forms are available in the files download section.
 ## Analysis
 
 - [Data Analysis Tip Sheet](:pages_path:/3-data-analysis-tip-sheet.md)
+- [Dataset Introduction](:pages_path:/3-dataset-introduction.md)
 - [Reliability for SHHS1](:pages_path:/3-reliability-shhs1.md)
 - [Reliability for SHHS2](:pages_path:/3-reliability-shhs2.md)
 

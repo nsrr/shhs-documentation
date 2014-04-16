@@ -53,8 +53,8 @@ Drawbacks:
 
 <div class="center">
 <div class="btn-group">
-  <a href=":pages_path:/3-reliability-shhs1.md" class="btn btn-success">
-    Reliability for SHHS1
+  <a href=":pages_path:/3-dataset-introduction.md" class="btn btn-success">
+    Dataset Introduction
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
 </div>
