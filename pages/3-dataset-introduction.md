@@ -8,11 +8,11 @@ Until then, the SHHS data shared on the NSRR closely match the latest analytic d
 
 The dataset is broken down by participant and by visit. The `visitnumber` variable is defined as follows:
 
-- 1: Visit 1 -- the baseline clinic visit and polysomnogram performed between 1995 and 1998
+1. Visit 1 -- the baseline clinic visit and polysomnogram performed between 1995 and 1998
 	- 5,804 rows, down from the original 6,441 due to data sharing rules on certain cohorts and subjects
-- 2: Visit 2 -- the follow-up clinic visit and polysomnogram performed between 2001 and 2003
+2. Visit 2 -- the follow-up clinic visit and polysomnogram performed between 2001 and 2003
 	- 4,080 rows, not all cohorts and subjects took part
-- 3: CVD Outcomes -- the tracking of adjudicated heart health outcomes (e.g. stroke, heart attack)
+3. CVD Outcomes -- the tracking of adjudicated heart health outcomes (e.g. stroke, heart attack)
 	- 5,042 rows, not all cohorts and subjects took part
 
 
