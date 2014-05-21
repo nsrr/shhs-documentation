@@ -1,3 +1,7 @@
+### May 20, 2014
+
+- Fixed OAI definition on Tip Sheet to state obstructive apneas instead of central apneas
+
 ### April 16, 2014
 
 - Added [Dataset Introduction](:pages_path:/3-dataset-introduction.md) that describes the SHHS dataset that currently lives in the NSRR. Future dataset updates will be made when SHHS is available in [NHLBI's BioLINCC resource](https://biolincc.nhlbi.nih.gov/home/).
