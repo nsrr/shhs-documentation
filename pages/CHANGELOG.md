@@ -1,6 +1,10 @@
+### May 23, 2014
+
+- Changed README to include links to final SHHS documentations in PDF form. These may be converted to Markdown at a later date.
+
 ### May 20, 2014
 
-- Fixed OAI definition on Tip Sheet to state obstructive apneas instead of central apneas
+- Fixed OAI definition on Tip Sheet to state obstructive apneas instead of central apneas.
 
 ### April 16, 2014
 

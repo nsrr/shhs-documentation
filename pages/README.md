@@ -14,27 +14,16 @@ When citing this dataset please use:
 
 <a href=":files_path:/datasets?f=shhs-0.2.0.csv" class="btn btn-success btn-lg">Download Full Dataset</a> 46 MB
 
-## Forms
+## Protocols and Manuals
 
-Annotated data collection forms are available in the files download section.
-
-- [Forms for SHHS1](:files_path:/forms/shhs1)
-  - SHHS 1 Adverse Events Form
-  - SHHS 1 Contact Form
-  - SHHS 1 Health Interview Form (ARIC, CHS, Tucson, Strong Heart)
-  - SHHS 1 Health Interview Form (Framingham)
-  - SHHS 1 Health Interview Form (New York)
-  - SHHS 1 Medications - Prescription and Over the Counter Form
-  - SHHS 1 Morning Survey Form
-  - SHHS 1 PSG Scoring Notes Form
-  - SHHS 1 Quality of Life (SF-36) Form
-  - SHHS 1 Seated BP, Weight, Neck Circumference Form
-  - SHHS 1 Signal Verifications Form
-  - SHHS 1 Sleep Data - Quality Assessment & Preliminary Report Form
-  - SHHS 1 Sleep Data Retrieval Form
-  - SHHS 1 Sleep Habits Questionnaire - MN
-  - SHHS 1 Sleep Habits Questionnaire
-
+- [SHHS1 Protocol](:files_path:/documentation?f=SHHS1_Protocol.pdf)
+- [SHHS1 Manual of Operations](:files_path:/documentation?f=SHHS1_Manual_of_Operations.pdf)
+- [SHHS1 Forms](:files_path:/forms/shhs1)
+- [SHHS2 Protocol](:files_path:/documentation?f=SHHS2_Protocol.pdf)
+- [SHHS2 Manual of Operations](:files_path:/documentation?f=SHHS2_Manual_of_Operations.pdf)
+- [SHHS2 Forms](:files_path:/forms/shhs2)
+- [SHHS CVD Outcomes Protocol](:files_path:/documentation?f=SHHS_CVD_Outcomes_Protocol.pdf)
+- [Sleep Reading Center Manual of Operations](:pages_path:/mop/6-00-mop-toc.md)
 
 ## Analysis
 
@@ -47,10 +36,6 @@ Annotated data collection forms are available in the files download section.
 
 - [Technical Notes on SHHS1](:pages_path:/4-equipment-shhs1.md)
 - [Technical Notes on SHHS2](:pages_path:/4-equipment-shhs2.md)
-
-## Procedures
-
-- [Manual of Operations for SHHS](:pages_path:/mop/6-00-mop-toc.md)
 
 ## Tutorials
 
