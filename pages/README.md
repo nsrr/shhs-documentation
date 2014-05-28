@@ -16,13 +16,13 @@ When citing this dataset please use:
 
 ## Protocols and Manuals
 
-- [SHHS1 Protocol](:files_path:/documentation?f=SHHS1_Protocol.pdf)
-- [SHHS1 Manual of Operations](:files_path:/documentation?f=SHHS1_Manual_of_Operations.pdf)
+- [SHHS1 Protocol](:images_path:/pdfs/SHHS1_Protocol.pdf)
+- [SHHS1 Manual of Operations](:images_path:/pdfs/SHHS1_Manual_of_Operations.pdf)
 - [SHHS1 Forms](:files_path:/forms/shhs1)
-- [SHHS2 Protocol](:files_path:/documentation?f=SHHS2_Protocol.pdf)
-- [SHHS2 Manual of Operations](:files_path:/documentation?f=SHHS2_Manual_of_Operations.pdf)
+- [SHHS2 Protocol](:images_path:/pdfs/SHHS2_Protocol.pdf)
+- [SHHS2 Manual of Operations](:images_path:/pdfs/SHHS2_Manual_of_Operations.pdf)
 - [SHHS2 Forms](:files_path:/forms/shhs2)
-- [SHHS CVD Outcomes Protocol](:files_path:/documentation?f=SHHS_CVD_Outcomes_Protocol.pdf)
+- [SHHS CVD Outcomes Protocol](:images_path:/pdfs/SHHS_CVD_Outcomes_Protocol.pdf)
 - [Sleep Reading Center Manual of Operations](:pages_path:/mop/6-00-mop-toc.md)
 
 ## Analysis
