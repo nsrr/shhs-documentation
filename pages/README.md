@@ -12,7 +12,7 @@ When citing this dataset please use:
 
 ## Dataset Download
 
-<a href=":files_path:/datasets?f=shhs-0.2.0.csv" class="btn btn-success btn-lg">Download Full Dataset</a> 46 MB
+<a href=":files_path:/datasets" class="btn btn-success btn-lg">Download Full Dataset</a> 34 MB
 
 ## Protocols and Manuals
 
