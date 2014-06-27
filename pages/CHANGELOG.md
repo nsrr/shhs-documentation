@@ -1,3 +1,7 @@
+### June 27, 2014
+
+- Included link to [ClinicalTrials.gov SHHS page](http://clinicaltrials.gov/ct2/show/NCT00005275) in README
+
 ### May 23, 2014
 
 - Changed README to include links to final SHHS documentations in PDF form. These may be converted to Markdown at a later date.

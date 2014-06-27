@@ -1,6 +1,8 @@
 # About the Study
 
-The Sleep Heart Health Study (SHHS) is a multi-center cohort study implemented by the National Heart Lung & Blood Institute to determine the cardiovascular and other consequences of sleep-disordered breathing. It tests whether sleep-related breathing is associated with an increased risk of coronary heart disease, stroke, all cause mortality, and hypertension.  In all, 6,441 men and women aged 40 years and older were enrolled between November 1, 1995 and January 31, 1998. During exam cycle 3 (January 2001- June 2003), a second polysomnogram (SHHS-2) was obtained in 3,295 of the participants. Over 130 manuscripts have been published investigating predictors and outcomes of sleep disorders. [Read More](:pages_path:/full-description.md)
+The Sleep Heart Health Study (SHHS) is a multi-center cohort study implemented by the National Heart Lung & Blood Institute to determine the cardiovascular and other consequences of sleep-disordered breathing. It tests whether sleep-related breathing is associated with an increased risk of coronary heart disease, stroke, all cause mortality, and hypertension.  In all, 6,441 men and women aged 40 years and older were enrolled between November 1, 1995 and January 31, 1998. During exam cycle 3 (January 2001- June 2003), a second polysomnogram (SHHS-2) was obtained in 3,295 of the participants. Over 130 manuscripts have been published investigating predictors and outcomes of sleep disorders. [Click here for a full description of SHHS.](:pages_path:/full-description.md)
+
+Read more about SHHS at [ClinicalTrials.gov (NCT00005275)](http://clinicaltrials.gov/ct2/show/NCT00005275).
 
 ## Citation
 
@@ -9,6 +11,8 @@ When citing this dataset please use:
 1. Sleep Heart Health Study. "Methods for obtaining and analyzing unattended polysomnography data for a multicenter study." Sleep Heart Health Research Group. Redline S, Sanders MH, Lind BK, Quan SF, Iber C, Gottlieb DJ, Bonekat WH, Rapoport DM, Smith PL, Kiley JP. Sleep. 1998 Nov 1;21(7):759-67.
 
 2. Redline, S., et al. "Sleep Heart Health Study." National Sleep Research Resource. Web. http://sleepdata.org/datasets/shhs.
+
+Supported by grants (U01HL53938, U01HL53940, U01HL53941) from the National Institutes of Health.
 
 ## Dataset Download
 
