@@ -1,3 +1,7 @@
+### July 2, 2014
+
+- Make updates to the Dataset Introduction with links to SHHS on BioLINCC
+
 ### June 27, 2014
 
 - Included link to [ClinicalTrials.gov SHHS page](http://clinicaltrials.gov/ct2/show/NCT00005275) in README
