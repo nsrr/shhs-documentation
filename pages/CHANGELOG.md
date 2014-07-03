@@ -1,3 +1,7 @@
+### July 3, 2014
+
+- Add more prominent link to the Dataset Introduction and correct dataset row counts
+
 ### July 2, 2014
 
 - Make updates to the Dataset Introduction with links to SHHS on BioLINCC

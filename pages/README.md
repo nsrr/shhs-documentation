@@ -16,7 +16,9 @@ Supported by grants (U01HL53938, U01HL53940, U01HL53941) from the National Insti
 
 ## Dataset Download
 
-<a href=":files_path:/datasets" class="btn btn-success btn-lg">Download Full Dataset</a> 34 MB
+<a href=":files_path:/datasets" class="btn btn-success btn-lg">Download Full Dataset</a> 33 MB
+
+Read more in the [Dataset Introduction](:pages_path:/3-dataset-introduction.md).
 
 ## Protocols and Manuals
 
