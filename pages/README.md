@@ -12,7 +12,7 @@ When citing this dataset please use:
 
 2. Redline, S., et al. "Sleep Heart Health Study." National Sleep Research Resource. Web. http://sleepdata.org/datasets/shhs.
 
-Supported by grants (U01HL53938, U01HL53940, U01HL53941) from the National Institutes of Health.
+Supported by grants (U01HL53916, U01HL53931, U01HL53934, U01HL53937, U01HL53938, U01HL53940, U01HL53941, U01HL64360) from the National Institutes of Health.
 
 ## Dataset Download
 

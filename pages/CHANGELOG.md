@@ -1,3 +1,7 @@
+### October 6, 2014
+
+- Add additional grant fund numbers to README
+
 ### July 3, 2014
 
 - Add more prominent link to the Dataset Introduction and correct dataset row counts
