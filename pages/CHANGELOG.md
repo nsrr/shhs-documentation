@@ -1,3 +1,7 @@
+### December 4, 2014
+
+- Add brief description of Interim Follow-up dataset
+
 ### October 6, 2014
 
 - Add additional grant fund numbers to README
