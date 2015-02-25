@@ -8,7 +8,7 @@ From here you can navigate further through the documentation by clicking any blu
   <div class="col-xs-12 col-sm-6 col-sm-offset-3">
     <div class="panel panel-default">
       <div class="panel-heading">
-        <h3 class="panel-title">Documentation Home</h3>
+        <span class="panel-title">Documentation Home</span>
       </div>
       <div class="center">
         <a href=":images_path:/tutorials/browsing-docs-01.png?inline=1">
@@ -27,7 +27,7 @@ You may also be interested in viewing the [Equipment Used and Collection Montage
   <div class="col-xs-12 col-sm-4">
     <div class="panel panel-default">
       <div class="panel-heading">
-        <h3 class="panel-title">Manual of Operations</h3>
+        <span class="panel-title">Manual of Operations</span>
       </div>
       <a href=":images_path:/tutorials/browsing-docs-03.png?inline=1">
         <img src=":images_path:/tutorials/browsing-docs-03.png">
@@ -37,7 +37,7 @@ You may also be interested in viewing the [Equipment Used and Collection Montage
   <div class="col-xs-12 col-sm-4">
     <div class="panel panel-default">
       <div class="panel-heading">
-        <h3 class="panel-title">Equipment Used</h3>
+        <span class="panel-title">Equipment Used</span>
       </div>
       <a href=":images_path:/tutorials/browsing-docs-04.png?inline=1">
         <img src=":images_path:/tutorials/browsing-docs-04.png">
@@ -47,7 +47,7 @@ You may also be interested in viewing the [Equipment Used and Collection Montage
   <div class="col-xs-12 col-sm-4">
     <div class="panel panel-default">
       <div class="panel-heading">
-        <h3 class="panel-title">Data Analysis Tip Sheet</h3>
+        <span class="panel-title">Data Analysis Tip Sheet</span>
       </div>
       <a href=":images_path:/tutorials/browsing-docs-05.png?inline=1">
         <img src=":images_path:/tutorials/browsing-docs-05.png">
@@ -68,7 +68,7 @@ Variables can be browsed by:
   <div class="col-xs-12 col-sm-4">
     <div class="panel panel-default">
       <div class="panel-heading">
-        <h3 class="panel-title">Searching By Letter</h3>
+        <span class="panel-title">Searching By Letter</span>
       </div>
       <a href=":images_path:/tutorials/browsing-docs-06.png?inline=1">
         <img src=":images_path:/tutorials/browsing-docs-06.png">
@@ -78,7 +78,7 @@ Variables can be browsed by:
   <div class="col-xs-12 col-sm-4">
     <div class="panel panel-default">
       <div class="panel-heading">
-        <h3 class="panel-title">Searching By Term</h3>
+        <span class="panel-title">Searching By Term</span>
       </div>
       <a href=":images_path:/tutorials/browsing-docs-07.png?inline=1">
         <img src=":images_path:/tutorials/browsing-docs-07.png">
@@ -88,7 +88,7 @@ Variables can be browsed by:
   <div class="col-xs-12 col-sm-4">
     <div class="panel panel-default">
       <div class="panel-heading">
-        <h3 class="panel-title">Searching By Folder</h3>
+        <span class="panel-title">Searching By Folder</span>
       </div>
       <a href=":images_path:/tutorials/browsing-docs-08.png?inline=1">
         <img src=":images_path:/tutorials/browsing-docs-08.png">
@@ -99,7 +99,7 @@ Variables can be browsed by:
 
 <div class="panel panel-info">
   <div class="panel-heading">
-    <h3 class="panel-title">Questions? Contact Us Directly</h3>
+    <span class="panel-title">Questions? Contact Us Directly</span>
   </div>
   <div class="panel-body">
     If you have any questions, you can email us at: <a href="mailto:support@sleepdata.org" class="btn btn-xs btn-primary">support@sleepdata.org</a>

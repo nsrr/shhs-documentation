@@ -6,7 +6,7 @@ The Compumedics P-Series Sleep Monitoring System used for SHHS1 consisted of a M
   <div class="col-xs-12 col-sm-6">
     <div class="panel panel-default">
       <div class="panel-heading">
-        <h3 class="panel-title">PIB - Patient Interface Box</h3>
+        <span class="panel-title">PIB - Patient Interface Box</span>
       </div>
       <div class="center">
         <a href=":images_path:/psge/psge01.png?inline=1">
@@ -18,7 +18,7 @@ The Compumedics P-Series Sleep Monitoring System used for SHHS1 consisted of a M
   <div class="col-xs-12 col-sm-6">
     <div class="panel panel-default">
       <div class="panel-heading">
-        <h3 class="panel-title">Main Unit</h3>
+        <span class="panel-title">Main Unit</span>
       </div>
       <div class="center">
         <a href=":images_path:/psge/psge02.png?inline=1">
@@ -109,7 +109,7 @@ Real time Clock...Ok
   <div class="col-xs-12 col-sm-6">
     <div class="panel panel-default">
       <div class="panel-heading">
-        <h3 class="panel-title">Polygraph Configuration - Staging</h3>
+        <span class="panel-title">Polygraph Configuration - Staging</span>
       </div>
       <div class="center">
         <a href=":images_path:/psge/psge03.png?inline=1">
@@ -121,7 +121,7 @@ Real time Clock...Ok
   <div class="col-xs-12 col-sm-6">
     <div class="panel panel-default">
       <div class="panel-heading">
-        <h3 class="panel-title">Polygraph Configuration - Staging</h3>
+        <span class="panel-title">Polygraph Configuration - Staging</span>
       </div>
       <div class="center">
         <a href=":images_path:/psge/psge04.png?inline=1">
@@ -139,7 +139,7 @@ Real time Clock...Ok
   <div class="col-xs-12 col-sm-6">
     <div class="panel panel-default">
       <div class="panel-heading">
-        <h3 class="panel-title">Polygraph Configuration - Respiratory</h3>
+        <span class="panel-title">Polygraph Configuration - Respiratory</span>
       </div>
       <div class="center">
         <a href=":images_path:/psge/psge05.png?inline=1">
@@ -151,7 +151,7 @@ Real time Clock...Ok
   <div class="col-xs-12 col-sm-6">
     <div class="panel panel-default">
       <div class="panel-heading">
-        <h3 class="panel-title">Polygraph Configuration - Respiratory</h3>
+        <span class="panel-title">Polygraph Configuration - Respiratory</span>
       </div>
       <div class="center">
         <a href=":images_path:/psge/psge06.png?inline=1">

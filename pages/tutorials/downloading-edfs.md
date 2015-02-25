@@ -9,7 +9,7 @@ Go to National Sleep Research Resource (NSRR) website homepage http://www.sleepd
   </a>
   </div>
   <div class="panel-footer">
-    <h3 class="panel-title">Fig01: The NSRR homepage</h3>
+    <span class="panel-title">Fig01: The NSRR homepage</span>
   </div>
 </div>
 
@@ -24,7 +24,7 @@ Click the “Datasets” tab to look at all the available study datasets includi
   </a>
   </div>
   <div class="panel-footer">
-    <h3 class="panel-title">Fig02: The Datasets page</h3>
+    <span class="panel-title">Fig02: The Datasets page</span>
   </div>
 </div>
 
@@ -39,7 +39,7 @@ Click the icon “Sleep Heart Health Study” to find information “About the S
   </a>
   </div>
   <div class="panel-footer">
-    <h3 class="panel-title">Fig03: The Study Overview page</h3>
+    <span class="panel-title">Fig03: The Study Overview page</span>
   </div>
 </div>
 
@@ -54,7 +54,7 @@ Click the “Downloads” tab to see a list of all the available resources under
   </a>
   </div>
   <div class="panel-footer">
-    <h3 class="panel-title">Fig04: The Downloads page</h3>
+    <span class="panel-title">Fig04: The Downloads page</span>
   </div>
 </div>
 
@@ -69,7 +69,7 @@ Click the “edf-shhs1” link to open the page listing individual EDF files <su
   </a>
   </div>
   <div class="panel-footer">
-    <h3 class="panel-title">Fig05: A List of available EDF files</h3>
+    <span class="panel-title">Fig05: A List of available EDF files</span>
   </div>
 </div>
 
@@ -84,7 +84,7 @@ Click an individual file name such as “SHHS_100001_DI.edf” to start download
   </a>
   </div>
   <div class="panel-footer">
-    <h3 class="panel-title">Fig06: Download an individual EDF file</h3>
+    <span class="panel-title">Fig06: Download an individual EDF file</span>
   </div>
 </div>
 
@@ -100,13 +100,13 @@ Scroll down to the bottom of the page, and you will see “Folder Download” as
   </a>
   </div>
   <div class="panel-footer">
-    <h3 class="panel-title">Fig07: Download the folder of all EDF files</h3>
+    <span class="panel-title">Fig07: Download the folder of all EDF files</span>
   </div>
 </div>
 
 <div class="panel panel-info">
   <div class="panel-heading">
-    <h3 class="panel-title">Questions? Contact Us Directly</h3>
+    <span class="panel-title">Questions? Contact Us Directly</span>
   </div>
   <div class="panel-body">
     If you have any questions, you can email us at: <a href="mailto:support@sleepdata.org" class="btn btn-xs btn-primary">support@sleepdata.org</a>

@@ -14,7 +14,7 @@ Click the green button to download the NSRR DAUA template.
   </a>
   </div>
   <div class="panel-footer">
-    <h3 class="panel-title">Fig01: Data Access and Use Agreement Webpage.</h3>
+    <span class="panel-title">Fig01: Data Access and Use Agreement Webpage.</span>
   </div>
 </div>
 
@@ -29,7 +29,7 @@ You must complete **ALL** sections in yellow of the downloaded NSRR DAUA.
   </a>
   </div>
   <div class="panel-footer">
-    <h3 class="panel-title">Fig02: Downloaded Data Access and Use Agreement Document.</h3>
+    <span class="panel-title">Fig02: Downloaded Data Access and Use Agreement Document.</span>
   </div>
 </div>
 
@@ -44,7 +44,7 @@ Please remember to sign the DAUA on the last page, since we can not grant you da
   </a>
   </div>
   <div class="panel-footer">
-    <h3 class="panel-title">Fig03: Required Signature.</h3>
+    <span class="panel-title">Fig03: Required Signature.</span>
   </div>
 </div>
 
@@ -67,7 +67,7 @@ Attach the combined single PDF file of your completed and signed DAUA and IRB ap
   </a>
   </div>
   <div class="panel-footer">
-    <h3 class="panel-title">Fig04: Upload Combined DAUA and IRB approval PDF File.</h3>
+    <span class="panel-title">Fig04: Upload Combined DAUA and IRB approval PDF File.</span>
   </div>
 </div>
 
@@ -82,6 +82,6 @@ After your successful submission of the signed DAUA and IRB approval, we will re
   </a>
   </div>
   <div class="panel-footer">
-    <h3 class="panel-title">Fig05: View Status of Data Access and Use Agreement.</h3>
+    <span class="panel-title">Fig05: View Status of Data Access and Use Agreement.</span>
   </div>
 </div>

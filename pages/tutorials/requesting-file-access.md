@@ -13,7 +13,7 @@ If you have any questions about this process, please email us at: [support@sleep
   </a>
   </div>
   <div class="panel-footer">
-    <h3 class="panel-title">Step 1: Approved DAUA Required</h3>
+    <span class="panel-title">Step 1: Approved DAUA Required</span>
   </div>
 </div>
 
@@ -28,7 +28,7 @@ If you have any questions about this process, please email us at: [support@sleep
   </a>
   </div>
   <div class="panel-footer">
-    <h3 class="panel-title">Step 2: Waiting for DAUA Approval</h3>
+    <span class="panel-title">Step 2: Waiting for DAUA Approval</span>
   </div>
 </div>
 
@@ -43,7 +43,7 @@ If you have any questions about this process, please email us at: [support@sleep
   </a>
   </div>
   <div class="panel-footer">
-    <h3 class="panel-title">Step 3a: DAUA Denied, Requires Resubmission</h3>
+    <span class="panel-title">Step 3a: DAUA Denied, Requires Resubmission</span>
   </div>
 </div>
 
@@ -59,7 +59,7 @@ If you have any questions about this process, please email us at: [support@sleep
   </a>
   </div>
   <div class="panel-footer">
-    <h3 class="panel-title">Step 3b: DAUA Expired, Requires Renewal</h3>
+    <span class="panel-title">Step 3b: DAUA Expired, Requires Renewal</span>
   </div>
 </div>
 
@@ -76,7 +76,7 @@ If you have any questions about this process, please email us at: [support@sleep
   </a>
   </div>
   <div class="panel-footer">
-    <h3 class="panel-title">Step 4: Requesting Specific Dataset Access - Only One Click Required</h3>
+    <span class="panel-title">Step 4: Requesting Specific Dataset Access - Only One Click Required</span>
   </div>
 </div>
 
@@ -91,7 +91,7 @@ If you have any questions about this process, please email us at: [support@sleep
   </a>
   </div>
   <div class="panel-footer">
-    <h3 class="panel-title">Step 5: Dataset Access Requested and Dataset Owner Notified.</h3>
+    <span class="panel-title">Step 5: Dataset Access Requested and Dataset Owner Notified.</span>
   </div>
 </div>
 
@@ -105,7 +105,7 @@ If you have any questions about this process, please email us at: [support@sleep
   </a>
   </div>
   <div class="panel-footer">
-    <h3 class="panel-title">Step 6: Specific Dataset Access Denied - This may occur if your <b>Specific Purpose</b> in your DAUA doesn't match the dataset requested.</h3>
+    <span class="panel-title">Step 6: Specific Dataset Access Denied - This may occur if your <b>Specific Purpose</b> in your DAUA doesn't match the dataset requested.</span>
   </div>
 </div>
 
@@ -120,6 +120,6 @@ If you have any questions about this process, please email us at: [support@sleep
   </a>
   </div>
   <div class="panel-footer">
-    <h3 class="panel-title">Step 7: Folder Download Instructions</h3>
+    <span class="panel-title">Step 7: Folder Download Instructions</span>
   </div>
 </div>

@@ -12,7 +12,7 @@ An EEG arousal is an abrupt shift in EEG frequency, which may include alpha and/
   <div class="col-xs-12 col-sm-6">
     <div class="panel panel-default">
       <div class="panel-heading">
-        <h3 class="panel-title">ArFigure 1a - Sample Arousals</h3>
+        <span class="panel-title">ArFigure 1a - Sample Arousals</span>
       </div>
       <a href=":images_path:/a/ar1a.jpg?inline=1">
         <img src=":images_path:/a/ar1a-thumbnail.jpg">
@@ -22,7 +22,7 @@ An EEG arousal is an abrupt shift in EEG frequency, which may include alpha and/
   <div class="col-xs-12 col-sm-6">
     <div class="panel panel-default">
       <div class="panel-heading">
-        <h3 class="panel-title">ArFigure 1b - Sample Arousals</h3>
+        <span class="panel-title">ArFigure 1b - Sample Arousals</span>
       </div>
       <a href=":images_path:/a/ar1b.jpg?inline=1">
         <img src=":images_path:/a/ar1b-thumbnail.jpg">
@@ -37,7 +37,7 @@ Artifacts, K complexes and delta waves are included in meeting the 3 s. duration
   <div class="col-xs-12 col-sm-6 col-md-3">
     <div class="panel panel-default">
       <div class="panel-heading">
-        <h3 class="panel-title">ArFigure 2a - Sample Artifacts</h3>
+        <span class="panel-title">ArFigure 2a - Sample Artifacts</span>
       </div>
       <a href=":images_path:/a/ar2a.jpg?inline=1">
         <img src=":images_path:/a/ar2a-thumbnail.jpg">
@@ -47,7 +47,7 @@ Artifacts, K complexes and delta waves are included in meeting the 3 s. duration
   <div class="col-xs-12 col-sm-6 col-md-3">
     <div class="panel panel-default">
       <div class="panel-heading">
-        <h3 class="panel-title">ArFigure 2b - Sample Artifacts</h3>
+        <span class="panel-title">ArFigure 2b - Sample Artifacts</span>
       </div>
       <a href=":images_path:/a/ar2b.jpg?inline=1">
         <img src=":images_path:/a/ar2b-thumbnail.jpg">
@@ -57,7 +57,7 @@ Artifacts, K complexes and delta waves are included in meeting the 3 s. duration
   <div class="col-xs-12 col-sm-6 col-md-3">
     <div class="panel panel-default">
       <div class="panel-heading">
-        <h3 class="panel-title">ArFigure 2c - Sample Artifacts</h3>
+        <span class="panel-title">ArFigure 2c - Sample Artifacts</span>
       </div>
       <a href=":images_path:/a/ar2c.jpg?inline=1">
         <img src=":images_path:/a/ar2c-thumbnail.jpg">
@@ -67,7 +67,7 @@ Artifacts, K complexes and delta waves are included in meeting the 3 s. duration
   <div class="col-xs-12 col-sm-6 col-md-3">
     <div class="panel panel-default">
       <div class="panel-heading">
-        <h3 class="panel-title">ArFigure 2d - Sample Artifacts</h3>
+        <span class="panel-title">ArFigure 2d - Sample Artifacts</span>
       </div>
       <a href=":images_path:/a/ar2d.jpg?inline=1">
         <img src=":images_path:/a/ar2d-thumbnail.jpg">
@@ -82,7 +82,7 @@ Parts of the EEG totally obscured by EMG artifact are considered an arousal if t
   <div class="col-xs-12 col-sm-6 col-sm-offset-3">
     <div class="panel panel-default">
       <div class="panel-heading">
-        <h3 class="panel-title">ArFigure 2e - Sample Artifacts</h3>
+        <span class="panel-title">ArFigure 2e - Sample Artifacts</span>
       </div>
       <a href=":images_path:/a/ar2e.jpg?inline=1">
         <img src=":images_path:/a/ar2e-thumbnail.jpg">
@@ -107,7 +107,7 @@ Arousals lasting > 15 s. and containing awake EEG within an epoch cause the epoc
   <div class="col-xs-12 col-sm-6">
     <div class="panel panel-default">
       <div class="panel-heading">
-        <h3 class="panel-title">ArFigure 3a - Increase in EEG frequency from EMG artifact</h3>
+        <span class="panel-title">ArFigure 3a - Increase in EEG frequency from EMG artifact</span>
       </div>
       <a href=":images_path:/a/ar3a.jpg?inline=1">
         <img src=":images_path:/a/ar3a-thumbnail.jpg">
@@ -117,7 +117,7 @@ Arousals lasting > 15 s. and containing awake EEG within an epoch cause the epoc
   <div class="col-xs-12 col-sm-6">
     <div class="panel panel-default">
       <div class="panel-heading">
-        <h3 class="panel-title">ArFigure 3b - Increase in EEG frequency from EMG artifact</h3>
+        <span class="panel-title">ArFigure 3b - Increase in EEG frequency from EMG artifact</span>
       </div>
       <a href=":images_path:/a/ar3b.jpg?inline=1">
         <img src=":images_path:/a/ar3b-thumbnail.jpg">
@@ -133,7 +133,7 @@ Arousals lasting > 15 s. and containing awake EEG within an epoch cause the epoc
   <div class="col-xs-12 col-sm-4">
     <div class="panel panel-default">
       <div class="panel-heading">
-        <h3 class="panel-title">ArFigure 4a - Burst of Delta Activity or Sawtooh-like Waves - not arousals</h3>
+        <span class="panel-title">ArFigure 4a - Burst of Delta Activity or Sawtooh-like Waves - not arousals</span>
       </div>
       <a href=":images_path:/a/ar4a.jpg?inline=1">
         <img src=":images_path:/a/ar4a-thumbnail.jpg">
@@ -143,7 +143,7 @@ Arousals lasting > 15 s. and containing awake EEG within an epoch cause the epoc
   <div class="col-xs-12 col-sm-4">
     <div class="panel panel-default">
       <div class="panel-heading">
-        <h3 class="panel-title">ArFigure 4b - Burst of Delta Activity or Sawtooh-like Waves - not arousals</h3>
+        <span class="panel-title">ArFigure 4b - Burst of Delta Activity or Sawtooh-like Waves - not arousals</span>
       </div>
       <a href=":images_path:/a/ar4b.jpg?inline=1">
         <img src=":images_path:/a/ar4b-thumbnail.jpg">
@@ -153,7 +153,7 @@ Arousals lasting > 15 s. and containing awake EEG within an epoch cause the epoc
   <div class="col-xs-12 col-sm-4">
     <div class="panel panel-default">
       <div class="panel-heading">
-        <h3 class="panel-title">ArFigure 4c - Burst of Delta Activity or Sawtooh-like Waves - not arousals</h3>
+        <span class="panel-title">ArFigure 4c - Burst of Delta Activity or Sawtooh-like Waves - not arousals</span>
       </div>
       <a href=":images_path:/a/ar4c.jpg?inline=1">
         <img src=":images_path:/a/ar4c-thumbnail.jpg">
@@ -168,7 +168,7 @@ Arousals lasting > 15 s. and containing awake EEG within an epoch cause the epoc
   <div class="col-xs-12 col-sm-6">
     <div class="panel panel-default">
       <div class="panel-heading">
-        <h3 class="panel-title">ArFigure 5a - EEG accleration</h3>
+        <span class="panel-title">ArFigure 5a - EEG accleration</span>
       </div>
       <a href=":images_path:/a/ar5a.jpg?inline=1">
         <img src=":images_path:/a/ar5a-thumbnail.jpg">
@@ -178,7 +178,7 @@ Arousals lasting > 15 s. and containing awake EEG within an epoch cause the epoc
   <div class="col-xs-12 col-sm-6">
     <div class="panel panel-default">
       <div class="panel-heading">
-        <h3 class="panel-title">ArFigure 5b - EEG accleration</h3>
+        <span class="panel-title">ArFigure 5b - EEG accleration</span>
       </div>
       <a href=":images_path:/a/ar5b.jpg?inline=1">
         <img src=":images_path:/a/ar5b-thumbnail.jpg">
@@ -195,7 +195,7 @@ In stage REM, an EEG frequency shift must be accompanied by a simultaneous incre
   <div class="col-xs-12 col-sm-4">
     <div class="panel panel-default">
       <div class="panel-heading">
-        <h3 class="panel-title">ArFigure 6a - Arousals in REM, EMG activity</h3>
+        <span class="panel-title">ArFigure 6a - Arousals in REM, EMG activity</span>
       </div>
       <a href=":images_path:/a/ar6a.jpg?inline=1">
         <img src=":images_path:/a/ar6a-thumbnail.jpg">
@@ -205,7 +205,7 @@ In stage REM, an EEG frequency shift must be accompanied by a simultaneous incre
   <div class="col-xs-12 col-sm-4">
     <div class="panel panel-default">
       <div class="panel-heading">
-        <h3 class="panel-title">ArFigure 6b - Arousals in REM, EMG activity</h3>
+        <span class="panel-title">ArFigure 6b - Arousals in REM, EMG activity</span>
       </div>
       <a href=":images_path:/a/ar6b.jpg?inline=1">
         <img src=":images_path:/a/ar6b-thumbnail.jpg">
@@ -215,7 +215,7 @@ In stage REM, an EEG frequency shift must be accompanied by a simultaneous incre
   <div class="col-xs-12 col-sm-4">
     <div class="panel panel-default">
       <div class="panel-heading">
-        <h3 class="panel-title">ArFigure 6c - Arousals in REM, EMG activity</h3>
+        <span class="panel-title">ArFigure 6c - Arousals in REM, EMG activity</span>
       </div>
       <a href=":images_path:/a/ar6c.jpg?inline=1">
         <img src=":images_path:/a/ar6c-thumbnail.jpg">
