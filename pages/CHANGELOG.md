@@ -1,3 +1,35 @@
+### December 4, 2014
+
+- Add brief description of Interim Follow-up dataset
+
+### October 6, 2014
+
+- Add additional grant fund numbers to README
+
+### July 3, 2014
+
+- Add more prominent link to the Dataset Introduction and correct dataset row counts
+
+### July 2, 2014
+
+- Make updates to the Dataset Introduction with links to SHHS on BioLINCC
+
+### June 27, 2014
+
+- Included link to [ClinicalTrials.gov SHHS page](http://clinicaltrials.gov/ct2/show/NCT00005275) in README
+
+### May 23, 2014
+
+- Changed README to include links to final SHHS documentations in PDF form. These may be converted to Markdown at a later date.
+
+### May 20, 2014
+
+- Fixed OAI definition on Tip Sheet to state obstructive apneas instead of central apneas.
+
+### April 16, 2014
+
+- Added [Dataset Introduction](:pages_path:/3-dataset-introduction.md) that describes the SHHS dataset that currently lives in the NSRR. Future dataset updates will be made when SHHS is available in [NHLBI's BioLINCC resource](https://biolincc.nhlbi.nih.gov/home/).
+
 ### February 10, 2014
 
 - Added [tutorials](:pages_path:/tutorials) that cover Browsing Documentation, and Downloading EDFs.

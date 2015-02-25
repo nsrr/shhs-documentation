@@ -52,9 +52,9 @@ Means: **13.65** for 912; **19.82** for 914; and **18.15** for 915.
 
 <div class="center">
 <div class="btn-group">
-  <a href=":pages_path:/3-data-analysis-tip-sheet.md" class="btn btn-default">
+  <a href=":pages_path:/3-dataset-introduction.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
-    Data Analysis Tip Sheet
+    Dataset Introduction
   </a>
 
   <a href=":pages_path:/3-reliability-shhs2.md" class="btn btn-success">

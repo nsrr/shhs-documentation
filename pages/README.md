@@ -1,6 +1,8 @@
 # About the Study
 
-The Sleep Heart Health Study (SHHS) is a multi-center cohort study implemented by the National Heart Lung & Blood Institute to determine the cardiovascular and other consequences of sleep-disordered breathing. It tests whether sleep-related breathing is associated with an increased risk of coronary heart disease, stroke, all cause mortality, and hypertension.  In all, 6,441 men and women aged 40 years and older were enrolled between November 1, 1995 and January 31, 1998. During exam cycle 3 (January 2001- June 2003), a second polysomnogram (SHHS-2) was obtained in 3,295 of the participants. Over 130 manuscripts have been published investigating predictors and outcomes of sleep disorders. [Read More](:pages_path:/full-description.md)
+The Sleep Heart Health Study (SHHS) is a multi-center cohort study implemented by the National Heart Lung & Blood Institute to determine the cardiovascular and other consequences of sleep-disordered breathing. It tests whether sleep-related breathing is associated with an increased risk of coronary heart disease, stroke, all cause mortality, and hypertension.  In all, 6,441 men and women aged 40 years and older were enrolled between November 1, 1995 and January 31, 1998. During exam cycle 3 (January 2001- June 2003), a second polysomnogram (SHHS-2) was obtained in 3,295 of the participants. Over 130 manuscripts have been published investigating predictors and outcomes of sleep disorders. [Click here for a full description of SHHS.](:pages_path:/full-description.md)
+
+Read more about SHHS at [ClinicalTrials.gov (NCT00005275)](http://clinicaltrials.gov/ct2/show/NCT00005275).
 
 ## Citation
 
@@ -10,35 +12,29 @@ When citing this dataset please use:
 
 2. Redline, S., et al. "Sleep Heart Health Study." National Sleep Research Resource. Web. http://sleepdata.org/datasets/shhs.
 
+Supported by grants (U01HL53916, U01HL53931, U01HL53934, U01HL53937, U01HL53938, U01HL53940, U01HL53941, U01HL64360) from the National Institutes of Health.
+
 ## Dataset Download
 
-<a href=":files_path:/datasets?f=shhs-0.2.0.csv" class="btn btn-success btn-lg">Download Full Dataset</a> 46 MB
+<a href=":files_path:/datasets" class="btn btn-success btn-lg">Download Full Dataset</a> 33 MB
 
-## Forms
+Read more in the [Dataset Introduction](:pages_path:/3-dataset-introduction.md).
 
-Annotated data collection forms are available in the files download section.
+## Protocols and Manuals
 
-- [Forms for SHHS1](:files_path:/forms/shhs1)
-  - SHHS 1 Adverse Events Form
-  - SHHS 1 Contact Form
-  - SHHS 1 Health Interview Form (ARIC, CHS, Tucson, Strong Heart)
-  - SHHS 1 Health Interview Form (Framingham)
-  - SHHS 1 Health Interview Form (New York)
-  - SHHS 1 Medications - Prescription and Over the Counter Form
-  - SHHS 1 Morning Survey Form
-  - SHHS 1 PSG Scoring Notes Form
-  - SHHS 1 Quality of Life (SF-36) Form
-  - SHHS 1 Seated BP, Weight, Neck Circumference Form
-  - SHHS 1 Signal Verifications Form
-  - SHHS 1 Sleep Data - Quality Assessment & Preliminary Report Form
-  - SHHS 1 Sleep Data Retrieval Form
-  - SHHS 1 Sleep Habits Questionnaire - MN
-  - SHHS 1 Sleep Habits Questionnaire
-
+- [SHHS1 Protocol](:files_path:/documentation?f=SHHS1_Protocol.pdf)
+- [SHHS1 Manual of Operations](:files_path:/documentation?f=SHHS1_Manual_of_Operations.pdf)
+- [SHHS1 Forms](:files_path:/forms/shhs1)
+- [SHHS2 Protocol](:files_path:/documentation?f=SHHS2_Protocol.pdf)
+- [SHHS2 Manual of Operations](:files_path:/documentation?f=SHHS2_Manual_of_Operations.pdf)
+- [SHHS2 Forms](:files_path:/forms/shhs2)
+- [SHHS CVD Outcomes Protocol](:files_path:/documentation?f=SHHS_CVD_Outcomes_Protocol.pdf)
+- [Sleep Reading Center Manual of Operations](:pages_path:/mop/6-00-mop-toc.md)
 
 ## Analysis
 
 - [Data Analysis Tip Sheet](:pages_path:/3-data-analysis-tip-sheet.md)
+- [Dataset Introduction](:pages_path:/3-dataset-introduction.md)
 - [Reliability for SHHS1](:pages_path:/3-reliability-shhs1.md)
 - [Reliability for SHHS2](:pages_path:/3-reliability-shhs2.md)
 
@@ -46,10 +42,6 @@ Annotated data collection forms are available in the files download section.
 
 - [Technical Notes on SHHS1](:pages_path:/4-equipment-shhs1.md)
 - [Technical Notes on SHHS2](:pages_path:/4-equipment-shhs2.md)
-
-## Procedures
-
-- [Manual of Operations for SHHS](:pages_path:/mop/6-00-mop-toc.md)
 
 ## Tutorials
 

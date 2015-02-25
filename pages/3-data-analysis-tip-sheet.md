@@ -9,9 +9,9 @@ This document highlights key analytical issues and provides “food for thought�
 `NEWVA = log(OLDVAR + 0.1).`
 
 
-**Obstructive Apnea Index (OAI):**  There is one OAI index in the data set. It reflects obstructive events associated with a 4% desaturation or arousal.  Nearly 30% of the cohort has a zero value for this variable.  Since there are many zero values, some SHHS investigators have chosen to dichotomize the variable. For instant, >=3 obstructive events or >=4 central events per hour would constitute a positive outcome. One could also use this construction as a predictor variable.
+**Obstructive Apnea Index (OAI):**  There is one OAI index in the data set. It reflects obstructive events associated with a 4% desaturation or arousal.  Nearly 30% of the cohort has a zero value for this variable.  Since there are many zero values, some SHHS investigators have chosen to dichotomize the variable. For instance, >=3 obstructive events or >=4 obstructive events per hour would constitute a positive outcome. One could also use this construction as a predictor variable.
 
-**Central Apnea Index (CAI):**  Several variables describe central breathing events, with different thresholds for desaturation and requirement/non-requirement of arousals.  Central events are uncommon, with ˜58% of the cohort having zero values. Thus, when central events are of interest, some shhs investigators have chosen to dichotomize these variables. For instance >=3 central events or >=4 central events would constitute a positive outcome.  This construction would also be used as a predictor variable. This approach does not require use of a continuous distribution, and also allows the analyst to conduct sensitivity analyses.
+**Central Apnea Index (CAI):**  Several variables describe central breathing events, with different thresholds for desaturation and requirement/non-requirement of arousals.  Central events are uncommon, with ˜58% of the cohort having zero values. Thus, when central events are of interest, some shhs investigators have chosen to dichotomize these variables. For instance, >=3 central events or >=4 central events per hour would constitute a positive outcome.  This construction would also be used as a predictor variable. This approach does not require use of a continuous distribution, and also allows the analyst to conduct sensitivity analyses.
 
 **Sleep Stages:** These data are reported in the data set as integers. Stage 1 and stage 3 – 4 are not normally distributed, but stage 2 and REM sleep are. Thus, to use these data as continuous dependent variables, stages 1 and 3 – 4 must be transformed. Some shhs investigators have transformed the latter two variables with the following formula `–log(-log(P+0.001))`. (NOTE: since the data are integers, values must be divided by 100 prior to transformation to yield proportions).
 
@@ -53,8 +53,8 @@ Drawbacks:
 
 <div class="center">
 <div class="btn-group">
-  <a href=":pages_path:/3-reliability-shhs1.md" class="btn btn-success">
-    Reliability for SHHS1
+  <a href=":pages_path:/3-dataset-introduction.md" class="btn btn-success">
+    Dataset Introduction
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
 </div>
