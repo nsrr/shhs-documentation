@@ -42,6 +42,8 @@ Read more in the [Dataset Introduction](:pages_path:/3-dataset-introduction.md).
 
 - [Technical Notes on SHHS1](:pages_path:/4-equipment-shhs1.md)
 - [Technical Notes on SHHS2](:pages_path:/4-equipment-shhs2.md)
+- [Montage and Sampling Rate Information on SHHS1](:pages_path:/4-equipment-shhs1.md)
+- [Montage and Sampling Rate Information on SHHS2](:pages_path:/4-equipment-shhs2.md)
 
 ## Tutorials
 
