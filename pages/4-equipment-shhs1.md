@@ -167,7 +167,7 @@ Real time Clock...Ok
 The settings below represent the standards set at the beginning of the project. There may be a small proportion of studies and signals that do not match these standards exactly. Please review the settings at the individual sleep study level as you proceed with any analyses.
 
 |  Channel  |   Channel Derivation  |  Sampling Rate (Hz)  |  Hardware Filters (Hz)  |              Sensor Type                 |
-|:---------:|:----------------------|:--------------------:|:-----------------------:|:----------------------------------------:|
+|:---------:|:---------------------:|:--------------------:|:-----------------------:|:----------------------------------------:|
 | SaO2      |                       |    1                 |                         | Nonin XPOD 3011, 8000 sensor             |
 | H.R.      |                       |    1                 |                         | Nonin XPOD 3011, 8000 sensor             |
 | EEG (sec) | C3/A2                 |  125                 |  High pass 0.15         | Gold cup electrode                       |

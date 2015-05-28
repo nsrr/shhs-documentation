@@ -46,7 +46,7 @@ The settings below represent the standards set at the beginning of the project. 
 <b>SHHS2v3</b>
 
 |  Channel  |   Channel Derivation  |  Sampling Rate (Hz)  |  Hardware Filters (Hz)  |              Sensor Type                 |
-|:---------:|:----------------------|:--------------------:|:-----------------------:|:----------------------------------------:|
+|:---------:|:---------------------:|:--------------------:|:-----------------------:|:----------------------------------------:|
 | SaO2      |                       |    1                 |                         | Nonin XPOD 3011, 8000 sensor             |
 | PR        |                       |    1                 |                         | Nonin XPOD 3011, 8000 sensor             |
 | EEG (sec) | C3/A2                 |  125                 |  High pass 0.15         | Gold cup electrode                       |
