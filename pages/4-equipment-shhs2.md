@@ -50,8 +50,8 @@ The participant wore a vest on the torso with the recording unit placed in the c
     Technical Notes on SHHS1
   </a>
 
-  <a href=":pages_path:/mop/6-00-mop-toc.md" class="btn btn-success">
-    Manual of Operations
+ <a href=":pages_path:/5-montage-and-sampling-rate-information-shhs1.md" class="btn btn-success">
+    Montage and Sampling Rate Information [on SHH1]
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
 </div>
