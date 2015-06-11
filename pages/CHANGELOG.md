@@ -1,3 +1,7 @@
+### June 11, 2015
+
+- Removed links to outdated tutorials
+
 ### December 4, 2014
 
 - Add brief description of Interim Follow-up dataset

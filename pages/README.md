@@ -45,12 +45,6 @@ Read more in the [Dataset Introduction](:pages_path:/3-dataset-introduction.md).
 - [Montage and Sampling Rate Information on SHHS1](:pages_path:/5-montage-and-sampling-rate-information-shhs1.md)
 - [Montage and Sampling Rate Information on SHHS2](:pages_path:/5-montage-and-sampling-rate-information-shhs2.md)
 
-## Tutorials
-
-- [Browsing Documentation](:pages_path:/tutorials/browsing-documentation.md)
-- [Data Access and Use Agreement Request (DAUA) Process](:pages_path:/tutorials/daua-process.md)
-- [Downloading EDFs](:pages_path:/tutorials/downloading-edfs.md)
-
 ## Recent Changes
 
 - Find a complete list of changes in the [CHANGELOG.md](:pages_path:/CHANGELOG.md)
