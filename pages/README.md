@@ -45,6 +45,10 @@ Read more in the [Dataset Introduction](:pages_path:/3-dataset-introduction.md).
 - [Montage and Sampling Rate Information on SHHS1](:pages_path:/5-montage-and-sampling-rate-information-shhs1.md)
 - [Montage and Sampling Rate Information on SHHS2](:pages_path:/5-montage-and-sampling-rate-information-shhs2.md)
 
+## EEG Spectral Analysis
+
+As part of the NSRR's effort to explore the SOF data in more detail, EEG spectral analysis was performed. Read more about the [methods, validation, and results for the NSRR EEG spectral analysis efforts](:pages_path:/6-eeg-spectral-analysis.md). There are [two summary datasets available](:files_path:/datasets) and the [included variables can be browsed here](https://www.sleepdata.org/datasets/shhs/variables?folder=Spectral+Analysis).
+
 ## Recent Changes
 
 - Find a complete list of changes in the [CHANGELOG.md](:pages_path:/CHANGELOG.md)
