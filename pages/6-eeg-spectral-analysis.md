@@ -14,7 +14,7 @@ In order to the address the need for a computationally efficient spectral analys
 
 ## Automated Artifact Detection and Spectral Analysis
 
-EEG spectral analysis was applied according to published automated artifact detection (Buckelmuller at al.) and spectral analyses (Aeschbach et al.) methods for EEG data collected during sleep. Results from previous manual scoring of the SOF dataset (the "gold standard") were compared to results from automatic artifact detection of the SOF data generated using various artifact rejection thresholds to establish settings that coincided most with "gold standard" results. Agreement of these results was not based on identifying the same epochs as artifact, or the same number of artifacts, but rather overall spectral power results for Sleep, REM and NREM.
+EEG spectral analysis was applied according to published automated artifact detection (Buckelmuller at al.) and spectral analyses (Aeschbach et al.) methods for EEG data collected during sleep. Results from previous manual scoring of the [SOF dataset](https://sleepdata.org/datasets/sof) (the "gold standard") were compared to results from automatic artifact detection of the SOF data generated using various artifact rejection thresholds to establish settings that coincided most with "gold standard" results. Agreement of these results was not based on identifying the same epochs as artifact, or the same number of artifacts, but rather overall spectral power results for Sleep, REM and NREM.
 
 ## Validation Methods and Results
 
@@ -26,11 +26,11 @@ Limitations to the application of SpectralTrainFig to data include inherent chal
 
 ## Dataset Structure
 
-[Two result datasets](:files_path:/datasets) have been posted for EEG spectral analysis.
+[Result datasets](:files_path:/datasets) for SHHS Visit 1 and Visit 2 have been posted for EEG spectral analysis.
 
-- Datasets are keyed on `PDRID` and `signal`, e.g. Participant ID 123 and Signal C3.
-- The `spectral-summary` dataset includes power density summarized in different frequency bins, broken down by NREM and REM sleep
-- The `band-summary` dataset includes power density summarized by frequency bands (e.g. Delta, Theta), broken down by NREM and REM sleep
+- Datasets are keyed on `obf_pptid` and `signal`, e.g. Participant ID 123 and Signal EEG.
+- The `spectral-summary` datasets include power density summarized in different frequency bins, broken down by NREM and REM sleep
+- The `band-summary` datasets include power density summarized by frequency bands (e.g. Delta, Theta), broken down by NREM and REM sleep
 
 ## References
 

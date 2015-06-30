@@ -47,7 +47,7 @@ Read more in the [Dataset Introduction](:pages_path:/3-dataset-introduction.md).
 
 ## EEG Spectral Analysis
 
-As part of the NSRR's effort to explore the SOF data in more detail, EEG spectral analysis was performed. Read more about the [methods, validation, and results for the NSRR EEG spectral analysis efforts](:pages_path:/6-eeg-spectral-analysis.md). There are [two summary datasets available](:files_path:/datasets) and the [included variables can be browsed here](https://www.sleepdata.org/datasets/shhs/variables?folder=Spectral+Analysis).
+As part of the NSRR's effort to explore the SHHS data in more detail, EEG spectral analysis was performed. Read more about the [methods, validation, and results for the NSRR EEG spectral analysis efforts](:pages_path:/6-eeg-spectral-analysis.md). [Summary datasets are available](:files_path:/datasets/eeg-spectral-analysis) and the [included variables can be browsed here](https://www.sleepdata.org/datasets/shhs/variables?folder=Spectral+Analysis).
 
 ## Recent Changes
 

@@ -6,7 +6,7 @@ The [Sleep Heart Health Study dataset](:files_path:/datasets) posted on the NSRR
 
 ## Structure of the Dataset
 
-The dataset is broken down into four (4) files that correspond to the main SHHS encounters:
+The dataset is broken down into five (5) files that correspond to the main SHHS encounters:
 
 1. `shhs1` (Visit 1) -- the baseline clinic visit and polysomnogram performed between 1995 and 1998
 	- 5,804 rows, down from the original 6,441 due to data sharing rules on certain cohorts and subjects
@@ -16,6 +16,8 @@ The dataset is broken down into four (4) files that correspond to the main SHHS 
 	- 4,080 rows, not all cohorts and subjects took part
 4. `shhs-cvd` (CVD Outcomes) -- the tracking of adjudicated heart health outcomes (e.g. stroke, heart attack)
 	- 5,802 rows, outcomes data were not provided on all subjects
+5. `shhs-cvd-events` (CVD Outcome Events) -- event-level details for the tracking of heart health outcomes
+  - 4,840 rows, representing individual events
 
 
 <hr class="soften" style="margin-top: 20px;margin-bottom: 20px;"/>

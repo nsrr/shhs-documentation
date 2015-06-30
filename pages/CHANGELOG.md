@@ -1,3 +1,7 @@
+### June 30, 2015
+
+- Add documentation of EEG Spectral Analysis results that were posted
+
 ### June 11, 2015
 
 - Removed links to outdated tutorials
