@@ -1,3 +1,7 @@
+### July 30, 2015
+
+- Update NSRR XML annotation files to fix issues with duration calculation in first staging period and to not exclude last staging period in output
+
 ### June 30, 2015
 
 - Add documentation of EEG Spectral Analysis results that were posted
