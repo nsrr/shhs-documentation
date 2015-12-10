@@ -1,3 +1,7 @@
+### December 9, 2015
+
+- Release 0.8.0 version of datasets
+
 ### July 30, 2015
 
 - Update NSRR XML annotation files to fix issues with duration calculation in first staging period and to not exclude last staging period in output
