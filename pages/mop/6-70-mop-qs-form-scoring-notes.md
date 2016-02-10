@@ -125,7 +125,7 @@ If any of the outliers will be found, the scorer will review the study and ident
 
 <u>Airflow signal poor:</u> Results in all respiratory events defaulting to hypopneas (none qualify as apnea).  Indicate limitations in box 36.
 
-- Exception to identifying central events when airflow is poor: An exception occurs when both inductance channels (thoracic and abdomen) are flat for > 10 s.  Then the event will be marked as a central apnea.
+- Exception to identifying central events when airflow is poor: An exception occurs when both inductance channels (thoracic and abdomen) are flat for ≥ 10 s.  Then the event will be marked as a central apnea.
 
 <u>Thoracic or/and abdominal channel poor:</u> Results in events defaulting to   “obstructive” (none qualify as “central”). Indicate in box 35 if indicated.
 

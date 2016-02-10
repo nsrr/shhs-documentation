@@ -1,3 +1,7 @@
+### February 10, 2015
+
+- Fix typos and clarify items in documentation
+
 ### December 9, 2015
 
 - Release 0.8.0 version of datasets
