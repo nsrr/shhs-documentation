@@ -89,7 +89,7 @@ Real time Clock...Ok
 
 - Chin EMG electrodes (2) placed on lower chin, separated by about 1-2 cm.  Alternative site (if bearded): on chin surface, half way down from the lips, in area supported by boney ledge, or over masseter muscle.
 
-- ECG Placement: Medtronic Medclear ECG snap electgrodes.  2 leads place R subclavicle-L lower rib. Occasional modesty issues necessitated altering placement to right subclavicle-left suubclavicle.  Position 3-5 cm below the middle of the right and left collar bones, in spaces between rib bones.
+- ECG Placement: Medtronic Medclear ECG snap electrodes.  2 leads place R subclavicle-L lower rib. Occasional modesty issues necessitated altering placement to right subclavicle-left suubclavicle.  Position 3-5 cm below the middle of the right and left collar bones, in spaces between rib bones.
 
 - Respiratory Bands:  White Respitrace Inductance Plethysmography.  There was no SUM signal generation.  When Respitrace no longer produced the belts, Compumedics refurbished the original bands and continued to provide repair service when needed.
 
