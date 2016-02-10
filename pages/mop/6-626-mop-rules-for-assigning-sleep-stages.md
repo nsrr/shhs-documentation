@@ -127,7 +127,7 @@ An isolated K complex may be seen in REM. When K complexes or unquestionable sle
 
 <u>Scoring REM when there are problems with REM related atonia or the EMG is difficult to interpret.</u>
 
-Identification of the Stage REM is may be difficult when there are prolonged bursts of elevated EMG seen during eye movements or the EMG increases with snoring. In such cases:
+Identification of Stage REM may be difficult when there are prolonged bursts of elevated EMG seen during eye movements or the EMG increases with snoring. In such cases:
 
 - EMG increases clearly related to snoring (changing with breathing) may be ignored, as long as intervening EMG is low  ([SsFigure](:pages_path:/mop/6-AA-mop-list-of-illustrations.md) 12a).
 - The portion of the record with unquestionable Stage REM should be reviewed to provide a visual reference of the characteristic Stage REM EEG pattern. Stage REM is scored when EEG pattern changes to the pattern characteristic for Stage REM regardless of the level of the EMG  ([SsFigures](:pages_path:/mop/6-AA-mop-list-of-illustrations.md) 12b and 12c).  When EEG is consistent with Stage REM, and there is no evidence of wake (blinking), no  evidence of Stage 1 (vertex waves, slow rolling eye movements), or the presence of REMs, then score stage Stage REM from the last K complex, sleep spindles or delta wave. Distinguishing between Stage 1 and Stage REM is unreliable and noted as such on the PSG scoring notes form.
