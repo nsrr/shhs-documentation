@@ -21,7 +21,7 @@ Time points:
 3: June 2000
 4: Jan 2001
 
-### Between scorer reliability (assessed at single time points:
+### Between scorer reliability (assessed at single time points):
 
 **Intra Class Correlation Coefficient by Time Point**
 
