@@ -2,17 +2,7 @@
 
 **Initial Assessment of SHHS-2 Scorer Reliablilty (reviewed by PSG Committee 4/01)**
 
-The following summarizes part of our quality assurance and certification procedures for scorer
-reliability. In early 1995, a formal scoring reliability study was designed (Whitney et al.; Sleep)
-which included scoring of20 studies per original scorer (912 {part time scorer}, 914, 915),
-scored twice over a 6.5 month interval. Half of these records (IO/scorer) were also scored at the
-second time point by the other scorers. A random sample of these records were rescored over the
-course of SHHS to document drift over time. It should be noted that these records all came from
-the first 500 SHHS 1 studies, and overall, were of poorer quality (especially EEG and oximetry)
-than subsequent records. Note that the only scorer who originally participated in the scoring
-reliability study who is scoring for SHHS2 is 915. However, scorer 916 joined SHHSI very early
-in that study (towards the end ofthe reliability study initiation) and has been involved in SHHS
-since then. Scorer 922 joined SHHS2 in November 2000.
+The following summarizes part of our quality assurance and certification procedures for scorer reliability. In early 1995, a formal scoring reliability study was designed (Whitney et al.; Sleep) which included scoring of 20 studies per original scorer (912 {part time scorer}, 914, 915), scored twice over a 6.5 month interval. Half of these records (10/scorer) were also scored at the second time point by the other scorers. A random sample of these records were rescored over the course of SHHS to document drift over time. It should be noted that these records all came from the first 500 SHHS 1 studies, and overall, were of poorer quality (especially EEG and oximetry) than subsequent records. Note that the only scorer who originally participated in the scoring reliability study who is scoring for SHHS2 is 915. However, scorer 916 joined SHHS1 very early in that study (towards the end of the reliability study initiation) and has been involved in SHHS since then. Scorer 922 joined SHHS2 in November 2000.
 
 
 Time points:
@@ -57,11 +47,7 @@ Time points:
 
 
 ### Other quality assurance exercises:
-June 2000: Scorers 914, 915, 916 participated in a specific exercise designed to evaluate arousal
-reliability in a contemporary data set. 1040 epochs were selected from 40 records. Each record
-segment was scored twice by each scorer, within 2 weeks of original scoring. (Note: YY means
-that that scorer identified an arousal on given epoch at both time points; YN means she identified
-the arousal first time but not second time, etc.)
+June 2000: Scorers 914, 915, 916 participated in a specific exercise designed to evaluate arousal reliability in a contemporary data set. 1040 epochs were selected from 40 records. Each record segment was scored twice by each scorer, within 2 weeks of original scoring. (Note: YY means that that scorer identified an arousal on given epoch at both time points; YN means she identified the arousal first time but not second time, etc.)
 
 
 **Table 1: Joint Classification of Arousal Reliability Data between Raters 914 and 915**
