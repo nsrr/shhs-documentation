@@ -40,13 +40,13 @@ The Compumedics P-Series Sleep Monitoring System used for SHHS1 consisted of a M
 | 5         |  LEG/L             |   -              |   2.5 mV      |
 | 6         |  LEG/R             |   -              |   2.5 mV      |
 | 7         |  EMG               |  125             |  62.5 uV      |
-| g         |  EOG/L             |   50             |  25O  uV      |
+| 8         |  EOG/L             |   50             |  250  uV      |
 | 9         |  EOG/R             |   50             |  250  uV      |
 | 10        |  EEG               |  125             |  250  uV      |
-| 11        |  SOUND             |   10 (optional)  |       xl      |
-| 12        |  AIRFLOW/OLD       |   10             |       xl      |
-| 13        |  THOR              |   10             |       xl      |
-| 14        |  ABDO              |   10             |       xl      |
+| 11        |  SOUND             |   10 (optional)  |       x1      |
+| 12        |  AIRFLOW/OLD       |   10             |       x1      |
+| 13        |  THOR              |   10             |       x1      |
+| 14        |  ABDO              |   10             |       x1      |
 | 15        |  POSITION          |    1             |               |
 | 16        |  LIGHT             |    1             |               |
 | 17        |  AUX/AlRFLOW/ NEW  |   10             |  250 uV       |
