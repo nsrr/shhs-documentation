@@ -62,7 +62,7 @@ Variables can be browsed by:
 
 - Selecting the starting letter from the alphabet that is displayed
 - Typing in a search term in the search box
-- Clicking on the folder link, for example [Medications](/collection?d=shhs&s=Medications), on an existing variables to find more in that folder
+- Clicking on the folder link, for example [Medications](/collection?d=shhs&s=Medications), or an existing variable to find more in that folder
 
 <div class="row">
   <div class="col-xs-12 col-sm-4">
