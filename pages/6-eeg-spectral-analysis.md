@@ -6,7 +6,7 @@ Sleep is a complex dynamic process often quantified through spectral analysis of
 
 ## Current Approaches
 
-The current gold standard approach to applying spectral analysis to EEG studies involves manual identification and removal of EEG artifacts prior to performing spectral analysis. Commercial software tools for manually identifying artifacts and performing spectral analysis are commonly provided as part of an EEG data collection system or can be purchased as a standalone software product. Our estimates for performing spectral analysis with manual artifact detection by the gold standard approach range between 1 and 2 hours per lead in each study. Although commercial software tools provide a turnkey solution for analyzing small numbers of sleep studies, the cost of manual artifact detection can become prohibitive when epidemiological scale (thousands of studies) of spectral analysis is required.
+The current gold standard approach to applying spectral analysis to EEG studies involves manual identification and removal of EEG artifacts prior to performing spectral analysis. Commercial software tools for manually identifying artifacts and performing spectral analysis are commonly provided as part of an EEG data collection system or can be purchased as a stand-alone software product. Our estimates for performing spectral analysis with manual artifact detection by the gold standard approach range between 1 and 2 hours per lead in each study. Although commercial software tools provide a turnkey solution for analyzing small numbers of sleep studies, the cost of manual artifact detection can become prohibitive when epidemiological scale (thousands of studies) of spectral analysis is required.
 
 ## NSRR Approach
 
