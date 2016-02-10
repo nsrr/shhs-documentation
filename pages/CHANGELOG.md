@@ -1,6 +1,7 @@
 ### February 10, 2015
 
 - Fix typos and clarify items in documentation
+- Add note in dataset introduction about Strong Heart Study data not being shared
 
 ### December 9, 2015
 
