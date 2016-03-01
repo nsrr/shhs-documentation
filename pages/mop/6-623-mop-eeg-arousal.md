@@ -231,7 +231,7 @@ In stage REM, an EEG frequency shift must be accompanied by a simultaneous incre
 
 **Potential Problems:**
 
-Some studies with high RDIs have many arousals that may appear to last > 15 sec. within given epochs. If all such epochs were classified as AWAKE, then the respiratory events would not be included in the RDI and the RDI will be underestimated. When faced with this situation, the scorer may attempt to keep the duration of the arousal to as short as feasible (e.g., corresponding to the length of the waking EEG in that epoch.) This will maximize the number of epochs containing arousals that are captured as "sleep".
+Some studies with high RDIs have many arousals that may appear to last > 15 sec. within given epochs. If all such epochs were classified as AWAKE, then the respiratory events would not be included in the RDI and the RDI will be underestimated. When faced with this situation, the scorer may attempt to keep the duration of the arousal to as short as feasible (e.g., corresponding to the length of the waking EEG in that epoch). This will maximize the number of epochs containing arousals that are captured as "sleep".
 
 
 <hr class="soften" style="margin-top: 20px;margin-bottom: 20px;"/>
