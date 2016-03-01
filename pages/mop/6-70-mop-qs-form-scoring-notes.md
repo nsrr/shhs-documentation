@@ -88,9 +88,9 @@ Some studies do not contain usable signals for the entire recording time or incl
 Will be checked "yes" if any criteria for medical alert as listed below are met:
 
 - Heart rate > 150 bpm for ≥ 2 min
-- Heart rate < 30 bpm for ≥ 2 min.
-- Oxygen Saturation < 75% for >10% TST.
-- RDI > 50.
+- Heart rate < 30 bpm for ≥ 2 min
+- Oxygen Saturation < 75% for >10% TST
+- RDI > 50
 
 <hr class="soften" style="margin-top: 20px;margin-bottom: 20px;"/>
 
