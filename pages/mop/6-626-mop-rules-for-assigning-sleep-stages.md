@@ -89,7 +89,7 @@ At the start of Stage REM, K complexes, sleep spindles and delta waves end, char
 
 <u>Periods of elevated sustained EMG during Stage REM sleep:</u>
 
-When EMG is elevated above the REM level for longer than .5 sec, then this portion of the record is scored as a Non-REM sleep or WAKE.  If phasic twiches or sawtooth waves are seen, but intervening EMG is low, the epoch remains REM ([SsFigure](:pages_path:/mop/6-AA-mop-list-of-illustrations.md) 6e).
+When EMG is elevated above the REM level for longer than 15 sec, then this portion of the record is scored as a Non-REM sleep or WAKE.  If phasic twiches or sawtooth waves are seen, but intervening EMG is low, the epoch remains REM ([SsFigure](:pages_path:/mop/6-AA-mop-list-of-illustrations.md) 6e).
 
 **WAKE-REM Transition:**
 
