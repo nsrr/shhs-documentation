@@ -10,7 +10,7 @@ During manual scoring, the following are primary “events” that are identifie
 
 <u>Arousals</u> will be characterized by the ASDA (now American Academy of Sleep Medicine) criteria (The Atlas Task Force, EEG Arousals: Scoring Rules and Examples.  Sleep 1992: 15:173-84).
 
-<u>Obstructive Apneas</u> will be identified if the amplitude (peak to trough) of the airflow signal is flat or nearly flat. This is noted when amplitude of airflow decreases below at least 75% of the amplitude of “baseline” breathing, i.e. to < 25% of the baseline, (identified during a period of regular breathing with stable oxygen levels), and if this change lasts for > 10 s.  Obstructive apneas cannot be designated in areas of the study where thermistry is missing or uninterpretable.
+<u>Obstructive Apneas</u> will be identified if the amplitude (peak to trough) of the airflow signal is flat or nearly flat. This is noted when amplitude of airflow decreases below at least 75% of the amplitude of “baseline” breathing, i.e. to < 25% of the baseline, (identified during a period of regular breathing with stable oxygen levels), and if this change lasts for ≥ 10 s.  Obstructive apneas cannot be designated in areas of the study where thermistry is missing or uninterpretable.
 
 <u>Hypopneas</u> will be identified if the amplitude of any respiratory signal decreases by at least (approximately) 30% of the amplitude of “baseline”, i.e. to < 70% of baseline, (identified during a period of regular breathing with stable oxygen levels), if this change lasts for > 10 s.
 
