@@ -36,7 +36,7 @@ Intervals of > 3 minutes between K complexes or spindles (and which do  not meet
 
 **<u>Stage 2 sleep</u>**
 
-Stage 2 is defined by a background similar to Stage 1 sleep with the presence of the K complexes and/or sleep spindles.  It is impossible to define the difference between Stage 1 and Stage 2 sleep on the basis of background activity alone. Bursts of other polymorphic high voltage slow waves, which do not have the precise morphology of K complex, are also frequently seen.  Delta waves: high amplitude ( > 75 μV), slow (≤ 4 Hz;  duration 0.5 s. and longer) activity occupy no more than 19% of the epoch.  At the beginning of the Stage 2, slow eye movements may infrequently, and only briefly, persist after the appearance of sleep spindles and K complexes. ([SsFigures](:pages_path:/mop/6-AA-mop-list-of-illustrations.md) 3a, 3b, and 3c)
+Stage 2 is defined by a background similar to Stage 1 sleep with the presence of the K complexes and/or sleep spindles.  It is impossible to define the difference between Stage 1 and Stage 2 sleep on the basis of background activity alone. Bursts of other polymorphic high voltage slow waves, which do not have the precise morphology of K complex, are also frequently seen.  Delta waves: high amplitude ( > 75 μV), slow (0.5-2 Hz;  duration 0.5-2 sec) activity occupy no more than 19% of the epoch.  At the beginning of the Stage 2, slow eye movements may infrequently, and only briefly, persist after the appearance of sleep spindles and K complexes. ([SsFigures](:pages_path:/mop/6-AA-mop-list-of-illustrations.md) 3a, 3b, and 3c)
 
 Relatively long periods may intervene between K complexes and/or sleep spindles without a background change in the EEG.  Regardless of the presence of the arousal:
 
