@@ -54,7 +54,7 @@ All data contained in the QS form (quality grades and scoring notes) will be ent
 
 After full scoring, the scorer will generate:
 
-- <u>SHHS Participant Feedback Report</u> (rtf format – See [Appendix C](6-AC-mop-sample-participant-feedback-sleep-report.md) for sample report),  contains summary sleep data. Data will be displayed in two parts (top/bottom of form), including the RDI (the number of apneas and hypopneas per hour of the sleep associated with a desaturation > 3%), a summary of the desaturation profile, time in REM/Non-REM sleep, stage distributions, and the arousal index.  The top half of the report will be used in the Participant Feedback Letters, and the bottom half (containing stage distribution and arousal indices) can be used in communications with local physicians.
+- <u>SHHS Participant Feedback Report</u> (rtf format – See [Appendix C](6-AC-mop-sample-participant-feedback-sleep-report.md) for sample report),  contains summary sleep data. Data will be displayed in two parts (top/bottom of form), including the RDI (the number of apneas and hypopneas per hour of the sleep associated with a desaturation ≥ 3%), a summary of the desaturation profile, time in REM/Non-REM sleep, stage distributions, and the arousal index.  The top half of the report will be used in the Participant Feedback Letters, and the bottom half (containing stage distribution and arousal indices) can be used in communications with local physicians.
 
 - <u>SAS report</u> containing >760 variables.
 
