@@ -19,7 +19,7 @@ This Compumedics program must be run prior to review of studies and final scorin
 
 After offline analysis of the record, the CP will then review each study to determine if overall quality is sufficient to be scored (passed/failed), and identify any potential medical alerts (defined as preliminary RDI >45).      In addition, the CP will note any signal quality issues, possible monitor malfunctions, and recommendations for electrode replacements on the Receipt form.
 
-Minimal criteria for study acceptability:  The record must contain at least 4 hours of scorable EEG, oximetry and respiratory data (either airflow, thoracic or abdomen) between (edited) lights off and lights on (Total Recording Time). Recorded time after final awakening will not contribute to this time. Two continuous blocks of scorable data, each at least 2 hours long are required to consider study acceptable for scoring.
+Minimal criteria for study acceptability:  The record must contain at least 4 hours of scorable EEG, oximetry and respiratory data (either airflow, thoracic or abdomen) between (edited) lights off and lights on (Total Time in Bed). Recorded time after final awakening will not contribute to this time. Two continuous blocks of scorable data, each at least 2 hours long are required to consider study acceptable for scoring.
 
 ### 6.5.4 Feedback of Data to the Sites
 
