@@ -27,7 +27,7 @@ _Paradigm 1_:  Statistical hypothesis testing. Fit the variable as is (continuou
 
 Drawbacks:
 
-- There is a clear trend to minimize the use of P-values in statistical inference.
+- There is a clear trend to minimize the use of P-values in statistical inference
 - A straight line and parabola are not the only possible shapes of the dose-response function in the data
 
 _Paradigm 2_:  Categorical analysis.  Categorize the variable.  Issues:  how many categories?  Where to place the cutoff values?  A key consideration is having “enough data” within each category.  Some people prefer “clinical cutpoint” but sometimes the argument is circular since clinical cutpoints are (or should be) based on research findings.
@@ -36,9 +36,9 @@ Drawbacks:
 
 - Results could be strongly dependent on the location of cutoff points.
 - Tail effects are sometimes hidden (collapsed into an average effect of the last category)
-- Categorical analysis is often followed by a “test for trend” which is erroneously interpreted as a test for monotonic dose-response. It is not.
+- Categorical analysis is often followed by a “test for trend” which is erroneously interpreted as a test for monotonic dose-response. It is not
 - The risk function is forced to behave as a step-function
-(References available).
+(References available)
 
 _Paradigm 3_:  Non-parametric or semi-parametric dose-response functions. Not as sensitive to location of cutoff points. Fewer model-imposed restriction. Visual display of the dose-response function.
 
