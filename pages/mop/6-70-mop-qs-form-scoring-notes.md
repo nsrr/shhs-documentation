@@ -121,7 +121,7 @@ If any of the outliers will be found, the scorer will review the study and ident
 
 <u>EMG artifactual</u> (does not show discernible amplitude variations): may result in difficulty  distinguishing REM from non-REM and identify REM- associated arousals. Indicate limitations in boxes 32d, 34b.
 
-<u>EEG artifactual:</u> may result in unreliable or impossible staging and/or arousal identification. Indicate limitations and approaches in boxes 31, 32 (a-d), 22, 34 (a,b,).
+<u>EEG artifactual:</u> may result in unreliable or impossible staging and/or arousal identification. Indicate limitations and approaches in boxes 31, 32 (a-d), 33, 34 (a,b,).
 
 <u>Airflow signal poor:</u> Results in all respiratory events defaulting to hypopneas (none qualify as apnea).  Indicate limitations in box 36.
 
