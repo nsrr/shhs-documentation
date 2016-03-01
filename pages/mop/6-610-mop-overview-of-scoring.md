@@ -45,7 +45,7 @@ The <u>desaturation associated with any respiratory event</u> will be based on t
 - Time and percent of sleep time in each sleep stage (combine Stages 3 and 4).
 - Arousal index.
 - Number/hour of upward stage (from deeper to lighter) shifts; wake shifts.
-- Sleep efficiency.(sleep time/time in bed – lights off to end of study)
+- Sleep efficiency (sleep time/time in bed – lights off to end of study).
 - Sleep latency (lights off to sleep onset); REM latency I (defined as time from onset of sleep to first REM).
 
 <u>Heart Rate data:</u>
