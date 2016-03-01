@@ -27,7 +27,7 @@ The <u>desaturation associated with any respiratory event</u> will be based on t
 - All events (regardless of desaturation or arousal)
 - Summary RDI values, based on events associated with ≥ 2%, ≥ 3%, ≥ 4%, and
  ≥ 5% desaturation levels.
-- Summary RDI values based on events associated with  > 2%, 3%, 4%, and 5% desaturation levels or associated arousal.
+- Summary RDI values based on events associated with  ≥ 2%, ≥ 3%, ≥ 4%, and ≥ 5% desaturation levels or associated arousal.
 - Summary RDI values based on events associated with arousal regardless of desaturation.
 
 <u>Time in apnea or hypopnea:</u>
