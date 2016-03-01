@@ -6,8 +6,8 @@
 
 Weekly scorers’ staff meetings will be conducted at the SRC, with dedication of between 1.5 to 3 hours of time per week for the scorers to meet and discuss scoring issues. The weekly exercises will be organized by the Chief Polysomnologist, with topics that will reflect ongoing needs as identified by the staff or by the CC/PSG Committee. These exercises will include:
 
-- scoring of randomly chosen epochs;
-- scoring of problem records/epochs;
+- scoring of randomly chosen epochs
+- scoring of problem records/epochs
 - discussions of any problematic rules/examples identified during scoring
 - rotating “paired” scoring exercises
 
