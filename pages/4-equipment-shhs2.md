@@ -7,7 +7,7 @@ The SHHS1 units were all re-conditioned before SHHS2 by Compumedics which includ
 The P- series was not a truly digital system, the EEG inputs were hardwired into the amplifier interface and called EEG (C4-A1) and EEG2 (C3-A2) instead of all being collected to a common reference. These signals were collected without additional filtering but the high-pass hardware filters for the instrument were 0.15 Hz for EEG, EOG, EMG and ECG channels and 0.05 Hz for all respiratory signals. For SHHS1 the sampling rate for EEG and ECG was set to 128 Hz but the sampling rate for ECG (only) was bumped up to 250 Hz for the SHHS2 collection, EEGs and EMG maintained sampling at 128, EOGs were sampled at 64, Respiratory signals were sampled at 8, Position, light and oximetry were sampled at 1Hz.
 
 ## EEG surface electrodes
-Grass brand gold disk surface electrodes were used for GND, REF, EOGs, Chin EMG, A1,A2, centrals, and ECG. GND was placed at Cz, REF was on mid-forehead. ECG: 2 leads placed R subclavicle-L lower rib. Occasional modesty issues necessitated altering placement to right subclavicle- left subclavicle.
+Snap electrodes were used for GND, REF, EOGs, Chin EMG, A1,A2, centrals, and ECG. GND was placed at Cz, REF was on mid-forehead. ECG: 2 leads placed R subclavicle-L lower rib. Occasional modesty issues necessitated altering placement to right subclavicle- left subclavicle.
 
 ## Oximeter
 Nonin XPOD Model 3011, proprietary attachment to recording unit. Finger sensor 8000J. Some sites employed re-usable sensors with flexi-fit sensor covers, some sites (Tucson) used disposable finger sensors. Both sensors had identical circuitry boards.
