@@ -1,4 +1,8 @@
-### February 10, 2015
+### March 11, 2016
+
+- Release of dataset version 0.9.0. Read the [CHANGELOG here](https://github.com/sleepepi/shhs-data-dictionary/blob/master/CHANGELOG.md).
+
+### February 10, 2016
 
 - Fix typos and clarify items in documentation
 - Add note in dataset introduction about Strong Heart Study data not being shared
