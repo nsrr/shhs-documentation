@@ -21,6 +21,10 @@ The dataset is broken down into five (5) files that correspond to the main SHHS 
 
 **Note:** Due to sovereignty issues, Strong Heart Study participants are not included in the shared SHHS data. Data from a total of 5804 participants (1915 ARIC, 1230 CHS, 688 Framingham Offspring and 1971 from other studies) consenting to share data are available.
 
+## Dates in the dataset
+
+As part of the de-identification process, all calendar dates were censored from the datasets. These dates have been replaced with a *day offset* type variable that is based upon the `index date`, which for SHHS represents the date of the overnight polysomnography measurement from SHHS Visit 1.
+
 <hr class="soften" style="margin-top: 20px;margin-bottom: 20px;"/>
 
 <div class="center">

@@ -1,3 +1,7 @@
+### April 12, 2016
+
+- Add note to dataset introduction about the SHHS `index date`
+
 ### March 11, 2016
 
 - Release of dataset version 0.9.0. Read the [CHANGELOG here](https://github.com/sleepepi/shhs-data-dictionary/blob/master/CHANGELOG.md).
