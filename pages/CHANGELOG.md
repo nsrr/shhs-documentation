@@ -1,3 +1,7 @@
+### April 18, 2016
+
+- Update citations for users of the dataset
+
 ### April 12, 2016
 
 - Add note to dataset introduction about the SHHS `index date`
