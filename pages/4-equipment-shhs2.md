@@ -31,7 +31,7 @@ There was a Compumedics external light sensor interfaced to the PIB. The hook-up
 No leg EMG sensors for SHHS2. Limiting possible injury to participants was desired since some participants were prepped outside of the home (clinic or medical trailer) hours prior to bedtime.
 
 ## Position
-External Compumedics position sensor with 4 positions.
+External Compumedics position sensor with 4 positions. When viewing EDFs, the values for position are as follows: 0 (Right); 1 (Left); 2 (Back - Supine); 3 (Front - Prone).
 
 ## Snore
 Sound channel not used.
