@@ -1,3 +1,7 @@
+### August 9, 2016
+
+- Included additional dataset citation on documentation index
+
 ### July 26, 2016
 
 - Add note to Equipment pages about meaning of Position signal values in EDF

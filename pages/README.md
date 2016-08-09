@@ -8,8 +8,8 @@ Read more about SHHS at [ClinicalTrials.gov (NCT00005275)](http://clinicaltrials
 
 When citing this dataset please use:
 
-1. [Dean, D. A., Goldberger, A. L., Mueller, R., Kim, M., Rueschman, M., Mobley, D., Sahoo, S. S., Jayapandian, C. P., Cui, L., Morrical, M. G., Surovec, S., Zhang, G. Q., & Redline, S. (2016). Scaling Up Scientific Discovery in Sleep Medicine: The National Sleep Research Resource. *Sleep, 5*, 1151–1164](http://www.ncbi.nlm.nih.gov/pubmed/27070134)
-
+1. [Dean, D. A., Goldberger, A. L., Mueller, R., Kim, M., Rueschman, M., Mobley, D., Sahoo, S. S., Jayapandian, C. P., Cui, L., Morrical, M. G., Surovec, S., Zhang, G. Q., & Redline, S. (2016). Scaling Up Scientific Discovery in Sleep Medicine: The National Sleep Research Resource. *Sleep, 5,* 1151–1164](http://www.ncbi.nlm.nih.gov/pubmed/27070134)
+2. [Quan, S. F., Howard, B. V., Iber, C., Kiley, J. P., Nieto, F. J., O'Connor, G. T., Rapoport, D. M., Redline, S., Robbins, J., Samet, J. M., & Wahl, P. W. (1997). The Sleep Heart Health Study: design, rationale, and methods. *Sleep, 12,* 1077–1085.](http://www.ncbi.nlm.nih.gov/pubmed/9493915/)
 2. [Redline, S., Sanders, M. H., Lind, B. K., Quan, S. F., Iber, C., Gottlieb, D. J., Bonekat, W. H., Rapoport, D. M., Smith, P. L., & Kiley, J. P. (1998). Methods for obtaining and analyzing unattended polysomnography data for a multicenter study. Sleep Heart Health Research Group. *Sleep, 7,* 759–767.](http://www.ncbi.nlm.nih.gov/pubmed/11300121)
 
 Supported by grants (U01HL53916, U01HL53931, U01HL53934, U01HL53937, U01HL53938, U01HL53940, U01HL53941, U01HL64360) from the National Institutes of Health.
@@ -55,5 +55,4 @@ As part of the NSRR's effort to explore the SHHS data in more detail, EEG spectr
 
 ## Publication Links
 
-- [Methods for obtaining and analyzing unattended polysomnography data for a multicenter study.](http://www.ncbi.nlm.nih.gov/pubmed/11300121)
-- [Related Publications](:pages_path:/PUBLICATIONS.md)
+- [Related SHHS Publications](:pages_path:/PUBLICATIONS.md)
