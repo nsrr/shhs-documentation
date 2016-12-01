@@ -1,3 +1,7 @@
+### December 1, 2016
+
+- Added HRV analysis datasets and documentation page
+
 ### August 9, 2016
 
 - Included additional dataset citation on documentation index
