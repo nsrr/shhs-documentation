@@ -45,9 +45,9 @@ A set of 500 SHHS subjects with data at both visits and high quality ECG data we
 
 ## Notes on excluded data
 
-*SHHS1*: There were 14 datasets with less than 5000 NN intervals for the full night, which were excluded.
+_SHHS1_: There were 14 datasets with less than 5000 NN intervals for the full night, which were excluded.
 
-*SHHS2*: There were 5 cases without any NN intervals (200858, 201622, 202164, 203329 and 204375 -- likely atrial fibrillation) that were excluded. In addition, two other cases with less than 50% NNs during sleep time (200139 and 201315) were excluded.
+_SHHS2_: There were 5 cases without any NN intervals (200858, 201622, 202164, 203329 and 204375 -- likely atrial fibrillation) that were excluded. In addition, two other cases with less than 50% NNs during sleep time (200139 and 201315) were excluded.
 
 ## Dataset Structure
 
