@@ -4,7 +4,7 @@
 
 ## Methods
 
-As part of the polysomnographic study, continuous electrocardiographic (ECG) signals were recorded at the following sample frequencies: 50 Hz (2), 200 Hz (594), 250 Hz (15), 256 HZ (176), 512 Hz (86). A Notch filter of 60Hz was applied.
+As part of the polysomnographic study, continuous electrocardiographic (ECG) signals were recorded at the following sample frequencies: 125 Hz (500 SHHS1 studies); 250 Hz (474 SHHS2 studies); 256 Hz (26 SHHS2 studies). A Notch filter of 60Hz was applied.
 
 QRS complexes (R-points) were detected using Compumedics (Abbotsford, VIC, Australia) Somte software Version 2.10 (Builds 99 to 101). The R-points were classified as normal sinus, supraventricular premature complex or ventricular premature complex. The automated annotations were reviewed by a trained technician, who made appropriate corrections.
 
