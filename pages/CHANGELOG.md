@@ -1,3 +1,8 @@
+### January 26, 2017
+
+- Update format of dataset description
+- Add polysomnography introduction
+
 ### December 1, 2016
 
 - Added HRV analysis datasets and documentation page

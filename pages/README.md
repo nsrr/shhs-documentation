@@ -1,16 +1,16 @@
-# About the Study
+# About
 
 The Sleep Heart Health Study (SHHS) is a multi-center cohort study implemented by the National Heart Lung & Blood Institute to determine the cardiovascular and other consequences of sleep-disordered breathing. It tests whether sleep-related breathing is associated with an increased risk of coronary heart disease, stroke, all cause mortality, and hypertension.  In all, 6,441 men and women aged 40 years and older were enrolled between November 1, 1995 and January 31, 1998. During exam cycle 3 (January 2001- June 2003), a second polysomnogram (SHHS-2) was obtained in 3,295 of the participants. Over 130 manuscripts have been published investigating predictors and outcomes of sleep disorders. [Click here for a full description of SHHS.](:pages_path:/full-description.md)
 
 Read more about SHHS at [ClinicalTrials.gov (NCT00005275)](http://clinicaltrials.gov/ct2/show/NCT00005275).
 
-## Dataset Download
+## Data overview
 
-<a href=":files_path:/datasets" class="btn btn-success btn-lg">Download Full Dataset</a> 33 MB
+**[/datasets](:files_path:/datasets)** ([introduction](:pages_path:/3-dataset-introduction.md)) <br/> Core data from SHHS Visit 1 and Visit 2, as well as longitudinal CVD Outcomes tracking.
 
-Read more in the [Dataset Introduction](:pages_path:/3-dataset-introduction.md).
+**[/polysomnography](:files_path:/edfs)** ([introduction](:pages_path:/3-polysomnography-introduction.md))<br/> Overnight polysomnography (PSG) data from SHHS Visit 1 and Visit 2.
 
-## Protocols and Manuals
+## Protocols and manuals
 
 - [SHHS1 Protocol](:files_path:/documentation?f=SHHS1_Protocol.pdf)
 - [SHHS1 Manual of Operations](:files_path:/documentation?f=SHHS1_Manual_of_Operations.pdf)
@@ -43,11 +43,11 @@ As part of the NSRR's effort to explore the SHHS data in more detail, EEG spectr
 
 Read about the [methods, validation, and results for the NSRR HRV analysis efforts](:pages_path:/7-hrv-analysis.md). There are [summary datasets available](:files_path:/datasets/hrv-analysis) and the [included variables can be browsed here](https://www.sleepdata.org/datasets/shhs/variables?folder=HRV+Analysis).
 
-## Recent Changes
+## Recent changes
 
 - Find a complete list of changes in the [CHANGELOG.md](:pages_path:/CHANGELOG.md)
 
-## Publication Links
+## Publication links
 
 - [Related SHHS Publications](:pages_path:/PUBLICATIONS.md)
 
