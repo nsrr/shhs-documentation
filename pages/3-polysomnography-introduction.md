@@ -22,6 +22,9 @@ Notes:
 
 ## History / changelog
 
+*December 2016*
+- Change EDF recording dates from "00.00.00" (invalid) to "01.01.85" (valid de-identified date)
+
 *June 2014*
 - Polysomnography data uploaded to sleepdata.org after exports from Compumedics Profusion
 
