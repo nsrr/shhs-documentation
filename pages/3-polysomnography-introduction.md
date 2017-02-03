@@ -10,7 +10,7 @@ Notes:
 
 ## Signal and annotation files
 
-[Raw polysomnography data](:files_path:/) are available for 5,793 subjects at SHHS Visit 1 and 2,651 subjects at SHHS Visit 2. Each recording has a signal file (.EDF) and two versions of the event scoring and epoch staging annotations (.XML).
+[Raw polysomnography data](:files_path:/polysomnography) are available for 5,793 subjects at SHHS Visit 1 and 2,651 subjects at SHHS Visit 2. Each recording has a signal file (.EDF) and two versions of the event scoring and epoch staging annotations (.XML).
 
 1. **[EDF](:files_path:/polysomnography/edfs)** - Signal files in the [European Data Format](http://www.edfplus.info/) exported from Compumedics Profusion.
 2. **[XML (Profusion)](:files_path:/polysomnography/annotations-events-profusion)** - Annotation files exported from Compumedics Profusion. ([Learn more...](https://github.com/nsrr/edf-editor-translator/wiki/Compumedics-Annotation-Format))
