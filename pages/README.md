@@ -8,7 +8,7 @@ Read more about SHHS at [ClinicalTrials.gov (NCT00005275)](http://clinicaltrials
 
 **[/datasets](:files_path:/datasets)** ([introduction](:pages_path:/3-dataset-introduction.md)) <br/> Core data from SHHS Visit 1 and Visit 2, as well as longitudinal CVD Outcomes tracking.
 
-**[/polysomnography](:files_path:/edfs)** ([introduction](:pages_path:/3-polysomnography-introduction.md))<br/> Overnight polysomnography (PSG) data from SHHS Visit 1 and Visit 2.
+**[/polysomnography](:files_path:/polysomnography)** ([introduction](:pages_path:/3-polysomnography-introduction.md))<br/> Overnight polysomnography (PSG) data from SHHS Visit 1 and Visit 2.
 
 ## Protocols and manuals
 
