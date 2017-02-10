@@ -19,6 +19,7 @@ Notes:
 ## Known issues
 
 - Annotation file event counts may not always directly match the [core datasets](:files_path:/datasets). SHHS data are more than 15 years old and there may have been conversion issues in a limited number of cases.
+- Oxygen desaturation events from the annotation files may be absent and/or may not line up as anticipated with respiratory events. Original scoring data were indelibly changed when converting to a newer version of the scoring software that allowed for the creation of EDF/XML files. Users may opt to derive new desaturation events from the SaO2 signal.
 
 ## History / changelog
 
