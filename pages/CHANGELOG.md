@@ -2,6 +2,7 @@
 
 - Update polysomnography introduction with additional notes about XML files
 - Add note in About section regarding CVD Outcomes tracking
+- Removed outdated tutorials
 
 ### January 26, 2017
 
