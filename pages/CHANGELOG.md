@@ -1,3 +1,7 @@
+### June 6, 2017
+
+- Update polysomnography introduction with additional notes about XML files
+
 ### January 26, 2017
 
 - Update format of dataset description

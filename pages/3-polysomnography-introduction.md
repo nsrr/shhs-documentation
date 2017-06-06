@@ -16,6 +16,8 @@ Notes:
 2. **[XML (Profusion)](:files_path:/polysomnography/annotations-events-profusion)** - Annotation files exported from Compumedics Profusion. ([Learn more...](https://github.com/nsrr/edf-editor-translator/wiki/Compumedics-Annotation-Format))
 3. **[XML (NSRR)](:files_path:/polysomnography/annotations-events-nsrr)** - Annotation files processed in the [EDF Editor and Translator](https://www.sleepdata.org/community/tools/12) tool.
 
+NSRR XML files can be overlaid onto EDF signal files using the [EDF Viewer tool](https://sleepdata.org/community/tools/nsrr-edf-viewer). For more information about the XML translation (mapping) process, review the mapping files available on the [EDF Editor and Translator Releases page](https://github.com/nsrr/edf-editor-translator/releases).
+
 ## Known issues
 
 - Annotation file event counts may not always directly match the [core datasets](:files_path:/datasets). SHHS data are more than 15 years old and there may have been conversion issues in a limited number of cases.
