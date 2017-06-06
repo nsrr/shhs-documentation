@@ -14,7 +14,7 @@ The dataset is broken down into five (5) files that correspond to the main SHHS 
   - 5,804 rows, despite some subjects not having complete data, all original subjects are present in the dataset
 3. `shhs2` (Visit 2) -- the follow-up clinic visit and polysomnogram performed between 2001 and 2003
 	- 4,080 rows, not all cohorts and subjects took part
-4. `shhs-cvd` (CVD Outcomes) -- the tracking of adjudicated heart health outcomes (e.g. stroke, heart attack)
+4. `shhs-cvd` (CVD Outcomes) -- the tracking of adjudicated heart health outcomes (e.g. stroke, heart attack) between baseline and 2008-2011 (varies by parent cohort)
 	- 5,802 rows, outcomes data were not provided on all subjects
 5. `shhs-cvd-events` (CVD Outcome Events) -- event-level details for the tracking of heart health outcomes
   - 4,840 rows, representing individual events
