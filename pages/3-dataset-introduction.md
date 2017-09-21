@@ -17,7 +17,7 @@ The dataset is broken down into five (5) files that correspond to the main SHHS 
 4. `shhs-cvd` (CVD Outcomes) -- the tracking of adjudicated heart health outcomes (e.g. stroke, heart attack) between baseline and 2008-2011 (varies by parent cohort)
 	- 5,802 rows, outcomes data were not provided on all subjects
 5. `shhs-cvd-events` (CVD Outcome Events) -- event-level details for the tracking of heart health outcomes
-  - 4,840 rows, representing individual events
+  - 4,839 rows, representing individual events
 
 **Note:** Due to sovereignty issues, Strong Heart Study participants are not included in the shared SHHS data. Data from a total of 5804 participants (1915 ARIC, 1230 CHS, 688 Framingham Offspring and 1971 from other studies) consenting to share data are available.
 
