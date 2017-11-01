@@ -1,3 +1,7 @@
+### November 1, 2017
+
+- Add notes about CVD outcomes and mortality adjudication to dataset introduction
+
 ### June 6, 2017
 
 - Update polysomnography introduction with additional notes about XML files
