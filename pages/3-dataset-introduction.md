@@ -41,8 +41,8 @@ The following description was provided by the SHHS Coordinating Center:
 > 2. Coronary surgical intervention -- percutaneous transcutaneous angioplasty (PTCA), coronary stent placement, coronary artery bypass grafting (CABG)
 > 3. Congestive Heart Failure (CHF)
 > 4. Coronary heart disease death
-> 5. Any coronary heart disease (CHD) -- summary variable which includes a, b, and d above.
-> 6. Any cardiovascular disease (CVD) -- summary variable which includes a - d above.
+> 5. Any coronary heart disease (CHD) -- summary variable which includes 1, 2, and 4 above.
+> 6. Any cardiovascular disease (CVD) -- summary variable which includes 1 to 4 above.
 > 7. Angina pectoris (AP) -- at CHS and FHS only
 >
 > The following recurrent events will be considered endpoints for the SHHS:
