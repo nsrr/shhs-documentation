@@ -37,19 +37,19 @@ The following description was provided by the SHHS Coordinating Center:
 >
 > Key outcomes for SHHS include the following incident or recurrent CVD events or diagnoses occurring subsequent to the first SHHS PSG:
 >
-> A. Hospitalized acute MI (HAMI)
-> B. Coronary surgical intervention -- percutaneous transcutaneous angioplasty (PTCA), coronary stent placement, coronary artery bypass grafting (CABG)
-> C. Congestive Heart Failure (CHF)
-> D. Coronary heart disease death
-> E. Any coronary heart disease (CHD) -- summary variable which includes a, b, and d above.
-> F. Any cardiovascular disease (CVD) -- summary variable which includes a - d above.
-> G. Angina pectoris (AP) -- at CHS and FHS only
+> 1. Hospitalized acute MI (HAMI)
+> 2. Coronary surgical intervention -- percutaneous transcutaneous angioplasty (PTCA), coronary stent placement, coronary artery bypass grafting (CABG)
+> 3. Congestive Heart Failure (CHF)
+> 4. Coronary heart disease death
+> 5. Any coronary heart disease (CHD) -- summary variable which includes a, b, and d above.
+> 6. Any cardiovascular disease (CVD) -- summary variable which includes a - d above.
+> 7. Angina pectoris (AP) -- at CHS and FHS only
 >
 > The following recurrent events will be considered endpoints for the SHHS:
 >
-> A. HAMI
-> B. Coronary surgical intervention
-> C. Stroke
+> 1. HAMI
+> 2. Coronary surgical intervention
+> 3. Stroke
 
 [Punjabi et al. (2009)](https://www.ncbi.nlm.nih.gov/pubmed/19688045) includes an overview of how mortality data were ascertained from the cohorts:
 
