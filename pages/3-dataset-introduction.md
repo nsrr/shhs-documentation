@@ -50,7 +50,9 @@ The following description was provided by the SHHS Coordinating Center:
 > 1. HAMI
 > 2. Coronary surgical intervention
 > 3. Stroke
+>
+> Outcomes were tracked until sometime between 2008 and 2011, varying by cohort.
 
-[Punjabi et al. (2009)](https://www.ncbi.nlm.nih.gov/pubmed/19688045) includes an overview of how mortality data were ascertained from the cohorts:
+The [vital](https://sleepdata.org/datasets/shhs/variables/vital) variable provides mortality status. [Punjabi et al. (2009)](https://www.ncbi.nlm.nih.gov/pubmed/19688045) includes an overview of how mortality data were ascertained from the cohorts:
 
 > Deaths from any cause, the primary endpoint for this report, were identified and confirmed for the cohort using multiple concurrent approaches including follow-up interviews, written annual questionnaires or telephone contacts with study participants or next-of-kin, surveillance of local hospital records and community obituaries, and linkage with the Social Security Administration Death Master File. Using these methods, 1,047 deaths were identified in the incident cohort with a censoring date of April 1, 2006. During the follow-up period, 147 participants reported treatment with positive airway pressure, an oral appliance, supplemental oxygen, or an open tracheostomy. Sensitivity analyses with exclusion of these participants showed that estimates of mortality risk associated with sleep-disordered breathing remained materially unchanged. Thus, analyses that exclude these participants are reported herein.
