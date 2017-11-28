@@ -28,7 +28,7 @@ Limitations to the application of SpectralTrainFig to data include inherent chal
 
 [Result datasets](:files_path:/datasets/eeg-spectral-analysis) for SHHS Visit 1 and Visit 2 have been posted for EEG spectral analysis.
 
-- Datasets are keyed on `obf_pptid` and `signal`, e.g. Participant ID 123 and Signal EEG.
+- Datasets are keyed on `nsrrid` and `signal`, e.g. Participant ID 123 and Signal EEG.
 - The `spectral-summary` datasets include power density summarized in different frequency bins, broken down by NREM and REM sleep
 - The `band-summary` datasets include power density summarized by frequency bands (e.g. Delta, Theta), broken down by NREM and REM sleep
 

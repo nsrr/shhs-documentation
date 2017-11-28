@@ -51,7 +51,7 @@ _SHHS2_: There were 5 cases without any NN intervals (200858, 201622, 202164, 20
 
 ## Dataset Structure
 
-[Result datasets](:files_path:/datasets/hrv-analysis) have been posted for HRV analysis. Datasets are keyed on `OBF_PPTID`.
+[Result datasets](:files_path:/datasets/hrv-analysis) have been posted for HRV analysis. Datasets are keyed on `nsrrid`.
 
 ## References
 
