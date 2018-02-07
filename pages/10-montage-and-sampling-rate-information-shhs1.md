@@ -19,20 +19,4 @@ The settings below represent the standards set at the beginning of the project. 
 | New Air   |                       |   10                 |  High pass 0.05         | Compumedics thermistor (AUX channel 12)/ProTech thermistor M325 (New Air channel 17)             |
 | OX STAT   |                       |    1                 |                         | Nonin XPOD 3011, 8000 sensor              |
 
-For more information please refer to [Technical Notes on SHHS1](:pages_path:/4-equipment-shhs1.md)
-
-<hr class="soften" style="margin-top: 20px;margin-bottom: 20px;"/>
-
-<div class="center">
-<div class="btn-group">
-  <a href=":pages_path:/4-equipment-shhs2.md" class="btn btn-default">
-    <span class="glyphicon glyphicon-chevron-left"></span>
-    Technical Notes on SHHS2
-  </a>
-
-  <a href=":pages_path:/5-montage-and-sampling-rate-information-shhs2.md" class="btn btn-success">
-    Montage and Sampling Rate Information [on SHH2]
-    <span class="glyphicon glyphicon-chevron-right"></span>
-  </a>
-</div>
-</div>
+For more information please refer to [Technical Notes on SHHS1](:pages_path:/08-equipment-shhs1.md)

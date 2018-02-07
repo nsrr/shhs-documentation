@@ -6,9 +6,9 @@ Read more about SHHS at [ClinicalTrials.gov (NCT00005275)](http://clinicaltrials
 
 ## Data overview
 
-**[/datasets](:files_path:/datasets)** ([introduction](:pages_path:/3-dataset-introduction.md)) <br/> Core data from SHHS Visit 1 and Visit 2, as well as longitudinal CVD Outcomes tracking.
+**[/datasets](:files_path:/datasets)** ([introduction](:pages_path:/04-dataset-introduction.md)) <br/> Core data from SHHS Visit 1 and Visit 2, as well as longitudinal CVD Outcomes tracking.
 
-**[/polysomnography](:files_path:/polysomnography)** ([introduction](:pages_path:/3-polysomnography-introduction.md))<br/> Overnight polysomnography (PSG) data from SHHS Visit 1 and Visit 2.
+**[/polysomnography](:files_path:/polysomnography)** ([introduction](:pages_path:/05-polysomnography-introduction.md))<br/> Overnight polysomnography (PSG) data from SHHS Visit 1 and Visit 2.
 
 ## Protocols and manuals
 
@@ -23,25 +23,25 @@ Read more about SHHS at [ClinicalTrials.gov (NCT00005275)](http://clinicaltrials
 
 ## Analysis
 
-- [Data Analysis Tip Sheet](:pages_path:/3-data-analysis-tip-sheet.md)
-- [Dataset Introduction](:pages_path:/3-dataset-introduction.md)
-- [Reliability for SHHS1](:pages_path:/3-reliability-shhs1.md)
-- [Reliability for SHHS2](:pages_path:/3-reliability-shhs2.md)
+- [Data Analysis Tip Sheet](:pages_path:/03-data-analysis-tip-sheet.md)
+- [Dataset Introduction](:pages_path:/04-dataset-introduction.md)
+- [Reliability for SHHS1](:pages_path:/06-reliability-shhs1.md)
+- [Reliability for SHHS2](:pages_path:/07-reliability-shhs2.md)
 
 ## Equipment
 
-- [Technical Notes on SHHS1](:pages_path:/4-equipment-shhs1.md)
-- [Technical Notes on SHHS2](:pages_path:/4-equipment-shhs2.md)
-- [Montage and Sampling Rate Information on SHHS1](:pages_path:/5-montage-and-sampling-rate-information-shhs1.md)
-- [Montage and Sampling Rate Information on SHHS2](:pages_path:/5-montage-and-sampling-rate-information-shhs2.md)
+- [Technical Notes on SHHS1](:pages_path:/08-equipment-shhs1.md)
+- [Technical Notes on SHHS2](:pages_path:/09-equipment-shhs2.md)
+- [Montage and Sampling Rate Information on SHHS1](:pages_path:/10-montage-and-sampling-rate-information-shhs1.md)
+- [Montage and Sampling Rate Information on SHHS2](:pages_path:/11-montage-and-sampling-rate-information-shhs2.md)
 
 ## EEG Spectral Analysis
 
-As part of the NSRR's effort to explore the SHHS data in more detail, EEG spectral analysis was performed. Read more about the [methods, validation, and results for the NSRR EEG spectral analysis efforts](:pages_path:/6-eeg-spectral-analysis.md). [Summary datasets are available](:files_path:/datasets/eeg-spectral-analysis) and the [included variables can be browsed here](https://www.sleepdata.org/datasets/shhs/variables?folder=Spectral+Analysis).
+As part of the NSRR's effort to explore the SHHS data in more detail, EEG spectral analysis was performed. Read more about the [methods, validation, and results for the NSRR EEG spectral analysis efforts](:pages_path:/12-eeg-spectral-analysis.md). [Summary datasets are available](:files_path:/datasets/eeg-spectral-analysis) and the [included variables can be browsed here](https://www.sleepdata.org/datasets/shhs/variables?folder=Spectral+Analysis).
 
 ## Heart Rate Variability (HRV) Analysis
 
-Read about the [methods, validation, and results for the NSRR HRV analysis efforts](:pages_path:/7-hrv-analysis.md). There are [summary datasets available](:files_path:/datasets/hrv-analysis) and the [included variables can be browsed here](https://www.sleepdata.org/datasets/shhs/variables?folder=HRV+Analysis).
+Read about the [methods, validation, and results for the NSRR HRV analysis efforts](:pages_path:/13-hrv-analysis.md). There are [summary datasets available](:files_path:/datasets/hrv-analysis) and the [included variables can be browsed here](https://www.sleepdata.org/datasets/shhs/variables?folder=HRV+Analysis).
 
 ## Recent changes
 

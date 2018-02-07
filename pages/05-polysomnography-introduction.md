@@ -4,8 +4,8 @@ Data collection for PSG was standardized among various manufactured instruments 
 
 Notes:
 
-- [Montage and Sampling Rate Information on SHHS1](:pages_path:/5-montage-and-sampling-rate-information-shhs1.md)
-- [Montage and Sampling Rate Information on SHHS2](:pages_path:/5-montage-and-sampling-rate-information-shhs2.md)
+- [Montage and Sampling Rate Information on SHHS1](:pages_path:/10-montage-and-sampling-rate-information-shhs1.md)
+- [Montage and Sampling Rate Information on SHHS2](:pages_path:/11-montage-and-sampling-rate-information-shhs2.md)
 - [Sleep Reading Center Manual of Operations](:pages_path:/mop/6-00-mop-toc.md)
 
 ## Signal and annotation files

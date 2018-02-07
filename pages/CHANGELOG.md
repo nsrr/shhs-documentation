@@ -1,3 +1,7 @@
+### February 7, 2018
+
+- Restructured order of documentation pages
+
 ### November 1, 2017
 
 - Add notes about CVD outcomes and mortality adjudication to dataset introduction

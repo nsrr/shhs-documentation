@@ -40,20 +40,4 @@ The settings below represent the standards set at the beginning of the project. 
 | Light     |                       |    1                 |                         | External ambient light sensor            |
 | OX STAT   |                       |    1                 |                         | Nonin XPOD 3011, 8000 sensor             |
 
-For more information please refer to [Technical Notes on SHHS2](:pages_path:/4-equipment-shhs2.md)
-
-<hr class="soften" style="margin-top: 20px;margin-bottom: 20px;"/>
-
-<div class="center">
-<div class="btn-group">
-  <a href=":pages_path:/5-montage-and-sampling-rate-information-shhs1.md" class="btn btn-default">
-    <span class="glyphicon glyphicon-chevron-left"></span>
-    Montage and Sampling Rate Information [on SHHS1]
-  </a>
-
-  <a href=":pages_path:/mop/6-00-mop-toc.md" class="btn btn-success">
-    Manual of Operations
-    <span class="glyphicon glyphicon-chevron-right"></span>
-  </a>
-</div>
-</div>
+For more information please refer to [Technical Notes on SHHS2](:pages_path:/09-equipment-shhs2.md)
