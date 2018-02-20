@@ -58,8 +58,6 @@ The Compumedics P-Series Sleep Monitoring System used for SHHS1 consisted of a M
 The Compumedics P-series Sleep Monitoring systems used for SHHS1 were prototype units that were refined and modified by Compumedics during study collection and there were  proprietary function algorithms that were not always shared by the company engineers. For example, a different “weight” was given to the 2 EEG signals: EEG1 (C4-A1) visually appeared to be a “cleaner” signal (less high frequency within the waveforms) than EEG2 (C3-A2) however Compumedics would not share why.
 
 In 2013 at request of the Reading Center, a Compumedics engineer ran simulations of the P Series schematic X5240A from Nov 98 to get the following freq. response:
-
-```
 Ch1        EEG/2  High pass filter -3dB 0.39Hz (2 pole),  Low pass filter -3dB 10.6 Hz (multiple poles)
 Ch2        ECG    High pass filter -3dB 0.41Hz (2 pole),  Low pass filter -3dB  9.4 Hz (multiple poles)
 Ch6/7      EOG    High pass filter -3dB 0.41Hz (2 pole),  Low pass filter -3dB  9.4 Hz (multiple poles)
@@ -97,7 +95,7 @@ Real time Clock...Ok
 
 - Light sensor:  There was a Compumedics light sensor interfaced to the PIB.  The hook-up tech would calibrate this sensor in the home to ambient room light and darkness to collect a signal for lights off.  This was not always reliable.
 
-- Oximetry:  Nonin XPOD Model 3011, proprietary attachment to recording unit.  Finger sensor 8000J. Some sites employed reusable sensors with flexi-fit sensor covers, some sites (Tucson) used disposable finger sensors.  Both sensors had identical circuitry boards.  In December of 1995 determined that there was a problem with circuitry board and Nonin sensors being used.  All units were were modified in January of 1996 to correct the problem with oximetry signals.
+- Oximetry:  Nonin XPOD Model 3011, proprietary attachment to recording unit.  Finger sensor 8000J. Some sites employed reusable sensors with flexi-fit sensor covers, some sites (Tucson) used disposable finger sensors.  Both sensors had identical circuitry boards.  In December of 1995 determined that there was a problem with circuitry board and Nonin sensors being used.  All units were modified in January of 1996 to correct the problem with oximetry signals.
 
 - No leg EMG sensors were used.   No Nasal Pressure sensor was used.
 
