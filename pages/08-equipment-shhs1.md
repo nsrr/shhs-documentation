@@ -93,7 +93,7 @@ Real time Clock...Ok
 
 - Respiratory Bands:  White Respitrace Inductance Plethysmography.  There was no SUM signal generation.  When Respitrace no longer produced the belts, Compumedics refurbished the original bands and continued to provide repair service when needed.
 
-- Position Sensor:  A mercury guage, sensitive to changes in position, was embedded in the headbox.  No special attachment was needed.  Calibrated in the home. When viewing EDFs, the values for position are as follows: 0 (Right); 1 (Left); 2 (Back - Supine); 3 (Front - Prone).
+- Position Sensor:  A mercury gauge, sensitive to changes in position, was embedded in the headbox.  No special attachment was needed.  Calibrated in the home. When viewing EDFs, the values for position are as follows: 0 (Right); 1 (Left); 2 (Back - Supine); 3 (Front - Prone).
 
 - Light sensor:  There was a Compumedics light sensor interfaced to the PIB.  The hook-up tech would calibrate this sensor in the home to ambient room light and darkness to collect a signal for lights off.  This was not always reliable.
 
