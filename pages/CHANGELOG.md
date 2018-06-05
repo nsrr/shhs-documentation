@@ -1,3 +1,7 @@
+### June 5, 2018
+
+- Update citation list on README
+
 ### February 7, 2018
 
 - Restructured order of documentation pages
