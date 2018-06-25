@@ -55,7 +55,7 @@ _SHHS2_: There were 5 cases without any NN intervals (200858, 201622, 202164, 20
 
 ## R-point annotations
 
-[Individual CSV files are available with R-points](:files_path:/polysomnography/annotations-rpoints) for each heartbeat. These annotations were reviewed by a trained technician after exporting from the Compumedics Somte software. ECG was sampled at 125 Hz in SHHS1 and both 250/256 Hz in SHHS2. The Somte software always outputs sampling numbers assuming 256 Hz, however the `rpointadj` column has been added to provide an adjusted sample number based on the sampling rate of the recording of interest.
+[Individual CSV files are available with R-points](:files_path:/polysomnography/annotations-rpoints) for each heartbeat. These annotations were reviewed by a trained technician after exporting from the Compumedics Somte software. ECG was sampled at 125 Hz in SHHS1 and 250/256 Hz in SHHS2. The Somte software outputs sampling numbers assuming 256 Hz, however the `rpointadj` column has been added to provide an adjusted sample number based on the actual sampling rate of the recording of interest.
 
 | Name                      | Label (with Units / Notes)                                                                                                                                                            |
 | ------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
