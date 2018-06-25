@@ -53,6 +53,34 @@ _SHHS2_: There were 5 cases without any NN intervals (200858, 201622, 202164, 20
 
 [Result datasets](:files_path:/datasets/hrv-analysis) have been posted for HRV analysis. Datasets are keyed on `nsrrid`.
 
+## R-point annotations
+
+[Individual CSV files are available with R-points](:files_path:/polysomnography/annotations-rpoints) for each heartbeat. These annotations were reviewed by a trained technician after exporting from the Compumedics Somte software. ECG was sampled at 125 Hz in SHHS1 and both 250/256 Hz in SHHS2. The Somte software always outputs sampling numbers assuming 256 Hz, however the `rpointadj` column has been added to provide an adjusted sample number based on the sampling rate of the recording of interest.
+
+| Name                      | Label (with Units / Notes)                                                                                                                                                            |
+| ------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <nobr>`RPoint`</nobr>     | Sample Number indicating R Point (peak of QRS)                                                                                                                                        |
+| <nobr>`Start`</nobr>      | Sample Number indicating start of beat                                                                                                                                                |
+| <nobr>`End`</nobr>        | Sample Number indicating end of beat                                                                                                                                                  |
+| <nobr>`STLevel1`</nobr>   | Level of ECG 1 in Raw data ( 65536 peak to peak rawdata = 10mV peak to peak)                                                                                                          |
+| <nobr>`STSlope1`</nobr>   | Slope of ECG 1 stored as and int to convert to a double divide raw value by 1000.0                                                                                                    |
+| <nobr>`STLevel2`</nobr>   | Level of ECG 2 in Raw data ( 65536 peak to peak rawdata = 10mV peak to peak)                                                                                                          |
+| <nobr>`STSlope2`</nobr>   | Slope of ECG 2 stored as and int to convert to a double divide raw value by 1000.0                                                                                                    |
+| <nobr>`Manual`</nobr>     | (True / False) True if record was manually inserted                                                                                                                                   |
+| <nobr>`Type`</nobr>       | Type of beat (0 = Artifact / 1 = Normal Sinus Beat / 2 = VE / 3 = SVE)                                                                                                                |
+| <nobr>`Class`</nobr>      | This Field is no longer used                                                                                                                                                          |
+| <nobr>`PPoint`</nobr>     | Sample Number indicating peak of the P wave (-1 if no P wave detected)                                                                                                                |
+| <nobr>`PStart`</nobr>     | Sample Number indicating start of the P wave                                                                                                                                          |
+| <nobr>`PEnd`</nobr>       | Sample Number indicating end of the P wave                                                                                                                                            |
+| <nobr>`TPoint`</nobr>     | Sample Number indicating peak of the T wave (-1 if no T wave detected)                                                                                                                |
+| <nobr>`TStart`</nobr>     | Sample Number indicating start of the T wave                                                                                                                                          |
+| <nobr>`TEnd`</nobr>       | Sample Number indicating end of the T wave                                                                                                                                            |
+| <nobr>`TemplateID`</nobr> | The ID of the template to which this beat has been assigned (-1 if not assigned to a template)                                                                                        |
+| <nobr>`samplingrate`</nobr> | ECG Sampling Rate (Hz)                                                                                                                                                              |
+| <nobr>`seconds`</nobr>    | Number of seconds from beginning of recording to R-point (RPoint / 256)                                                                                               |
+| <nobr>`epoch`</nobr>      | Epoch (30 second) number                                                                                                                                                              |
+| <nobr>`rpointadj`</nobr>  | R Point adjusted sample number (RPoint * (samplingrate/256))                                                                                                                          |
+
 ## References
 
 The open source code used for this analysis along with a tutorial on its use is available at the NIH-sponsored Research Resource for Complex Physiologic Signals: http://physionet.org/tutorials/hrv-toolkit/
