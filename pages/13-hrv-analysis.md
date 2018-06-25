@@ -76,6 +76,7 @@ _SHHS2_: There were 5 cases without any NN intervals (200858, 201622, 202164, 20
 | <nobr>`TStart`</nobr>     | Sample Number indicating start of the T wave                                                                                                                                          |
 | <nobr>`TEnd`</nobr>       | Sample Number indicating end of the T wave                                                                                                                                            |
 | <nobr>`TemplateID`</nobr> | The ID of the template to which this beat has been assigned (-1 if not assigned to a template)                                                                                        |
+| <nobr>`nsrrid`</nobr>     | NSRR Subject Identifier                                                                                                                                                               |
 | <nobr>`samplingrate`</nobr> | ECG Sampling Rate (Hz)                                                                                                                                                              |
 | <nobr>`seconds`</nobr>    | Number of seconds from beginning of recording to R-point (RPoint / 256)                                                                                               |
 | <nobr>`epoch`</nobr>      | Epoch (30 second) number                                                                                                                                                              |

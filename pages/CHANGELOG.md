@@ -1,3 +1,7 @@
+### June 25, 2018
+
+- Add details about HRV R-point annotation files
+
 ### June 5, 2018
 
 - Update citation list on README
