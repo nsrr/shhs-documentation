@@ -61,7 +61,7 @@ The [vital](https://sleepdata.org/datasets/shhs/variables/vital) variable provid
 
 The NSRR provides [original data collection forms as PDFs](:files_path:/forms). Many [variables link to these forms](https://sleepdata.org/datasets/shhs/variables) to give users a better idea about the origins of the underlying data.
 
-**Disclaimer:** The forms are included here for historical purposes only and are not intended for use in prospective studies. If you wish to use these forms, please check existing copyrights and regulations beforehand.
+The forms are included here for historical purposes only and are not intended for use in prospective studies. If you wish to use these forms, please check existing copyrights and regulations beforehand.
 
 ## Questions?
 
