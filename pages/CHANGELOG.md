@@ -1,3 +1,7 @@
+### July 26, 2018
+
+- Add disclaimer about using data collection forms
+
 ### June 25, 2018
 
 - Add details about HRV R-point annotation files

@@ -41,3 +41,7 @@ The settings below represent the standards set at the beginning of the project. 
 | OX STAT   |                       |    1                 |                         | Nonin XPOD 3011, 8000 sensor             |
 
 For more information please refer to [Technical Notes on SHHS2](:pages_path:/09-equipment-shhs2.md)
+
+## Questions?
+
+Please reach out to us at support@sleepdata.org or in the [Forum](https://sleepdata.org/forum) if you have questions.
