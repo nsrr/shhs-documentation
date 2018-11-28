@@ -45,7 +45,7 @@ Read about the [methods, validation, and results for the NSRR HRV analysis effor
 
 ## Methods in Biostatistics with R
 
-A group of NSRR users wrote an E-book titled [*Methods in Biostatistics with R*](https://leanpub.com/biostatmethods) that uses a subset of SHHS data for many coding examples. The book-specific dataset is [available here for download](:files_path:/biostatistics-with-r).
+NSRR user Ciprian Crainiceanu and colleagues wrote an E-book titled [*Methods in Biostatistics with R*](https://leanpub.com/biostatmethods) that uses a subset of SHHS data for many coding examples. The book-specific dataset is [available here for download](:files_path:/biostatistics-with-r).
 
 ## Recent changes
 
