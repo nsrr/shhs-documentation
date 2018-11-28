@@ -1,3 +1,7 @@
+### November 28, 2018
+
+- Add blurb about Methods in Biostatistics with R book and dataset
+
 ### July 26, 2018
 
 - Add disclaimer about using data collection forms

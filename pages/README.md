@@ -43,6 +43,10 @@ As part of the NSRR's effort to explore the SHHS data in more detail, EEG spectr
 
 Read about the [methods, validation, and results for the NSRR HRV analysis efforts](:pages_path:/13-hrv-analysis.md). There are [summary datasets available](:files_path:/datasets/hrv-analysis) and the [included variables can be browsed here](https://www.sleepdata.org/datasets/shhs/variables?folder=HRV+Analysis).
 
+## Methods in Biostatistics with R
+
+A group of NSRR users wrote an E-book titled [*Methods in Biostatistics with R*](https://leanpub.com/biostatmethods) that uses a subset of SHHS data for many coding examples. The book-specific dataset is [available here for download](:files_path:/biostatistics-with-r)
+
 ## Recent changes
 
 - Find a complete list of changes in the [CHANGELOG.md](:pages_path:/CHANGELOG.md)
