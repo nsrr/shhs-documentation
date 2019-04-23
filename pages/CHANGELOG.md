@@ -59,7 +59,7 @@
 
 ### March 11, 2016
 
-- Release of dataset version 0.9.0. Read the [CHANGELOG here](https://github.com/sleepepi/shhs-data-dictionary/blob/master/CHANGELOG.md).
+- Release of dataset version 0.9.0. Read the [CHANGELOG here](https://github.com/nsrr/shhs-data-dictionary/blob/master/CHANGELOG.md).
 
 ### February 10, 2016
 
@@ -146,7 +146,7 @@
 
 ### November 5, 2013
 
-- We added the complete list of [variables](/collection?d=shhs) and domains based on the [v0.1.0 tag](https://github.com/sleepepi/shhs-data-dictionary/tree/v0.1.0) of the SHHS data dictionary.
+- We added the complete list of [variables](/collection?d=shhs) and domains based on the [v0.1.0 tag](https://github.com/nsrr/shhs-data-dictionary/tree/v0.1.0) of the SHHS data dictionary.
 - A notable variable we'd like to highlight is [rdi3p](/collection?d=shhs&s=rdi3p).
     - Commonly used index composed of all [central](/collection?d=shhs&s=central+3%25) and [obstructive](/collection?d=shhs&s=obstructive+3%25) apneas with at least 3% oxygen desaturation over the [total sleep time](/collection?d=shhs&s=slpprdp).
 
