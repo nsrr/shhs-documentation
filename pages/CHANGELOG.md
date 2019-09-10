@@ -1,3 +1,7 @@
+## September 10, 2019
+
+- Corrected sampling rate error for SHHS1 Montage and updated SHHS2 equipment notes
+
 ### November 28, 2018
 
 - Add blurb about Methods in Biostatistics with R book and dataset

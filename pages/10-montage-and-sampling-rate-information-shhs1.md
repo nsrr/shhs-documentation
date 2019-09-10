@@ -7,7 +7,7 @@ The settings below represent the standards set at the beginning of the project. 
 | SaO2      |                       |    1                 |                         | Nonin XPOD 3011, 8000 sensor             |
 | H.R.      |                       |    1                 |                         | Nonin XPOD 3011, 8000 sensor             |
 | EEG (sec) | C3/A2                 |  125                 |  High pass 0.15         | Gold cup electrode                       |
-| ECG       | ECG1/ECG2 |  265      |  125                 |  High pass 0.15         | Ag/AgCl patch                            |
+| ECG       | ECG1/ECG2             |  125                 |  High pass 0.15         | Ag/AgCl patch                            |
 | EOG(L)    | EOG(L)/PG1            |   50                 |  High pass 0.15         | Gold cup electrode                       |
 | EOG(R)    | EOG(R)/PG1            |   50                 |  High pass 0.15         | Gold cup electrode                       |
 | EMG       | EMG1/EMG2             |  125                 |  High pass 0.15         | Gold cup electrode                       |
