@@ -1,6 +1,6 @@
 ## September 27, 2019
 
-- Add [Documentation of Analytic Database](:files_path:/SHHS_Documentation_of_Analytic_Database.pdf?inline=1)
+- Add [Documentation of Analytic Database](:files_path:/documentation?f=SHHS_Documentation_of_Analytic_Database.pdf)
 
 ## September 10, 2019
 
