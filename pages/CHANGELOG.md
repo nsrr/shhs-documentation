@@ -1,3 +1,7 @@
+## September 27, 2019
+
+- Add [Documentation of Analytic Database](:files_path:/SHHS_Documentation_of_Analytic_Database.pdf?inline=1)
+
 ## September 10, 2019
 
 - Corrected sampling rate error for SHHS1 Montage and updated SHHS2 equipment notes

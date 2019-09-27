@@ -27,6 +27,7 @@ Read more about SHHS at [ClinicalTrials.gov (NCT00005275)](http://clinicaltrials
 - [Dataset Introduction](:pages_path:/04-dataset-introduction.md)
 - [Reliability for SHHS1](:pages_path:/06-reliability-shhs1.md)
 - [Reliability for SHHS2](:pages_path:/07-reliability-shhs2.md)
+- [Documentation of Analytic Database](:files_path:/SHHS_Documentation_of_Analytic_Database.pdf?inline=1)
 
 ## Equipment
 
