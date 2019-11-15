@@ -36,10 +36,6 @@ Read more about SHHS at [ClinicalTrials.gov (NCT00005275)](http://clinicaltrials
 - [Montage and Sampling Rate Information on SHHS1](:pages_path:/10-montage-and-sampling-rate-information-shhs1.md)
 - [Montage and Sampling Rate Information on SHHS2](:pages_path:/11-montage-and-sampling-rate-information-shhs2.md)
 
-## EEG Spectral Analysis
-
-As part of the NSRR's effort to explore the SHHS data in more detail, EEG spectral analysis was performed. Read more about the [methods, validation, and results for the NSRR EEG spectral analysis efforts](:pages_path:/12-eeg-spectral-analysis.md). [Summary datasets are available](:files_path:/datasets/eeg-spectral-analysis) and the [included variables can be browsed here](https://www.sleepdata.org/datasets/shhs/variables?folder=Spectral+Analysis).
-
 ## Heart Rate Variability (HRV) Analysis
 
 Read about the [methods, validation, and results for the NSRR HRV analysis efforts](:pages_path:/13-hrv-analysis.md). There are [summary datasets available](:files_path:/datasets/hrv-analysis) and the [included variables can be browsed here](https://www.sleepdata.org/datasets/shhs/variables?folder=HRV+Analysis).
