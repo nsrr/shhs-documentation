@@ -8,8 +8,9 @@ Read more about SHHS at [ClinicalTrials.gov (NCT00005275)](http://clinicaltrials
 
 When using this dataset, please cite the following:
 
-> 1. Zhang GQ, Cui L, Mueller R, Tao S, Kim M, Rueschman M, Mariani S, Mobley D, Redline S. [**The National Sleep Research Resource: towards a sleep data commons.**](https://www.ncbi.nlm.nih.gov/pubmed/29860441) J Am Med Inform Assoc. 2018 May 31. doi: 10.1093/jamia/ocy064. [Epub ahead of print] PubMed PMID: 29860441.
-> 2. Quan SF, Howard BV, Iber C, Kiley JP, Nieto FJ, O'Connor GT, Rapoport DM, Redline S, Robbins J, Samet JM, Wahl PW. [**The Sleep Heart Health Study: design, rationale, and methods.**](https://www.ncbi.nlm.nih.gov/pubmed/9493915) Sleep. 1997 Dec;20(12):1077-85. PubMed PMID: 9493915.
+> Zhang GQ, Cui L, Mueller R, Tao S, Kim M, Rueschman M, Mariani S, Mobley D, Redline S. [**The National Sleep Research Resource: towards a sleep data commons.**](https://www.ncbi.nlm.nih.gov/pubmed/29860441) J Am Med Inform Assoc. 2018 May 31. doi: 10.1093/jamia/ocy064. [Epub ahead of print] PubMed PMID: 29860441.
+>
+> Quan SF, Howard BV, Iber C, Kiley JP, Nieto FJ, O'Connor GT, Rapoport DM, Redline S, Robbins J, Samet JM, Wahl PW. [**The Sleep Heart Health Study: design, rationale, and methods.**](https://www.ncbi.nlm.nih.gov/pubmed/9493915) Sleep. 1997 Dec;20(12):1077-85. PubMed PMID: 9493915.
 
 Please include the following text in the Acknowledgements:
 
