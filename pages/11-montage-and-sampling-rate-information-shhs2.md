@@ -14,7 +14,7 @@ The settings below represent the standards set at the beginning of the project. 
 | Left EOG        | EOG(L)    | EOG(L)   | PG1     | 50                 | High pass 0.15        | Gold cup electrode                    |
 | Right EOG       | EOG(R)    | EOG(R)   | PG1     | 50                 | High pass 0.15        | Gold cup electrode                    |
 | ECG             | ECG       | ECG      | -       | 250                | High pass 0.15        | Ag/AgCl patch                         |
-| Thermistor      | Airflow   | Airflow  | -       | 10                 | High pass 0.05        | Compumedics thermistor                |
+| Airflow         | Airflow   | Airflow  | -       | 10                 | High pass 0.05        | Compumedics thermistor                |
 | Thorax          | Thor RES  | Thor RES | -       | 10                 | High pass 0.05        | Respitrace Inductance Plethysmography |
 | Abdomen         | Abdo RES  | Abdo RES | -       | 10                 | High pass 0.05        | Respitrace Inducatnce Plethysmography |
 | Position        | Position  | Position | -       | 1                  | -                     | Compumedics external sensor           |
@@ -35,7 +35,7 @@ The settings below represent the standards set at the beginning of the project. 
 | EMG             | EMG       | EMG      | -       | 128                | High pass 0.15        | Gold cup electrode                    |
 | Left EOG        | EOG(L)    | EOG(L)   | PG1     | 64                 | High pass 0.15        | Gold cup electrode                    |
 | Right EOG       | EOG(R)    | EOG(R)   | PG1     | 64                 | High pass 0.15        | Gold cup electrode                    |
-| Thermistor      | Airflow   | Airflow  | -       | 8                  | High pass 0.05        | Compumedics thermistor                |
+| Airflow         | Airflow   | Airflow  | -       | 8                  | High pass 0.05        | Compumedics thermistor                |
 | Abdomen         | Thor RES  | Thor RES | -       | 8                  | High pass 0.05        | Respitrace Inductance Plethysmography |
 | Thorax          | Abdo RES  | Abdo RES | -       | 8                  | High pass 0.05        | Respitrace Inductance Plethysmography |
 | Position        | Position  | Position | -       | 1                  | -                     | Compumedics external sensor           |
