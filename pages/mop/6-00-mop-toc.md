@@ -35,8 +35,6 @@
     - [6.6.2.8 Dealing with ambiguous respiratory events](:pages_path:/mop/6-628-mop-dealing-with-ambiguous-respiratory-events.md)
 - [6.7 QS Form - Scoring Notes](:pages_path:/mop/6-70-mop-qs-form-scoring-notes.md)
 - [Appendix A – List of Illustrations](:pages_path:/mop/6-AA-mop-list-of-illustrations.md)
-- [Appendix B – Sample QS Form](:pages_path:/mop/6-AB-mop-sample-qs-form.md)
-- [Appendix C – Sample Participant Feedback – Sleep Report](:pages_path:/mop/6-AC-mop-sample-participant-feedback-sleep-report.md)
 
 <hr class="soften" style="margin-top: 20px;margin-bottom: 20px;"/>
 
