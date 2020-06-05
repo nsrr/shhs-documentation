@@ -4,6 +4,18 @@ The Sleep Heart Health Study (SHHS) is a multi-center cohort study implemented
 
 Read more about SHHS at [ClinicalTrials.gov (NCT00005275)](http://clinicaltrials.gov/ct2/show/NCT00005275).
 
+## Citation and acknowledgement
+
+When using this dataset, please cite the following:
+
+> [Zhang GQ, Cui L, Mueller R, Tao S, Kim M, Rueschman M, Mariani S, Mobley D, Redline S. The National Sleep Research Resource: towards a sleep data commons. J Am Med Inform Assoc. 2018 Oct 1;25(10):1351-1358. doi: 10.1093/jamia/ocy064. PMID: 29860441; PMCID: PMC6188513.](https://pubmed.ncbi.nlm.nih.gov/29860441/)
+>
+> Quan SF, Howard BV, Iber C, Kiley JP, Nieto FJ, O'Connor GT, Rapoport DM, Redline S, Robbins J, Samet JM, Wahl PW. The Sleep Heart Health Study: design, rationale, and methods. Sleep. 1997 Dec;20(12):1077-85. PMID: 9493915.
+
+Please include the following text in the Acknowledgements:
+
+> The Sleep Heart Health Study was supported by the National Institutes of Health, National Heart Lung and Blood Institute (U01HL53916, U01HL53931, U01HL53934, U01HL53937, U01HL53938, U01HL53940, U01HL53941, U01HL64360). The National Sleep Research Resource was supported by the National Institutes of Health, National Heart Lung and Blood Institute (R24 HL114473, RFP 75N92019R002).
+
 ## Data overview
 
 **[/datasets](:files_path:/datasets)** ([introduction](:pages_path:/04-dataset-introduction.md)) <br/> Core data from SHHS Visit 1 and Visit 2, as well as longitudinal CVD Outcomes tracking.
@@ -51,14 +63,3 @@ NSRR user Ciprian Crainiceanu and colleagues wrote an E-book titled [*Methods in
 ## Publication links
 
 - [Related SHHS Publications](:pages_path:/PUBLICATIONS.md)
-
-## Citation
-
-When citing this dataset please use:
-
-1. Dean DA 2nd, Goldberger AL, Mueller R, Kim M, Rueschman M, Mobley D, Sahoo SS, Jayapandian CP, Cui L, Morrical MG, Surovec S, Zhang GQ, Redline S. [**Scaling Up Scientific Discovery in Sleep Medicine: The National Sleep Research Resource.**](https://www.ncbi.nlm.nih.gov/pubmed/27070134) Sleep. 2016 May 1;39(5):1151-64. doi: 10.5665/sleep.5774. Review. PubMed PMID: 27070134; PubMed Central PMCID: PMC4835314.
-2. Zhang GQ, Cui L, Mueller R, Tao S, Kim M, Rueschman M, Mariani S, Mobley D, Redline S. [**The National Sleep Research Resource: towards a sleep data commons.**](https://www.ncbi.nlm.nih.gov/pubmed/29860441) J Am Med Inform Assoc. 2018 May 31. doi: 10.1093/jamia/ocy064. [Epub ahead of print] PubMed PMID: 29860441.
-3. Quan SF, Howard BV, Iber C, Kiley JP, Nieto FJ, O'Connor GT, Rapoport DM, Redline S, Robbins J, Samet JM, Wahl PW. [**The Sleep Heart Health Study: design, rationale, and methods.**](https://www.ncbi.nlm.nih.gov/pubmed/9493915) Sleep. 1997 Dec;20(12):1077-85. PubMed PMID: 9493915.
-4. Redline S, Sanders MH, Lind BK, Quan SF, Iber C, Gottlieb DJ, Bonekat WH, Rapoport DM, Smith PL, Kiley JP. [**Methods for obtaining and analyzing unattended polysomnography data for a multicenter study. Sleep Heart Health Research Group.**](https://www.ncbi.nlm.nih.gov/pubmed/11300121) Sleep. 1998 Nov 1;21(7):759-67. PubMed PMID: 11300121.
-
-Supported by grants (U01HL53916, U01HL53931, U01HL53934, U01HL53937, U01HL53938, U01HL53940, U01HL53941, U01HL64360) from the National Institutes of Health.
