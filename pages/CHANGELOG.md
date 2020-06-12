@@ -1,3 +1,7 @@
+### June 12, 2020
+
+- Updated suggested citation and acknowledgement language
+
 ### February 14, 2020
 
 - Remove extraneous appendices from MOP pages
