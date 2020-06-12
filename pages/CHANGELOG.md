@@ -1,6 +1,6 @@
 ### June 12, 2020
 
-- Updated suggested citation and acknowledgement language
+- Update suggested citation and acknowledgement language
 
 ### February 14, 2020
 
