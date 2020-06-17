@@ -14,7 +14,7 @@ When using this dataset, please cite the following:
 
 Please include the following text in the Acknowledgements:
 
-> The Sleep Heart Health Study (SHHS) was supported by the National Heart, Lung, and Blood Institute (U01HL53916, U01HL53931, U01HL53934, U01HL53937, U01HL53938, U01HL53940, U01HL53941, U01HL64360). The National Sleep Research Resource was supported by the National Heart, Lung, and Blood Institute (R24 HL114473, RFP 75N92019R002).
+> The Sleep Heart Health Study (SHHS) was supported by National Heart, Lung, and Blood Institute cooperative agreements U01HL53916 (University of California, Davis), U01HL53931 (New York University), U01HL53934 (University of Minnesota), U01HL53937 and U01HL64360 (Johns Hopkins University), U01HL53938 (University of Arizona), U01HL53940 (University of Washington), U01HL53941 (Boston University), and U01HL63463 (Case Western Reserve University). The National Sleep Research Resource was supported by the National Heart, Lung, and Blood Institute (R24 HL114473, RFP 75N92019R002).
 
 ## Data overview
 
