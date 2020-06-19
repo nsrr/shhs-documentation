@@ -16,7 +16,8 @@ The settings below represent the standards set at the beginning of the project. 
 | Abdomen         | Abdo RES  | Abdo RES | -       | 10                 | High pass 0.05        | Respitrace Inducatnce Plethysmography                                                |
 | Position        | Position  | Position | -       | 1                  | High pass 0.05        | Internal mercury gauge                                                               |
 | Light           | Light     | Light    | -       | 1                  | -                     | External ambient light sensor                                                        |
-| Airflow         | New Air   | New Air  | -       | 10                 | High pass 0.05        | Compumedics thermistor (AUX channel 12)/ProTech thermistor M325 (New Air channel 17) |
+| Airflow         | New Air   | New Air  | -       | 10                 | High pass 0.05        | ProTech thermistor M325 (New Air channel 17) |
+|Airflow (alternate) | Airflow | Airflow | - | 10 | High pass 0.05 | Compumedics thermistor (AUX channel 12) |
 | Oximetry Status | OX STAT   | OX STAT  | -       | 1                  | -                     | Nonin XPOD 3011, 8000 sensor                                                         |
 | REF             | -         | Fpz      | -       | -                  | -                     | -                                                                                    |
 | Ground          | -         | PG1      | -       | -                  | -                     | -                                                                                    |
