@@ -84,4 +84,4 @@ _SHHS2_: There were 5 cases without any NN intervals (200858, 201622, 202164, 20
 
 ## References
 
-The open source code used for this analysis along with a tutorial on its use is available at the NIH-sponsored Research Resource for Complex Physiologic Signals: http://physionet.org/tutorials/hrv-toolkit/
+The open source code used for this analysis along with a tutorial on its use is available at the NIH-sponsored Research Resource for Complex Physiologic Signals: https://physionet.org/content/pcst/1.0.0/
