@@ -52,6 +52,10 @@ Please include the following text in the Acknowledgements:
 
 Read about the [methods, validation, and results for the NSRR HRV analysis efforts](:pages_path:/13-hrv-analysis.md). There are [summary datasets available](:files_path:/datasets/hrv-analysis) and the [included variables can be browsed here](https://www.sleepdata.org/datasets/shhs/variables?folder=HRV+Analysis).
 
+## EEG Biomarkers
+
+[Dataset](https://sleepdata.org/datasets/shhs/files/datasets/hrv-analysis) of 5782 observations of 64 EEG biomarker variables supplied by Magdy Younes, a number of relevant resources (such as [Younes et al. 2021](https://pubmed.ncbi.nlm.nih.gov/34156473/)) are included in variable descriptions. The full set of variables can be browsed [here](https://sleepdata.org/datasets/shhs/variables?search=eeg_shhs).
+
 ## Methods in Biostatistics with R
 
 NSRR user Ciprian Crainiceanu and colleagues wrote an E-book titled [*Methods in Biostatistics with R*](https://leanpub.com/biostatmethods) that uses a subset of SHHS data for many coding examples. The book-specific dataset is [available here for download](:files_path:/biostatistics-with-r).
