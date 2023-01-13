@@ -54,7 +54,7 @@ Read about the [methods, validation, and results for the NSRR HRV analysis effor
 
 ## EEG Biomarkers
 
-[Dataset](https://sleepdata.org/datasets/shhs/files/datasets/hrv-analysis) of 5782 observations of 64 EEG biomarker variables supplied by Magdy Younes, a number of relevant resources (such as [Younes et al. 2021](https://pubmed.ncbi.nlm.nih.gov/34156473/)) are included in variable descriptions. The full set of variables can be browsed [here](https://sleepdata.org/datasets/shhs/variables?search=eeg_shhs).
+[Dataset](:files_path:/datasets/eeg-biomarkers) of 5782 observations of 64 EEG biomarker variables supplied by Magdy Younes, a number of relevant resources (such as [Younes et al. 2021](https://pubmed.ncbi.nlm.nih.gov/34156473/)) are included in variable descriptions. The full set of variables can be browsed [here](https://sleepdata.org/datasets/shhs/variables?search=eeg_shhs).
 
 ## Methods in Biostatistics with R
 
