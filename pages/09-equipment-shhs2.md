@@ -13,7 +13,7 @@ Snap electrodes were used for GND, REF, EOGs, Chin EMG, A1,A2, centrals, and ECG
 Nonin XPOD Model 3011, proprietary attachment to recording unit. Finger sensor 8000J. Some sites employed re-usable sensors with flexi-fit sensor covers, some sites (Tucson) used disposable finger sensors. Both sensors had identical circuitry boards.
 
 ## Thermistry
-ProTech  thermister M325.  This thermocouple  used the "auxiliary" channel as designated on the PIB (Channel 17)
+Compumedics Triple thermistor, a Y shaped chassis with nasal and oral bead sensors.
 
 ## Effort Belts
 Belts for SHHS2 were the same as used for SHHS1: White Respitrace Inductance Plethysmography; there was no SUM signal generation. Respitrace no longer produced the belts so Compumedics refurbished the original bands used in SHHS1, and continued to provide repair service when needed.
